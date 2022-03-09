@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "family/林曼丽.md",
+            "file": "music/music.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "family/林曼丽.md",
+                "file": "music/music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,12 @@
   },
   "active": "d83424d25c989c6f",
   "lastOpenFiles": [
-    "family/林曼丽.md",
+    "music/music.md",
+    "music/nagarenokumo.png",
     "family/family.md",
+    "family/林曼丽.md",
+    "family/manli_ID2.jpeg",
+    "family/manli_ID1.jpeg",
     "pilyp-snippets.md",
     "README.md"
   ]
