@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "6277041222dd0de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5045ff1d662dd6c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "intro-to-electronics.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb26562687483bbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "73285e984e3033b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04fb61ff048f174d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "91c2d6c3b4a031a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72ff1b38510abf7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7272a12b4d095e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a41a3ea9a04c6f78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "intro-to-electronics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5045ff1d662dd6c2",
+  "lastOpenFiles": [
+    "intro-to-electronics.md",
+    "google.com.md"
+  ]
+}

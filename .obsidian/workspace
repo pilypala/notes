@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "54f6c9430fdeab77",
+    "type": "split",
+    "children": [
+      {
+        "id": "d83424d25c989c6f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "family/林曼丽.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0dbe6fb53561a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "2491c437d5a53135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d90b2e620423bf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ec094fdfbd1d046",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e0b0e4eeeb83865",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a7d732802bce36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad85864e1e2646df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "family/林曼丽.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d83424d25c989c6f",
+  "lastOpenFiles": [
+    "family/林曼丽.md",
+    "family/family.md",
+    "pilyp-snippets.md",
+    "README.md"
+  ]
+}
