@@ -1,5 +1,23 @@
 [[pilyp-snippets]]
 
+
+
+## 3/13/2022, 1:29:39 PM
+### 独家推荐｜仅26.8万｜俄业主本周急售2套｜中天生活区超级便利
+https://www.youtube.com/watch?v=8F12Wp_OmOA
+![[pattaya-jomtien.png]]
+
+### Why the Top Students Never Wake Up Early to Study
+https://www.youtube.com/watch?v=c0fp7kB2vuU
+### # How to Beat Procrastination
+https://www.youtube.com/watch?v=eXVOKNRipq0
+1. non-negotiable habits
+2. accountability anchors
+3. self-development
+
+#### Why I'm able to study 10 hours per day (how to stay focused)
+https://www.youtube.com/watch?v=uW34WLxEfE4
+
 ## 3/12/2022, 12:30:36 PM
 ### active recall
 https://www.youtube.com/watch?v=MSq-KGj_cnY
