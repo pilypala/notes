@@ -1,8 +1,24 @@
 [[pilyp-snippets]]
 
+## 3/14/2022, 6:19:34 AM
+泰国 芭提雅 泰国芭提雅|美娜带你看中天海景公寓，无敌海景，交通便利，大开间，约54万RMB
+https://www.youtube.com/watch?v=XUcSZgNbqzk
 
+2 Rules That Make Studying EFFORTLESS
+https://www.youtube.com/watch?v=W7REYJNC2is
+1. organize study around life
+2. embrace challenges
 
 ## 3/13/2022, 1:29:39 PM
+### Zettelkasten: Note taking that 10X your learning
+https://www.youtube.com/watch?v=eLr5Gaxd5Kg
+1. Encourages ppl to read a lot
+2. Encourage ppl to write a lot, triggering the neural pathways
+3. Routinely review notes, connecting notes
+
+###  Zettelkasten Obsidian Tutorial (Simplest way)
+https://www.youtube.com/watch?v=ATXERF3MiIY
+
 ### 独家推荐｜仅26.8万｜俄业主本周急售2套｜中天生活区超级便利
 https://www.youtube.com/watch?v=8F12Wp_OmOA
 ![[pattaya-jomtien.png]]
