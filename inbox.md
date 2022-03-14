@@ -1,6 +1,11 @@
 [[pilyp-snippets]]
 
 ## 3/14/2022, 6:19:34 AM
+### This Study Technique ELIMINATED My Need to Revise
+https://www.youtube.com/watch?v=gEKo3jINwYg
+1. Teaching effect
+2. 
+
 泰国 芭提雅 泰国芭提雅|美娜带你看中天海景公寓，无敌海景，交通便利，大开间，约54万RMB
 https://www.youtube.com/watch?v=XUcSZgNbqzk
 
