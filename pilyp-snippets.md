@@ -1,11 +1,11 @@
 
 timestamp
 
-	console.log(new Date().toLocaleString());
+	copy(new Date().toLocaleString('en-ZA').split(',')[0])
 
 zettel id
 
-	"".replaceAll(' ', '-').toLowerCase();
+	copy("".replaceAll(' ', '-').toLowerCase());
 
 
 https://stackoverflow.com/questions/3458685/how-can-i-completely-remove-a-file-from-a-git-repository
