@@ -1,6 +1,12 @@
 [[pilyp-snippets]]
 
-## 3/14/2022, 6:19:34 AM
+### 2022/03/15
+
+https://www.taijuaa.com/player/14156-1-1.html
+https://www.youtube.com/watch?v=4sVUDOPuxQs
+
+### 2022/03/14
+
 ### This Study Technique ELIMINATED My Need to Revise
 https://www.youtube.com/watch?v=gEKo3jINwYg
 1. Teaching effect
