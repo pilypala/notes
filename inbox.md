@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=F2EZP8Tufzg
 * curiosity
 * gradually increase focus
-*  b 
+* 
 landem
 
 ### My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide
