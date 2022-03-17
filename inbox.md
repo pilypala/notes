@@ -1,11 +1,25 @@
 [[pilyp-snippets]]
 
-### 2022/03/15
+### How to focus when studying from home
+https://www.youtube.com/watch?v=F2EZP8Tufzg
+* curiosity
+* gradually increase focus
+*  b 
+landem
+
+### My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide
+https://www.youtube.com/watch?v=E6ySG7xYgjY
+* templates
+	* date time
+* admonition
+* ctrl-o to create notes
+
+## 2022/03/15
 
 https://www.taijuaa.com/player/14156-1-1.html
 https://www.youtube.com/watch?v=4sVUDOPuxQs
 
-### 2022/03/14
+## 2022/03/14
 
 ### This Study Technique ELIMINATED My Need to Revise
 https://www.youtube.com/watch?v=gEKo3jINwYg
@@ -36,13 +50,13 @@ https://www.youtube.com/watch?v=8F12Wp_OmOA
 
 ### Why the Top Students Never Wake Up Early to Study
 https://www.youtube.com/watch?v=c0fp7kB2vuU
-### # How to Beat Procrastination
+### How to Beat Procrastination
 https://www.youtube.com/watch?v=eXVOKNRipq0
 1. non-negotiable habits
 2. accountability anchors
 3. self-development
 
-#### Why I'm able to study 10 hours per day (how to stay focused)
+### Why I'm able to study 10 hours per day (how to stay focused)
 https://www.youtube.com/watch?v=uW34WLxEfE4
 
 ## 3/12/2022, 12:30:36 PM
