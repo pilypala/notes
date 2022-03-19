@@ -1,5 +1,7 @@
 [[pilyp-snippets]]
 
+### [20分钟详解 - 俄罗斯经济到底是怎么回事儿？](https://www.youtube.com/watch?v=aJ957mEAFis)
+
 ### 	[# Interleaving vs Spaced repetition | Study hacks](https://www.youtube.com/watch?v=J-O5Y3TwrUk)
 
 ### [This Book Changed my Love Life](https://www.youtube.com/watch?v=kM0ZADKIXU8)
@@ -12,11 +14,6 @@
 
 ### How to focus when studying from home
 https://www.youtube.com/watch?v=F2EZP8Tufzg
-* curiosity
-* gradually increase focus
-* 
-landem
-=======
 *  curiosity
 *  gradually increase focus
 *  set time for work
@@ -91,17 +88,7 @@ https://www.youtube.com/watch?v=MSq-KGj_cnY
 6. mindmaps
 7. teach each other
 
-### 2hrs a day
-https://www.youtube.com/watch?v=24ecRKfEweU
-
-1. 3D's 
-	1. Define
-	2. Go Digital
-		1. flash card
-	3. Deep work
-		1. no multi-tasking
-		2. pomodoro
-		3. make it ritual
+### [[2hrs a day]]
 
 ## 3/10/2022, 3:12:48 AM
 * Obsidian for beginners: Building a second brain from scratch
