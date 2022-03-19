@@ -1,11 +1,29 @@
 [[pilyp-snippets]]
 
+### 	[# Interleaving vs Spaced repetition | Study hacks](https://www.youtube.com/watch?v=J-O5Y3TwrUk)
+
+### [This Book Changed my Love Life](https://www.youtube.com/watch?v=kM0ZADKIXU8)
+
+### [The Best Book I've Ever Read about Making Money](https://www.youtube.com/watch?v=Gx2vyi4JcV0)
+* Avoid slow lane
+* wealth is not an event
+* build money tree
+* 
+
 ### How to focus when studying from home
 https://www.youtube.com/watch?v=F2EZP8Tufzg
 * curiosity
 * gradually increase focus
 * 
 landem
+=======
+*  curiosity
+*  gradually increase focus
+*  set time for work
+* environment
+* hooks, get a landem
+* conditon on music, lofi
+* 
 
 ### My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide
 https://www.youtube.com/watch?v=E6ySG7xYgjY
