@@ -1,5 +1,7 @@
 [[mosfet-symbols]]
 
+### [(13) Working of Transistors | MOSFET - YouTube](https://www.youtube.com/watch?v=stM8dgcY1CA)
+
 ### [(5) What are the Different Regions of Operation for a FET? | Intermediate Electronics - YouTube](https://www.youtube.com/watch?v=o3M2sOCGCKs&list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC&index=17)
 
 

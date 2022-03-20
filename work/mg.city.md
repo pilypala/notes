@@ -1,8 +1,25 @@
 [[pilyp-snippets]]
 
-[[2022-03-19]]
+## 2022-03-20
+### [一起设计12V转5V模块，开关电源物料怎么选？How to Design 12V to 5V Buck Converter #3: Selection of Materials - YouTube](https://www.youtube.com/watch?v=hwi66PWVf_I)
 
-2022/03/19
+![[dc-dc buck converter topology.png]]
+
+* The larger the inductor, the less the ripple
+* Inductor max saturation current needs to be larger than required
+* ![[Inductor inductance vs Istat.png]]
+* ![[dc-dc input capcitor choice.png]]
+* ![[dc-dc output capcitor choice.png]]
+* ![[dc-dc sw frequency.png]]
+
+### [新手不要怕！5分钟带你入门开关电源PCB设计 How to Design 12V to 5V Buck Converter #4: Beginner Guide to PCB Design - YouTube](https://www.youtube.com/watch?v=W3furVRQ9UQ&list=PLBpCr1fi_kFbyh0TMSjQk9jeb3ThH9svX&index=4)
+* MP2315
+* 通顺
+* 防干扰
+
+
+
+## 2022-03-19
 ### Solidworks - Editing Linear Sketch Pattern https://www.youtube.com/watch?v=COJ5z7QHrOE
  * Right click -> edit linear pattern
 
