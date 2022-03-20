@@ -15,6 +15,7 @@
 -   [ ] tent via
 
 
+
 ### [Tutorial 2 for Altium Beginners: How to create footprints - YouTube](https://www.youtube.com/watch?v=wxYbIGV9_CY&t=552s)
 
 -   [ ] tools → footprint wizard
@@ -33,6 +34,7 @@
 -   [ ] top layer → set line width = 0.2mm
 -   [ ] .23 x 0.1 (size of header in inch, or 230mil x 100mil
 -   [ ] J to jump to new position
+
 
 
 
@@ -55,6 +57,7 @@
 
 
 
+### Altium
 [Tutorial 1 for Altium Beginners: How to draw schematic and create schematic symbols](https://www.youtube.com/watch?v=KpgTud1iQ-4)
 
 -   [ ] system → mouse wheel → zoom main window
