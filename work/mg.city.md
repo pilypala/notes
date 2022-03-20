@@ -1,5 +1,7 @@
 [[pilyp-snippets]]
 
+[[2022-03-19]]
+
 2022/03/19
 ### Solidworks - Editing Linear Sketch Pattern https://www.youtube.com/watch?v=COJ5z7QHrOE
  * Right click -> edit linear pattern

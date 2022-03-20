@@ -1,8 +1,6 @@
 [[mosfet-symbols]]
-[How to REMEMBER what you read](https://www.youtube.com/watch?v=H-vjo96n2JM&t=218s)
-1. ask quirky questions on the material and use them on anki
-2.QandA form
-3. atomic questions
+
+### [(5) What are the Different Regions of Operation for a FET? | Intermediate Electronics - YouTube](https://www.youtube.com/watch?v=o3M2sOCGCKs&list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC&index=17)
 
 
 https://electronicscoach.com/difference-between-jfet-and-mosfet.html
@@ -10,7 +8,9 @@ https://electronicscoach.com/difference-between-jfet-and-mosfet.html
 ### [How Does a MOSFET Work?](https://www.youtube.com/watch?v=rkbjHNEKcRw)
 
 
-## [How a MOSFET Works - with animation! | Intermediate Electronics](https://www.youtube.com/watch?v=Bfvyj88Hs_o)
+### [(5) How a MOSFET Works - with animation! | Intermediate Electronics - YouTube](https://www.youtube.com/watch?v=Bfvyj88Hs_o&list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC&index=15)
+* S and D are at equal or higher than the substrate (reverse biased)
+
 
 ### [How does a diode work - the PN Junction (with animation) | Intermediate Electronics](https://www.youtube.com/watch?v=n2S7kN12RDQ&list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC)
 1. undoped intrinsic semiconductor material, free electron and holes are equal.

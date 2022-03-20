@@ -1,8 +1,15 @@
 [[pilyp-snippets]]
 
+[How to REMEMBER what you read](https://www.youtube.com/watch?v=H-vjo96n2JM&t=218s)
+1. ask quirky questions on the material and use them on anki
+2.QandA form
+3. atomic questions
+
+
+
 ### [20分钟详解 - 俄罗斯经济到底是怎么回事儿？](https://www.youtube.com/watch?v=aJ957mEAFis)
 
-### 	[# Interleaving vs Spaced repetition | Study hacks](https://www.youtube.com/watch?v=J-O5Y3TwrUk)
+### [Interleaving vs Spaced repetition | Study hacks](https://www.youtube.com/watch?v=J-O5Y3TwrUk)
 
 ### [This Book Changed my Love Life](https://www.youtube.com/watch?v=kM0ZADKIXU8)
 
