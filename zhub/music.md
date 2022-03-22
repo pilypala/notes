@@ -12,3 +12,13 @@ D75
 [[performance]]
 
 [[酷音]]
+
+![[music keys sharps and flats.png]]
+
+sharp count 4152637
+
+![[up up mid down down.png]]
+
+- [[16L]]
+- 16M
+- 16H

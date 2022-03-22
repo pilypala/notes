@@ -32,8 +32,6 @@
 		- atomic and interconnection
 		- don't include anything obvious
 		- only write down things you passionate about
-		- 
-
 
 
 ## Zettelkasten: How to link and Organize notes (with 🎯 Hub Notes & Obsidian)
