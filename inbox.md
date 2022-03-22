@@ -5,8 +5,6 @@
 2.QandA form
 3. atomic questions
 
-
-
 ### [20分钟详解 - 俄罗斯经济到底是怎么回事儿？](https://www.youtube.com/watch?v=aJ957mEAFis)
 
 ### [Interleaving vs Spaced repetition | Study hacks](https://www.youtube.com/watch?v=J-O5Y3TwrUk)
