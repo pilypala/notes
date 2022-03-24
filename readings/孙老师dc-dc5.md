@@ -7,7 +7,7 @@ sr-ease: 210
 #review
 
 what is up::dont know
-<!--SR:!2022-03-24,2,240-->
+<!--SR:!2022-03-31,7,260-->
 
 [(144) 开关电源测试：如何让你的电源模块更强大 滤波电容越大越好嘛？Design 12V to 5V Buck Converter #5：Final Test - YouTube](https://www.youtube.com/watch?v=g-vXXM3pA3I&list=PLBpCr1fi_kFbyh0TMSjQk9jeb3ThH9svX&index=5)
 

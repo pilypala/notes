@@ -1,5 +1,9 @@
 [[pilyp-snippets]]
 
+[(30) 为什么芭提雅100万以内的廉价别墅99%在东区，为什么不能买？ - YouTube](https://www.youtube.com/watch?v=BzuNbIhX1HU)
+
+[20 rules of knowledge formulation - supermemo.guru](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation)
+
 [How to REMEMBER what you read](https://www.youtube.com/watch?v=H-vjo96n2JM&t=218s)
 1. ask quirky questions on the material and use them on anki
 2.QandA form
