@@ -1,3 +1,5 @@
+[[lasercube_esp32 secure boot verification failed]]
+
 ```bash
 source ../../../../esp_expressive_sdk_tools_wificube_020920/esp/esp-idf/export.sh
 
@@ -7,7 +9,7 @@ idf.py monitor -p /dev/ttyUSB1
 idf.py monitor -p /dev/ttyUSB3
 
 cd /home/pilypala/__work/__wl/2019_04_19_laserdock_factory/laserdock_factory_utilities.git/esp32wificube 
-./ld2
+./2
 ```
 
 ```bash
