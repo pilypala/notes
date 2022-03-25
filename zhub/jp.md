@@ -1,6 +1,7 @@
 ### [(11) EP-94 ジャニーズって知ってる？ Do you know "Johnny's"?(N2) - YouTube](https://www.youtube.com/watch?v=SSvnTA8fKyE)
 
 
+### [[【一部始終】「やばい・・・」ロシア軍が“市民”を銃撃(2022年3月22日)]]
 
 ### といった (to itta)
 https://jlptsensei.com/learn-japanese-grammar/%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F-to-itta-meaning/
