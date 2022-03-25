@@ -1,13 +1,13 @@
 [[pilyp-snippets]]
 
-[(30) 为什么芭提雅100万以内的廉价别墅99%在东区，为什么不能买？ - YouTube](https://www.youtube.com/watch?v=BzuNbIhX1HU)
-
-[20 rules of knowledge formulation - supermemo.guru](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation)
-
-[How to REMEMBER what you read](https://www.youtube.com/watch?v=H-vjo96n2JM&t=218s)
-1. ask quirky questions on the material and use them on anki
-2.QandA form
-3. atomic questions
+-  [(3) 我为什么和泰国女友分手？泰国女人都是骗子吗？我离开安以后这三个月是怎么过的？ - YouTube](https://www.youtube.com/watch?v=cvRDrbP89Ec)
+-  [亏50万卖！英国房东出售芭提雅中天海景房 房子虽老价格还算不错 - YouTube](https://www.youtube.com/watch?v=u4Y5h6kFz_w)
+-  [(30) 为什么芭提雅100万以内的廉价别墅99%在东区，为什么不能买？ - YouTube](https://www.youtube.com/watch?v=BzuNbIhX1HU)
+- [20 rules of knowledge formulation - supermemo.guru](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation)
+- [How to REMEMBER what you read](https://www.youtube.com/watch?v=H-vjo96n2JM&t=218s)
+	1. ask quirky questions on the material and use them on anki
+	2.QandA form
+	1. atomic questions
 
 ### [20分钟详解 - 俄罗斯经济到底是怎么回事儿？](https://www.youtube.com/watch?v=aJ957mEAFis)
 
@@ -16,27 +16,27 @@
 ### [This Book Changed my Love Life](https://www.youtube.com/watch?v=kM0ZADKIXU8)
 
 ### [The Best Book I've Ever Read about Making Money](https://www.youtube.com/watch?v=Gx2vyi4JcV0)
-* Avoid slow lane
-* wealth is not an event
-* build money tree
-* 
+- Avoid slow lane
+- wealth is not an event
+- build money tree
+- 
 
 ### How to focus when studying from home
 https://www.youtube.com/watch?v=F2EZP8Tufzg
-*  curiosity
-*  gradually increase focus
-*  set time for work
-* environment
-* hooks, get a landem
-* conditon on music, lofi
-* 
+-  curiosity
+-  gradually increase focus
+-  set time for work
+- environment
+- hooks, get a landem
+- conditon on music, lofi
+- 
 
 ### My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide
 https://www.youtube.com/watch?v=E6ySG7xYgjY
-* templates
-	* date time
-* admonition
-* ctrl-o to create notes
+- templates
+	- date time
+- admonition
+- ctrl-o to create notes
 
 ## 2022/03/15
 
@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=MSq-KGj_cnY
 1. pretest
 2. stop and recite
 3. create in class questions
-	* what, how, why
+	- what, how, why
 4. immediate review
 	1. answer the prewritten questions
 	2. go through lecture slides and recall
@@ -100,10 +100,10 @@ https://www.youtube.com/watch?v=MSq-KGj_cnY
 ### [[2hrs a day]]
 
 ## 3/10/2022, 3:12:48 AM
-* Obsidian for beginners: Building a second brain from scratch
+- Obsidian for beginners: Building a second brain from scratch
 https://www.youtube.com/watch?v=njibNuFQwjw
 
-* I stopped taking notes in medical school
+- I stopped taking notes in medical school
 https://www.youtube.com/watch?v=JNJJEFzaOiA
 
 1. Dont go to lecture, only watch video to study on my own pace
