@@ -1,0 +1,3 @@
+- [(3) 舞哥在泰国，芭提雅养老房产投资，最佳区域价值，干货满满不入坑#泰国养老 - YouTube](https://www.youtube.com/watch?v=QdbHnSMQV3c)
+- [Districts of Pattaya](https://online-pattaya.com/districts-of-pattaya)
+	- Prataumnak
