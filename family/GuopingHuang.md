@@ -28,3 +28,11 @@ Suitcase:  267
 [microsoft]
 
 [pilypala@gmail.com](mailto:pilypala@gmail.com) : 49Z5QkpM
+
+- xiaogua qq
+	- 2514342774: 18503xiaogua
+	- 13850113603
+
+![[google_backup_codes.pdf]]
+
+![[Guoping US bank transfer.png]]
