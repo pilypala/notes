@@ -1,4 +1,9 @@
-[[pilyp-snippets]]
+---
+sr-due: 2022-03-29
+sr-interval: 1
+sr-ease: 230
+---
+#review 
 
 ## 2022-03-20
 ### [一起设计12V转5V模块，开关电源物料怎么选？How to Design 12V to 5V Buck Converter #3: Selection of Materials - YouTube](https://www.youtube.com/watch?v=hwi66PWVf_I)

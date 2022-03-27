@@ -1,8 +1,16 @@
-[[pilyp-snippets]]
+---
+sr-due: 2022-03-29
+sr-interval: 1
+sr-ease: 210
+---
+
+#review 
+
 
 > “Life is the most difficult exam. Many people fail because they try to copy others, not realizing that everyone has a different question paper.”
 > 
 > — [**Jeremy McGilvrey**](https://quotestoenjoy.com/home/authors/authors-j/jeremy-mcgilvrey/?amp)
+
 
 -  [(3) 我为什么和泰国女友分手？泰国女人都是骗子吗？我离开安以后这三个月是怎么过的？ - YouTube](https://www.youtube.com/watch?v=cvRDrbP89Ec)
 	-  
@@ -14,8 +22,6 @@
 	2.QandA form
 	1. atomic questions
 
-### [20分钟详解 - 俄罗斯经济到底是怎么回事儿？](https://www.youtube.com/watch?v=aJ957mEAFis)
-
 ### [Interleaving vs Spaced repetition | Study hacks](https://www.youtube.com/watch?v=J-O5Y3TwrUk)
 
 ### [This Book Changed my Love Life](https://www.youtube.com/watch?v=kM0ZADKIXU8)
@@ -24,7 +30,6 @@
 - Avoid slow lane
 - wealth is not an event
 - build money tree
-- 
 
 ### How to focus when studying from home
 https://www.youtube.com/watch?v=F2EZP8Tufzg
