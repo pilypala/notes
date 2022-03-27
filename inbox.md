@@ -1,5 +1,9 @@
 [[pilyp-snippets]]
 
+> “Life is the most difficult exam. Many people fail because they try to copy others, not realizing that everyone has a different question paper.”
+> 
+> — [**Jeremy McGilvrey**](https://quotestoenjoy.com/home/authors/authors-j/jeremy-mcgilvrey/?amp)
+
 -  [(3) 我为什么和泰国女友分手？泰国女人都是骗子吗？我离开安以后这三个月是怎么过的？ - YouTube](https://www.youtube.com/watch?v=cvRDrbP89Ec)
 	-  
 -  [亏50万卖！英国房东出售芭提雅中天海景房 房子虽老价格还算不错 - YouTube](https://www.youtube.com/watch?v=u4Y5h6kFz_w)

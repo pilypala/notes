@@ -18,6 +18,9 @@
 	- shift-opt-down to go octave down
 	- shift-opt drag to make notes same length
 
+
+- [(68) Mixing SSD5 Free Like Real Drums in Studio One V4 - YouTube](https://www.youtube.com/watch?v=9nlDdW_ZN6I)
+
 - [[mixing drums]]
 
 - [(79) LOGIC PRO X 101 - #08 Mixing the Drums - YouTube](https://www.youtube.com/watch?v=jFy8r2HrwwU)
