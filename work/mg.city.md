@@ -5,6 +5,12 @@ sr-ease: 230
 ---
 #review 
 
+### components
+- MP2225GJ-Z TSOT23-8
+	- [[TSOT23]]
+	- [[altium create schematic component]]
+	- ![[MP2225 5V-5A reference circuit.png]]
+
 [[孙老师dc-dc5]]
 
 - [一起设计12V转5V模块，开关电源物料怎么选？How to Design 12V to 5V Buck Converter #3: Selection of Materials - YouTube](https://www.youtube.com/watch?v=hwi66PWVf_I)
@@ -20,7 +26,6 @@ sr-ease: 230
 	- MP2315
 	- 通顺
 	- 防干扰
-
 
 
 - 2022-03-19

@@ -1,0 +1,11 @@
+- MP2225
+	- ![[MP2225GJ-Z.pdf]]
+	- [[altium]] tutorial 1
+	- supplier search
+	- copy digikey part number
+	- import to lib
+	- grid to 5mm
+	- pin length 5mm
+	- draw rectangle as body
+	- copy schematic symbol from datasheet
+	- put pins down, designator is number, display is pin name
