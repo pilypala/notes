@@ -6,6 +6,8 @@ sr-ease: 249
 
 #review 
 
+- [【脱初心者】中国語ネイティブが会話で使うリアルなフレーズ！ - YouTube](https://www.youtube.com/watch?v=bfLH_Hki2Js)
+	-
 
 - [Lesson 251 – Valentine’s Day & White Day | News in Slow Japanese](https://newsinslowjapanese.com/2022/03/05/lesson-251-valentines-day-white-day/)
 
@@ -18,11 +20,12 @@ sr-ease: 249
 - [NISJ-374-Movie: The Last Ten Years | News in Slow Japanese](https://newsinslowjapanese.com/2022/01/29/nisj-374-movie-the-last-ten-years/)
 
 高林茉莉（たかばやし　まつり）は２０歳の時、数万人に1人という難病にかかり、余命が１0年であることを知りました。茉莉は残された10年は生きることに==執着==することがないように決めます。==恋をして相手の人を残して死ぬのが怖いので==、絶対恋をしないと決めるのです。
-<!--SR:!2022-03-29,3,250-->
+<!--SR:!2022-03-29,3,250!2022-04-01,4,270-->
 
 茉莉は小学校の同窓会で茉莉の初恋の相手、真部和人（まなべ　かずと）と再会します。茉莉と再会した頃、生きる理由なんてどこにもなかった和人は茉莉と出会って、とりあえずやれる事からやってみようと始めます。出会った2人は、この世界が愛おしくなっていくのです。
 
 これは余命10年の作者が命をかけて==綴った==物語です。
+<!--SR:!2022-04-01,4,270-->
 
 - [(11) EP-94 ジャニーズって知ってる？ Do you know "Johnny's"?(N2) - YouTube](https://www.youtube.com/watch?v=SSvnTA8fKyE)
 
