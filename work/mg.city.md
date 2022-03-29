@@ -5,6 +5,11 @@ sr-ease: 230
 ---
 #review 
 
+- ## 2022-03-29
+	- FB = 0.6V
+	- [[smd resistor values]]
+	- 0.6/6.04*(84.5+6.04)
+
 ### components
 - MP2225GJ-Z TSOT23-8
 	- [[TSOT23]]
