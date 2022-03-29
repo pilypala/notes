@@ -4,7 +4,7 @@
 	- supplier search
 	- copy digikey part number
 	- import to lib
-	- grid to 5mm
+	- grid to 5mmw
 	- pin length 5mm
 	- draw rectangle as body
 	- copy schematic symbol from datasheet
