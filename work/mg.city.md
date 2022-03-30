@@ -5,6 +5,9 @@ sr-ease: 230
 ---
 #review 
 
+[[2022-03-30]]
+- [[altium create component footprint]]
+
 - ## 2022-03-29
 	- [MP2225GJ-Z Monolithic Power Systems Inc. | Integrated Circuits (ICs) | DigiKey](https://www.digikey.com/en/products/detail/monolithic-power-systems-inc/MP2225GJ-Z/7361392)
 	- FB = 0.6V
