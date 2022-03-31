@@ -48,6 +48,17 @@
     -   [ ] routing → width → width 0.5mm preferred
     -   [ ] routing via → routing via style 0.6mm, hole 0.3mm
 
+[properties - How can I change all existing designator font sizes on PCB in Altium? - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/433004/how-can-i-change-all-existing-designator-font-sizes-on-pcb-in-altium)
+	
+>Right click on one designator.
+>Select "Find Similar Objects".
+>
+>Set "Object Kind : Text" to "same" Set "String Type : Designator to "same"
+>Then "apply".
+>
+>All designators are now selected.
+>Use the properties panel to edit the text size of all selected texts.
+
 
 - silk to soldermask
 	- silkscreen to soldermask clearance
