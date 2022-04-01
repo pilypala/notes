@@ -1,0 +1,2 @@
+- [(1) 新手不要怕！5分钟带你入门开关电源PCB设计 How to Design 12V to 5V Buck Converter #4: Beginner Guide to PCB Design - YouTube](https://www.youtube.com/watch?v=W3furVRQ9UQ&list=PLBpCr1fi_kFbyh0TMSjQk9jeb3ThH9svX&index=4)
+	- design of PCB

@@ -1,0 +1,3 @@
+- [(9) RetroArch Starter Guide (2022) - YouTube](https://www.youtube.com/watch?v=icGYGriNkF4)
+	- [RetroArch Starter Guide – Retro Game Corps](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/)
+	- 

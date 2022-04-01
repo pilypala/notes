@@ -4,7 +4,11 @@ sr-interval: 2
 sr-ease: 249
 ---
 
+[[How our lives changed after 4 years]]
+
 #review 
+
+- [(190) Walk around Osaka and learn Kanji on the street (Osaka station) - YouTube](https://www.youtube.com/watch?v=o5rIw9w-zVw)
 
 - [【脱初心者】中国語ネイティブが会話で使うリアルなフレーズ！ - YouTube](https://www.youtube.com/watch?v=bfLH_Hki2Js)
 	-

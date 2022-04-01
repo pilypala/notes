@@ -29,3 +29,19 @@ sr-ease: 230
 	- losing focus earlier than pre-planned time, just cut it short
 	- mediation or stroll for rest
 	
+	
+- [(7) Don't Memorise - The Real Consequences of Over-Memorisation - YouTube](https://www.youtube.com/watch?v=a_Coaq-oIsA)
+- [(8) Learn faster and retain more than your friends | E3 Bigger Plate - YouTube](https://www.youtube.com/watch?v=sA8E0rYQcFY)
+	- inquiry based learning
+
+	>1. Be clear on the problem 
+	>2. Hypothesise the solutions
+	>3. Do the learning to solve the problem
+	>
+	>The benefit of starting with the problem first is your learning is grounded in reality vs what you think you need to learn. So you retain it more and learning is an extension of your work or studies vs something seperate
+
+- [(14) Turning your brain off with Focus training | E5 Bigger Plate - YouTube](https://www.youtube.com/watch?v=XKiIretroarchBORcZro)
+	- ability to flip off negative thoughts
+	- anything fullfilling needs stress before it. only overcoming challenge will give you a sense of achievement
+	
+	> Reduce distractions, improve focus, and get to sleep more easily. Calm a racing mind with focus training. Think of it like physical therapy or going to the gym, but for your mind.
