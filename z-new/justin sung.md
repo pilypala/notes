@@ -5,6 +5,33 @@ sr-ease: 230
 ---
 
 #review 
+- ["Commit or Quit" is Toxic | E6 Bigger Plate - YouTube](https://www.youtube.com/watch?v=h8fGC0PXk4k)
+	- high motivation needed = high risk
+	- need a plan that works on bad days
+	- consistency will get us to where you want to be
+	- passive income for life
+
+"Commit or Quit" is Toxic Summary:
+1. Commit or Quit promotes trying harder, no matter what. This is flawed because trying harder when the result doesn’t work for you is insane. 
+2. In most situations it’s not that you’re not trying harder. It’s that the actual direction and process and way the effort is being utilized is false
+3. Trying so hard that you’re livelihood and mental health is damaged means effort isn’t the issue
+
+What we should do:
+1. Find the plan of least resistance
+2. Create a system to create good habits
+3. Use only willpower for a spark of change and start habits
+4. Consistency will get us to where you want to be
+
+- [(77) Bloom's Taxonomy Is One of the MOST Effective Study Techniques (Better Than Active Recall) - YouTube](https://www.youtube.com/watch?v=q7lY-FytO3U&t=32s)
+	- ![[higher level learning.png]]
+	- relationships make things memorable, not the other way around
+
+- [(2) Study More Efficiently With These 2 Basic Steps - YouTube](https://www.youtube.com/watch?v=VcT8puLpNKA)
+
+- [3-Point Checklist to Create Focus On Demand | Study Clinic - YouTube](https://www.youtube.com/watch?v=-YXrTWUZKn4)
+	- meditate 1min before and after work as a cue
+	- only work until not sharp anymore, not until tired
+	- 
 
 - [(7) The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter) - YouTube](https://www.youtube.com/watch?v=--Hu2w0s72Y)
 	- ![[brain memory model.png]]

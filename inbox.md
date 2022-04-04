@@ -8,6 +8,7 @@ sr-ease: 210
 
 # [[天下武功，为快不破]]
 
+[[中国道路，其实就是黑猫白猫抓到老鼠就是好猫，敌人弄得少少的，朋友弄得多多的，走正道，为人民服务。]]
 
 > “Life is the most difficult exam. Many people fail because they try to copy others, not realizing that everyone has a different question paper.”
 > 

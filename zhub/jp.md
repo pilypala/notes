@@ -8,6 +8,9 @@ sr-ease: 249
 
 #review 
 
+- [(1) 【新疆TALK】ウイグル自治区ってどんなところ？ウイグル美女に聞いてみた！ - YouTube](https://www.youtube.com/watch?v=qb6GBUsW-GA)
+	- ことわざ
+	- 諺
 - [(190) Walk around Osaka and learn Kanji on the street (Osaka station) - YouTube](https://www.youtube.com/watch?v=o5rIw9w-zVw)
 
 - [【脱初心者】中国語ネイティブが会話で使うリアルなフレーズ！ - YouTube](https://www.youtube.com/watch?v=bfLH_Hki2Js)

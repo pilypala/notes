@@ -1,0 +1,3 @@
+- 45 If you run your own race, you can't loose
+	- we know more about less and less
+	- 
