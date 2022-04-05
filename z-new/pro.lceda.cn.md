@@ -1,0 +1,13 @@
+- [立创EDA(专业版)](https://pro.lceda.cn/editor)
+- [立创EDA专业版快速入门培训！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cS4y167uK?spm_id_from=333.788.top_right_bar_window_default_collection.content.click)
+	- shift-f to search for component
+	- tab to change net name
+	- project lib
+		- edit project lib component
+	- designator
+	- BOM
+	- s key to close bottom panel
+	- DRC
+	- Bus
+	- File -> New -> device
+	- 
