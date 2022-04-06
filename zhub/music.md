@@ -1,3 +1,5 @@
+[[小冰piano]]
+
 D75
 ![[nagarenokumo.png]]
 
