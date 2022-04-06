@@ -5,12 +5,34 @@ sr-ease: 230
 ---
 #review 
 
-[[2022-04-01]]
+## [[2022-04-06]]
+
+![[jlc.com.jpg]]
+
+- TVS transient voltage suppressor diode
+	- [(187) How to Select a Diode?? | TVS diode Selection | What is TVS Diode? - YouTube](https://www.youtube.com/watch?v=d6jllSmmwkE)
+	- Vrwm reverse standoff voltages
+	- Vbr breakdown voltage
+	- Ipp max surge current
+	- Vc clamping voltage
+- [(188) Electronic Basics #31: Schottky Diode & Zener Diode - YouTube](https://www.youtube.com/watch?v=GtH8lAzQf2A)
+	- schottky diode has lower forward voltage
+- [How to Select a TVS Diode for Maxim's IO-Link Devices](https://www.maximintegrated.com/en/design/technical-documents/app-notes/6/6965.html)
+	- **Reverse Breakdown Voltage (VBR)**  Also known as breakdown voltage, this is the voltage threshold at which the TVS diode begins to conduct a specified amount of current. Voltage VBR should not exceed the abs max rating for the IC it is protecting.
+
+## [[2022-04-03]]
+- ![[mp2225 inductor selection.png]]
+	- 9x(18-9)/18/500k/1A = 9*(18-9)/18/500000/1) = 9uH
+- SMAJ20A transient voltage protection
+	- 
+
+
+## [[2022-04-01]]
 
 [[孙老师dc-dc4]]
 
 
-[[2022-03-30]]
+## [[2022-03-30]]
 - [[altium create component footprint and PCB layout]]
 
 - ## 2022-03-29
