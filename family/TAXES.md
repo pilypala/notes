@@ -1,4 +1,8 @@
 # 2021 
+- ![[GPH_LML_TAX2021_PINs.png]]
+- ![[GUOPING_HUANG_and_Manli_Lin_2021_Tax_Return.pdf]]
+- ![[JINCHAI_HUANG_2021_Tax_Return.pdf]]
+
 # 2020
 - ![[GPH_LML_TAX2020.pdf]]
 - ![[GPH_LML_TAX2020_PINs.png]]
