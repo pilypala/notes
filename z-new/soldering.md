@@ -1,0 +1,17 @@
+- [(14) How to repair bridge and excess solder - YouTube](https://www.youtube.com/watch?v=OaBRak0HnQs&list=WL&index=88&t=341s)
+	- excess solder/bridge
+		- flux
+		- temperture and
+		- wick/care
+		- sponge
+			- not dry
+			- not too wet
+			- oxidized tip -> no good
+		- flux
+		- temp
+		- clean tip
+		- transfer surface equal to bridge
+		- higher temp
+			- oxidation faster
+			- flux decreases faster
+	- ![[How to repair bridge and excess solder.png]]

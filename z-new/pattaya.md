@@ -7,3 +7,6 @@
 
 - [(172) 在泰国应该买什么样的房子？ - YouTube](https://www.youtube.com/watch?v=JdlZ6KIa2Kk)
 	- 房子要享受级别就能买
+
+- [(7) 舞哥深度解析，泰国二手公寓，交易全流程，房契在手，支付尾款，卖家风险大，买家风险小#泰国养老#泰国房产 - YouTube](https://www.youtube.com/watch?v=T19UpCMP2Hc&t=2s)
+	- 

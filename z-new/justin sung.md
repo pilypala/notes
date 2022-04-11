@@ -5,6 +5,10 @@ sr-ease: 230
 ---
 
 #review 
+
+- [How To DO MORE After Work/School - YouTube](https://www.youtube.com/watch?v=KyNwpv3OU2E)
+	- ![[eishenhower matrix.png]]
+	- 
 - ["Commit or Quit" is Toxic | E6 Bigger Plate - YouTube](https://www.youtube.com/watch?v=h8fGC0PXk4k)
 	- high motivation needed = high risk
 	- need a plan that works on bad days
