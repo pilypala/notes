@@ -15,3 +15,15 @@
 			- oxidation faster
 			- flux decreases faster
 	- ![[How to repair bridge and excess solder.png]]
+
+- [(357) QFN40 Soldering Demo - YouTube](https://www.youtube.com/watch?v=hYllE1gnzzU)
+	- cone tip
+	- more flux
+	- good temp
+	- pull solder bridge outward from the chip
+- [(357) SMD Soldering - SOIC SSOP Packages - YouTube](https://www.youtube.com/watch?v=-l5D2em4PBI)
+	- flux
+	- clean tip
+	- clean pads
+	- flux on corners and put chip on
+	- ![[flux clean with alcohol brush.png]]
