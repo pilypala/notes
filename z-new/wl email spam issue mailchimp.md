@@ -6,3 +6,11 @@
 - [Set Up Email Domain Authentication | Mailchimp](https://mailchimp.com/help/set-up-email-domain-authentication/)
 - [How to Set Up SPF and DKIM for Mailchimp - DMARCLY](https://dmarcly.com/blog/how-to-set-up-spf-and-dkim-for-mailchimp)
 - [How to Set Up SPF and DKIM for Mailchimp - DMARCLY](https://dmarcly.com/blog/how-to-set-up-spf-and-dkim-for-mailchimp)
+
+- [What is SPF Email and How Does it Work? | Agari](https://www.agari.com/email-security-blog/what-is-spf/#:~:text=Sender%20Policy%20Framework%20(SPF)%20is,IETF%20under%20section%20RFC%207208.)
+- [How to Set Up SPF and DKIM for Mailchimp - DMARCLY](https://dmarcly.com/blog/how-to-set-up-spf-and-dkim-for-mailchimp)
+
+		jake@wickedlasers.com
+		pilypala@gmail.com
+		jake.ghuang@gmail.com
+		909004928@qq.com
