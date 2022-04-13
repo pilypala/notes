@@ -6,10 +6,18 @@
 
 
 # myself
+-   [paypal]
+    
+    [jake.ghuang@gmail.com](mailto:jake.ghuang@gmail.com) : 3uHHPpJG
 
+    security question:
+    #1 name of first school?
+    nothing!
+    #2 name of hospital you were born?
+    nothing!!
+	
 [astrill]
-
-[jake@wickedlasers.com](mailto:jake@wickedlasers.com) : sp.Uphut1
+[jake@wickedlasers.com](mailto:jake@wickedlasers.com) :sp.Uphut1
 
 Ipad pro 12.9 passcode 156361
 Manli iphone 8 plus passcode 156361
@@ -34,11 +42,22 @@ Suitcase:  267
 	- 13850113603
 
 ![[google_backup_codes.pdf]]
-
 ![[Guoping US bank transfer.png]]
+
+Cornell NetID
+gh75 : yWChNfQQ!  
+Conrell NetID security questions
+![[cornell netid security questions.png]]
 
 
 # GUOPING HUANG
+https://www.globalcallforwarding.com/prices/
+https://www.globalcallforwarding.com/orders/verification/#/P5SNIWS3GI
+
+
+https://newcp.globalcallforwarding.com/login
+pilypala@gmail.com : j7WJLWrbJN3hb7@
+![[globalcallforwarding order.png]]
 [Chase]
 What is the swift code for Chase Bank in New York?
 https://wise.com/gb/swift-codes/countries/united-states/chase-swift-code
