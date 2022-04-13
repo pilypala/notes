@@ -40,6 +40,16 @@ Suitcase:  267
 
 # GUOPING HUANG
 [Chase]
+What is the swift code for Chase Bank in New York?
+https://wise.com/gb/swift-codes/countries/united-states/chase-swift-code
+
+CHASUS33XXX
+JPMORGAN CHASE BANK, N.A.
+383 MADISON AVENUE
+NEW YORK
+United States
+
+Chase New York
 Chase Routing : 021000021
 Chase Checking Account Number: 000001813085247
 Chase Saving Account Number: 000003456583951

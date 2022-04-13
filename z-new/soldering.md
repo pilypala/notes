@@ -1,3 +1,8 @@
+- [(277) How To Remove Surface Mount IC/smd IC - Learn 4 Neat Methods - YouTube](https://www.youtube.com/watch?v=LL23ZJahcfY&t=48s)
+	- [[2022-04-11]]
+	- heat air gun
+	- cut the legs
+	- 
 - [(14) How to repair bridge and excess solder - YouTube](https://www.youtube.com/watch?v=OaBRak0HnQs&list=WL&index=88&t=341s)
 	- excess solder/bridge
 		- flux
