@@ -32,3 +32,5 @@
 	- clean pads
 	- flux on corners and put chip on
 	- ![[flux clean with alcohol brush.png]]
+
+- [(39) Desoldering without hot air - YouTube](https://www.youtube.com/watch?v=CVsmwFAkf7I&t=116s)
