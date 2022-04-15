@@ -1,7 +1,7 @@
 ---
 sr-due: 2022-04-16
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 
 [[mosfet-symbols]] #review 
@@ -20,17 +20,9 @@ https://electronicscoach.com/difference-between-jfet-and-mosfet.html
 * S and D are at equal or higher than the substrate (reverse biased)
 
 
-### [How does a diode work - the PN Junction (with animation) | Intermediate Electronics](https://www.youtube.com/watch?v=n2S7kN12RDQ&list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC)
-1.  undoped intrinsic semiconductor material, free electron and holes are equal.
-2. pentavalent doped -> n type,
-3. trivalent doped -> p type
 
-#### [(7) Band Gap and Semiconductor Current Carriers | Intermediate Electronics - YouTube](https://www.youtube.com/watch?v=N8MuD_xu6L4)
-1. protons, neutrons and electrons
-2. electron energy levels -> shells -> outter most is valence shell
-3. outter most shell valent shell
-4. valent bond electron can receive energy and goes to conduction band
-5. solid crystal material formed by covalent bonds
+
+- [[Band Gap and Semiconductor Current Carriers]]
 
 ### What is a diode? A simple animated overview | Basic Electronics
 1. PANIC (positive is anode, negative is cathode)
@@ -41,11 +33,7 @@ https://electronicscoach.com/difference-between-jfet-and-mosfet.html
 ![[line is cathode.png]]
 5. forword voltage and reverse voltage
 
-### How does a diode work - the PN Junction (with animation) | Intermediate Electronics
-1. conduction band electroncs combine with holes in valence band
-![[depletion region.png]]
-2. energy levels in p and n semiconductors
-![[band energy levels in pn junction.png]]
+
 
 ### How does a forward biased diode work at the molecular level? - Part 2 | Intermediate Electronics
 1. overcome barrier, electrons lost enrergy to combine with holes
