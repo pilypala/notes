@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-03-29
-sr-interval: 1
-sr-ease: 210
+sr-due: 2022-06-08
+sr-interval: 54
+sr-ease: 230
 ---
 
 #review 
@@ -20,7 +20,6 @@ sr-ease: 210
 
 -  [(3) 我为什么和泰国女友分手？泰国女人都是骗子吗？我离开安以后这三个月是怎么过的？ - YouTube](https://www.youtube.com/watch?v=cvRDrbP89Ec)
 	-  
--  [亏50万卖！英国房东出售芭提雅中天海景房 房子虽老价格还算不错 - YouTube](https://www.youtube.com/watch?v=u4Y5h6kFz_w)
 -  [(30) 为什么芭提雅100万以内的廉价别墅99%在东区，为什么不能买？ - YouTube](https://www.youtube.com/watch?v=BzuNbIhX1HU)
 - [20 rules of knowledge formulation - supermemo.guru](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation)
 - [How to REMEMBER what you read](https://www.youtube.com/watch?v=H-vjo96n2JM&t=218s)

@@ -1,4 +1,10 @@
-[[mosfet-symbols]]
+---
+sr-due: 2022-04-16
+sr-interval: 1
+sr-ease: 230
+---
+
+[[mosfet-symbols]] #review 
 
 ### [(13) Working of Transistors | MOSFET - YouTube](https://www.youtube.com/watch?v=stM8dgcY1CA)
 
@@ -15,13 +21,13 @@ https://electronicscoach.com/difference-between-jfet-and-mosfet.html
 
 
 ### [How does a diode work - the PN Junction (with animation) | Intermediate Electronics](https://www.youtube.com/watch?v=n2S7kN12RDQ&list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC)
-1. undoped intrinsic semiconductor material, free electron and holes are equal.
+1.  undoped intrinsic semiconductor material, free electron and holes are equal.
 2. pentavalent doped -> n type,
 3. trivalent doped -> p type
 
-#### Band Gap and Semiconductor Current Carriers | Intermediate Electronics
+#### [(7) Band Gap and Semiconductor Current Carriers | Intermediate Electronics - YouTube](https://www.youtube.com/watch?v=N8MuD_xu6L4)
 1. protons, neutrons and electrons
-2. electron energy levels -> shells
+2. electron energy levels -> shells -> outter most is valence shell
 3. outter most shell valent shell
 4. valent bond electron can receive energy and goes to conduction band
 5. solid crystal material formed by covalent bonds
