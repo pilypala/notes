@@ -19,9 +19,6 @@ https://electronicscoach.com/difference-between-jfet-and-mosfet.html
 ### [(5) How a MOSFET Works - with animation! | Intermediate Electronics - YouTube](https://www.youtube.com/watch?v=Bfvyj88Hs_o&list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC&index=15)
 * S and D are at equal or higher than the substrate (reverse biased)
 
-
-
-
 - [[Band Gap and Semiconductor Current Carriers]]
 
 ### What is a diode? A simple animated overview | Basic Electronics

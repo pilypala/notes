@@ -1,6 +1,6 @@
 ---
-sr-due: 2022-04-16
-sr-interval: 1
+sr-due: 2022-04-18
+sr-interval: 2
 sr-ease: 226
 ---
 
@@ -14,11 +14,13 @@ sr-ease: 226
 5. carriers in semiconductors 
 	1. free electrons -> ==electron current happens in conduction band==
 	2. holes -> ==hole current happens in valence band==
+<!--SR:!2022-04-19,3,246!2022-04-19,3,258!2022-04-19,3,258!2022-04-19,3,258!2022-04-19,3,258-->
 
 ### [(113) How do semiconductors work? (with animation) | Intermediate Electronics - YouTube](https://www.youtube.com/watch?v=n2S7kN12RDQ&list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC&index=1)1. undoped intrinsic semiconductor material, free electron and holes are equal.
 2. doping increase conductivity
-3. ==pentavalent doped -> n type,==
+3. ==pentavalent doped -> n type==
 4. ==trivalent doped -> p type==
+<!--SR:!2022-04-19,3,246!2022-04-19,3,258-->
 
 ### [(107) How does a diode work - the PN Junction (with animation) | Intermediate Electronics - YouTube](https://www.youtube.com/watch?v=btOIDQeMrMg)
 1. conduction band electroncs combine with holes in valence band
