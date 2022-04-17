@@ -1,3 +1,9 @@
+---
+sr-due: 2022-04-21
+sr-interval: 4
+sr-ease: 270
+---
+
 #review 
 
 [ESP32 for IoT: A Complete Guide](https://www.nabto.com/guide-to-iot-esp-32/)
