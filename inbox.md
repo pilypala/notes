@@ -6,6 +6,8 @@ sr-ease: 230
 
 #review 
 
+- [(90) 萨古鲁谈如何对待性欲？| Sadhguru 萨古鲁 - YouTube](https://www.youtube.com/watch?v=Yl5bmWiTnE4)
+
 # [[天下武功，为快不破]]
 
 - [从革命者到革命对象——透过身边人的控诉，一窥革命者如何当官做老爷：新伟哥说国史——470 - YouTube](https://www.youtube.com/watch?v=bggCZGcrhng)
