@@ -6,6 +6,7 @@ sr-ease: 230
 
 #review 
 
+- [泰国房市交易量-看完你还敢买泰国房产吗？ - YouTube](https://www.youtube.com/watch?v=ostlNwuWWPQ)
 - [(90) 萨古鲁谈如何对待性欲？| Sadhguru 萨古鲁 - YouTube](https://www.youtube.com/watch?v=Yl5bmWiTnE4)
 
 # [[天下武功，为快不破]]

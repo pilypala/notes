@@ -1,3 +1,5 @@
+[【夏天播放乐队合辑】35首歌100分钟抒情版，丽江醉乡民谣现场。 - YouTube](https://www.youtube.com/watch?v=T4rFs0XKs1c)
+	
 - 成都D60
 - 往事只能回味 B70
 - [[爱我别走C90]]
