@@ -68,6 +68,11 @@ JPMORGAN CHASE BANK, N.A.
 NEW YORK
 United States
 
+Bank Name: JPMORGAN CHASE BANK, N.A.  
+Swift Code : CHASUS33XXX  
+Chase Checking Account Number: 000001813085247
+Account Holder : Guoping Huang
+
 Chase New York
 Chase Routing : 021000021
 Chase Checking Account Number: 000001813085247
