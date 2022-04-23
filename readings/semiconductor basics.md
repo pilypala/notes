@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-04-16
+sr-due: 2022-04-24
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 [[mosfet-symbols]] #review 

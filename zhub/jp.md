@@ -8,6 +8,8 @@ sr-ease: 249
 
 #review 
 
+- [(10) 酒店般的體驗！日本這趟列車上還能洗澡？ - YouTube](https://www.youtube.com/watch?v=Wk--hxxljKA)
+
 - [(1) 【新疆TALK】ウイグル自治区ってどんなところ？ウイグル美女に聞いてみた！ - YouTube](https://www.youtube.com/watch?v=qb6GBUsW-GA)
 	- ことわざ
 	- 諺
