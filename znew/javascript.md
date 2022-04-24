@@ -19,3 +19,15 @@
 ```javascript
 '<foo> and <bar>'.match(/<[^>]*>/g); // ["<foo>", "<bar>"]
 ```
+
+
+- [How can I extract audio from video with ffmpeg? - Stack Overflow](https://stackoverflow.com/questions/9913032/how-can-i-extract-audio-from-video-with-ffmpeg)
+
+		```
+		ffmpeg -i sample.avi -ss 00:03:05 -t 00:00:45.0 -q:a 0 -map a sample.mp3
+		```
+		-   The timestamps need to be in HH:MM:SS.xxx format or in seconds.
+		-   If you don't specify the **-t** option it will go to the end.
+		-   You can use the **-to** option instead of the **-t** option, if you want to specify the range, eg for 45 seconds: `00:03:05 + 45 = 00:03:50`
+
+- [(117) Build a cross-platform Electron App in Windows with WSL and Ubuntu - YouTube](https://www.youtube.com/watch?v=3chPglHV4lQ)
