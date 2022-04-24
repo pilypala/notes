@@ -1,14 +1,12 @@
 ---
-sr-due: 2022-05-10
-sr-interval: 25
-sr-ease: 249
+sr-due: 2022-04-27
+sr-interval: 2
+sr-ease: 169
 ---
 
 [[How our lives changed after 4 years]]
 
 #review 
-
-- [(10) 酒店般的體驗！日本這趟列車上還能洗澡？ - YouTube](https://www.youtube.com/watch?v=Wk--hxxljKA)
 
 - [(1) 【新疆TALK】ウイグル自治区ってどんなところ？ウイグル美女に聞いてみた！ - YouTube](https://www.youtube.com/watch?v=qb6GBUsW-GA)
 	- ことわざ
