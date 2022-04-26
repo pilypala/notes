@@ -1,6 +1,19 @@
 - [[justin sung]]
 
 
+## 3/10/2022, 3:12:48 AM
+- Obsidian for beginners: Building a second brain from scratch
+https://www.youtube.com/watch?v=njibNuFQwjw
+
+- I stopped taking notes in medical school
+https://www.youtube.com/watch?v=JNJJEFzaOiA
+
+1. Dont go to lecture, only watch video to study on my own pace
+2. Don't take notes, only make flash cards
+3. Set clear goals
+
+
+
 [(144) How to REMEMBER what you read 🧠 - YouTube](https://www.youtube.com/watch?v=H-vjo96n2JM)
 
 - ![[bloom's taxonomy.jpg]]
@@ -51,3 +64,10 @@ https://www.youtube.com/watch?v=eLr5Gaxd5Kg
 
 https://www.youtube.com/watch?v=ATXERF3MiIY
 
+
+### My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide
+https://www.youtube.com/watch?v=E6ySG7xYgjY
+- templates
+	- date time
+- admonition
+- ctrl-o to create notes

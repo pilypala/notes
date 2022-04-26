@@ -6,8 +6,6 @@ sr-ease: 230
 
 #review 
 
-- [泰国房市交易量-看完你还敢买泰国房产吗？ - YouTube](https://www.youtube.com/watch?v=ostlNwuWWPQ)
-- [(90) 萨古鲁谈如何对待性欲？| Sadhguru 萨古鲁 - YouTube](https://www.youtube.com/watch?v=Yl5bmWiTnE4)
 
 # [[天下武功，为快不破]]
 
@@ -21,9 +19,6 @@ sr-ease: 230
 > — [**Jeremy McGilvrey**](https://quotestoenjoy.com/home/authors/authors-j/jeremy-mcgilvrey/?amp)
 
 
--  [(3) 我为什么和泰国女友分手？泰国女人都是骗子吗？我离开安以后这三个月是怎么过的？ - YouTube](https://www.youtube.com/watch?v=cvRDrbP89Ec)
-	-  
--  [(30) 为什么芭提雅100万以内的廉价别墅99%在东区，为什么不能买？ - YouTube](https://www.youtube.com/watch?v=BzuNbIhX1HU)
 - [20 rules of knowledge formulation - supermemo.guru](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation)
 - [How to REMEMBER what you read](https://www.youtube.com/watch?v=H-vjo96n2JM&t=218s)
 	1. ask quirky questions on the material and use them on anki
@@ -49,12 +44,7 @@ https://www.youtube.com/watch?v=F2EZP8Tufzg
 - conditon on music, lofi
 - 
 
-### My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide
-https://www.youtube.com/watch?v=E6ySG7xYgjY
-- templates
-	- date time
-- admonition
-- ctrl-o to create notes
+
 
 ## 2022/03/15
 
@@ -68,13 +58,7 @@ https://www.youtube.com/watch?v=gEKo3jINwYg
 1. Teaching effect
 2. 
 
-泰国 芭提雅 泰国芭提雅|美娜带你看中天海景公寓，无敌海景，交通便利，大开间，约54万RMB
-https://www.youtube.com/watch?v=XUcSZgNbqzk
 
-2 Rules That Make Studying EFFORTLESS
-https://www.youtube.com/watch?v=W7REYJNC2is
-1. organize study around life
-2. embrace challenges
 
 ## 3/13/2022, 1:29:39 PM
 ### Zettelkasten: Note taking that 10X your learning
@@ -86,12 +70,10 @@ https://www.youtube.com/watch?v=eLr5Gaxd5Kg
 ###  Zettelkasten Obsidian Tutorial (Simplest way)
 https://www.youtube.com/watch?v=ATXERF3MiIY
 
-### 独家推荐｜仅26.8万｜俄业主本周急售2套｜中天生活区超级便利
-https://www.youtube.com/watch?v=8F12Wp_OmOA
-![[pattaya-jomtien.png]]
 
 ### Why the Top Students Never Wake Up Early to Study
 https://www.youtube.com/watch?v=c0fp7kB2vuU
+
 ### How to Beat Procrastination
 https://www.youtube.com/watch?v=eXVOKNRipq0
 1. non-negotiable habits
@@ -116,15 +98,4 @@ https://www.youtube.com/watch?v=MSq-KGj_cnY
 7. teach each other
 
 ### [[2hrs a day]]
-
-## 3/10/2022, 3:12:48 AM
-- Obsidian for beginners: Building a second brain from scratch
-https://www.youtube.com/watch?v=njibNuFQwjw
-
-- I stopped taking notes in medical school
-https://www.youtube.com/watch?v=JNJJEFzaOiA
-
-1. Dont go to lecture, only watch video to study on my own pace
-2. Don't take notes, only make flash cards
-3. Set clear goals
 
