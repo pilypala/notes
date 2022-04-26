@@ -1,0 +1,5 @@
+- [(97) Easy Frontend JS Workflow With No Framework - YouTube](https://www.youtube.com/watch?v=8rD9amRSOQY)
+- [(103) Must Know JavaScript Bundler - Parcel - YouTube](https://www.youtube.com/watch?v=DblzpCoPakw)
+	- --save-dev
+	- !enter shrtcut for html template
+- [(105) Build a Vue application with Parcel - YouTube](https://www.youtube.com/watch?v=a0CLahi6ABo)

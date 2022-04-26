@@ -3,18 +3,17 @@ sr-due: 2022-04-27
 sr-interval: 2
 sr-ease: 169
 ---
+#review 
 
 [[How our lives changed after 4 years]]
-
-#review 
 
 - [(1) 【新疆TALK】ウイグル自治区ってどんなところ？ウイグル美女に聞いてみた！ - YouTube](https://www.youtube.com/watch?v=qb6GBUsW-GA)
 	- ことわざ
 	- 諺
+	
 - [(190) Walk around Osaka and learn Kanji on the street (Osaka station) - YouTube](https://www.youtube.com/watch?v=o5rIw9w-zVw)
 
 - [【脱初心者】中国語ネイティブが会話で使うリアルなフレーズ！ - YouTube](https://www.youtube.com/watch?v=bfLH_Hki2Js)
-	-
 
 - [Lesson 251 – Valentine’s Day & White Day | News in Slow Japanese](https://newsinslowjapanese.com/2022/03/05/lesson-251-valentines-day-white-day/)
 
@@ -42,8 +41,6 @@ sr-ease: 169
 ### といった (to itta)
 https://jlptsensei.com/learn-japanese-grammar/%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F-to-itta-meaning/
 
-[[建築中の建物が炎上]]
-[[国連『非難決議』141カ国賛成]]
 
 ### [(8) 「気になる」「気にする」「気がする」「気がある」の違い！ - YouTube](https://www.youtube.com/watch?v=uqkPqp2bLgU&t=39s)
 
