@@ -9,6 +9,14 @@ sr-ease: 210
 # [[天下武功，为快不破]]
 [[2022-04-27]]
 
+- [ ] [Allow Server Running Inside WSL To Be Accessible Outside Windows 10 Host - NEXTOFWINDOWS.COM](https://www.nextofwindows.com/allow-server-running-inside-wsl-to-be-accessible-outside-windows-10-host)
+
+		netsh interface portproxy add v4tov4 listenport=1234 listenaddress=0.0.0.0 connectport=1234 connectaddress=172.28.35.96
+				
+		netsh advfirewall firewall show rule status=enabled name=all | select-string -pattern "(LocalPort.*1234)" -context 9,4
+
+- [ ] perhaps it's better to have a simple sketch before UI work
+
 - [ ] [[xielunzhi]]
  	- ep1
 		- tiers

@@ -3,3 +3,4 @@
 	- --save-dev
 	- !enter shrtcut for html template
 - [(105) Build a Vue application with Parcel - YouTube](https://www.youtube.com/watch?v=a0CLahi6ABo)
+- [[WSL 2] NIC Bridge mode 🖧 (Has TCP Workaround🔨) · Issue #4150 · microsoft/WSL](https://github.com/microsoft/WSL/issues/4150)
