@@ -1,7 +1,7 @@
 ---
-sr-due: 2022-04-27
-sr-interval: 2
-sr-ease: 169
+sr-due: 2022-04-30
+sr-interval: 1
+sr-ease: 149
 ---
 #review 
 
