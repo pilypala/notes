@@ -19,3 +19,7 @@
 		- tiger mouth for extension
 		- ![[thumb jumping.png]]
 		- break even further if it's still difficult
+	- ep11 left hand universal accompaniment
+		- 隔三空二
+		- 爬格子
+	- ep12 隔三空四
