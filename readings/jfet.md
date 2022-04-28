@@ -1,7 +1,7 @@
 ---
 sr-due: 2022-04-30
 sr-interval: 1
-sr-ease: 210
+sr-ease: 190
 ---
 
 #review 
@@ -13,13 +13,12 @@ sr-ease: 210
 - With Vgs at zero, only increasing Vds (no gate pressure), it gets to a point where Vsd = Vp. Causing the Vgd to be at Vp, pinching off at the drain end. At this point, Current stays independent of Vds and is only a function of Vgs! Device enters saturation mode or pinch off region
 - At Vgs <= Vp, JFET ceases to conduct current, it is at cutoff mode
 
-
 ### the omhic or linear or triode region
 - both Vgs and Vgd > Vp and both reverse biased, therefore both < 0
-- both ends are not pinched off, so channel acts as a resistor with resistance controlled by Vgs
+- ==both ends are not pinched off==, so channel acts as a resistor with resistance controlled by Vgs
 
 
 ### pinch-off region, or staturated region
 -  0 > Vgs > Vp, so not pinched off at source end
 -  Vgd < Vp < 0, pinched off at drain end
--  Current is dependent of Vds, only dependent of Vgs
+-  ==Current is independent of Vds, only dependent on Vgs==
