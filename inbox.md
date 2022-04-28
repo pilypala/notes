@@ -53,8 +53,15 @@ sr-ease: 210
 			- ask
 	- ep2
 		- sitting and fingering
-	- ep3
-		- 
+	- ep10 finger planning
+		- lowest note for thumb, 
+		- highest note for pinky
+		- if notes are fewer than 5, use only one of the rules above
+		- if too many notes, break them into sections
+		- break at a long note (two beats => break into another section)
+		- tiger mouth for extension
+		- ![[thumb jumping.png]]
+		- break even further if it's still difficult
  
 - [ ] [Reboot · Bootstrap](https://getbootstrap.com/docs/4.0/content/reboot/)
 	- Approach

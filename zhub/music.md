@@ -18,3 +18,12 @@ D75
 [[艺池吉他]]
 
 [[lofi]]
+
+
+![[loves romance.jpg]]
+
+![[kiseki no yama.pic.jpg]]
+
+![[wind song.jpg]]
+
+![[kiss the rain.jpg]]
