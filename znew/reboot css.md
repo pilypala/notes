@@ -1,0 +1,13 @@
+- [ ] [Reboot · Bootstrap](https://getbootstrap.com/docs/4.0/content/reboot/)
+	- Approach
+		- use rem instead of em
+		- no margin-top
+		- block elements using rem for scaling
+		- keep font properties minimal, use inherit where possible
+	- Page defaults
+		- box-sizing
+		- 1 em for body font sizing
+		- consistent font family
+		- \#fff background
+		-
+	

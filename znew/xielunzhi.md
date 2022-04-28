@@ -1,0 +1,21 @@
+- [ ] [[xielunzhi]]
+ 	- ep1
+		- tiers
+			- able to play with tab
+			- play with ear
+			- accompany a random melody
+		- what to do
+			- take note
+			- homework
+			- ask
+	- ep2
+		- sitting and fingering
+	- ep10 finger planning
+		- lowest note for thumb, 
+		- highest note for pinky
+		- if notes are fewer than 5, use only one of the rules above
+		- if too many notes, break them into sections
+		- break at a long note (two beats => break into another section)
+		- tiger mouth for extension
+		- ![[thumb jumping.png]]
+		- break even further if it's still difficult
