@@ -7,7 +7,12 @@ sr-ease: 210
 #review 
 
 # [[天下武功，为快不破]]
-[[2022-04-28]]
+
+## [[2022-04-30]]
+
+[[在泰国买房，这几个缺点你看不到，有人可能在对你刻意隐瞒什么，要小心]]
+
+## [[2022-04-28]]
 
 - [ ] [(51) #1099 How I learned electronics - YouTube](https://www.youtube.com/watch?v=Bgrubw6B_us)
 	- get a gut feel first, not math
