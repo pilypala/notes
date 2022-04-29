@@ -20,7 +20,7 @@ https://electronicscoach.com/difference-between-jfet-and-mosfet.html
 * S and D are at equal or higher than the substrate (reverse biased)
 
 
-### [[What is a diode? A simple animated overview | Basic Electronics]]
+### [[what is a diode | Basic Electronics]]
 
 
 
