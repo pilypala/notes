@@ -1,0 +1,4 @@
+- [ ] [(51) #1099 How I learned electronics - YouTube](https://www.youtube.com/watch?v=Bgrubw6B_us)
+	- get a gut feel first, not math
+	- do to learn
+	- do math
