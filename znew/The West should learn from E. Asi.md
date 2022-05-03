@@ -1,0 +1,6 @@
+- [ ] [(139) The West should learn from E. Asia - Korean American professor - YouTube](https://www.youtube.com/watch?v=0a8pHSJRAyw)
+	-  Europe
+		- formal equality
+		- informal inequality
+	- China 
+		- Investiture

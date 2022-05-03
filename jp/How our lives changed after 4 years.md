@@ -1,10 +1,10 @@
 ---
-sr-due: 2022-05-17
-sr-interval: 24
-sr-ease: 230
+sr-due: 2022-07-21
+sr-interval: 78
+sr-ease: 250
 ---
 
-#review 
+#jp
 
 [How our lives changed after 4 years (Our memories / life) - YouTube](https://www.youtube.com/watch?v=ae1gmtJQoCA)
 	- 文句ばっかり言ってるけど

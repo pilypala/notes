@@ -3,7 +3,7 @@ sr-due: 2022-05-06
 sr-interval: 21
 sr-ease: 230
 ---
-#review 
+#review
 
 ## [[2022-04-06]]
 

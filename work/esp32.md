@@ -4,8 +4,6 @@ sr-interval: 57
 sr-ease: 290
 ---
 
-#review 
-
 [ESP32 for IoT: A Complete Guide](https://www.nabto.com/guide-to-iot-esp-32/)
 
 https://www.espressif.com/en/products/socs

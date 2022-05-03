@@ -3,7 +3,7 @@ sr-due: 2022-04-30
 sr-interval: 1
 sr-ease: 149
 ---
-#review 
+#review #jp
 
 - [ ] [Lesson 252 – Fake Food | News in Slow Japanese](https://newsinslowjapanese.com/2022/04/03/lesson-252-fake-food
 	

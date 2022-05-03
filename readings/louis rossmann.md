@@ -4,7 +4,7 @@ sr-interval: 2
 sr-ease: 190
 ---
 
-#review 
+#quote
 
 [(28) Career advancement and the myth of passion and "doing what you love" - YouTube](https://www.youtube.com/watch?v=IBP3ZF2ljGU&t=117s)
 	- sucks at recording
