@@ -3,9 +3,11 @@ sr-due: 2022-05-04
 sr-interval: 5
 sr-ease: 190
 ---
+#review #att
+
 - [[Band Gap and Semiconductor Current Carriers]]
 
-[[mosfet-symbols]] #review
+[[mosfet-symbols]] 
 
 ### [(13) Working of Transistors | MOSFET - YouTube](https://www.youtube.com/watch?v=stM8dgcY1CA)
 

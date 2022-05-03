@@ -1,10 +1,4 @@
----
-sr-due: 2022-05-08
-sr-interval: 9
-sr-ease: 210
----
-
-#review 
+#att
 
 - 第3课：历史数学七七口诀
 	- ![[Pasted image 20220414154003.png]]
