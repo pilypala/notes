@@ -6,6 +6,7 @@ sr-ease: 210
 
 #quote #review 
 
+
 - [How To DO MORE After Work/School - YouTube](https://www.youtube.com/watch?v=KyNwpv3OU2E)
 	- ![[eishenhower matrix.png]]
 
