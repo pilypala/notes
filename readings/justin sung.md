@@ -4,7 +4,7 @@ sr-interval: 11
 sr-ease: 210
 ---
 
-#quote #review 
+#quote 
 
 
 - [How To DO MORE After Work/School - YouTube](https://www.youtube.com/watch?v=KyNwpv3OU2E)

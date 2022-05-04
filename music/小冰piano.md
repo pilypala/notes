@@ -1,4 +1,4 @@
-#music/practice
+#up/piano
 
 - ![[小冰piano index.png]]
 - 课时 3  Day24 beat柱式和弦伴奏型训练1

@@ -4,6 +4,7 @@ sr-interval: 21
 sr-ease: 230
 ---
 #review
+#up/mg 
 
 ## [[2022-04-06]]
 

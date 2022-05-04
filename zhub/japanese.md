@@ -3,11 +3,10 @@ sr-due: 2022-04-30
 sr-interval: 1
 sr-ease: 149
 ---
-#review #jp
+#up/jp
 
-- [ ] [Lesson 252 – Fake Food | News in Slow Japanese](https://newsinslowjapanese.com/2022/04/03/lesson-252-fake-food
-	
-	サンプルメニューとは別に、Twitterを通して、ある投稿が話題になっています。それは、本物そっくりなフェイクフード。エビフライ、カニすき、卵焼きなど、とても美味しそうに仕上がっています。
+[[Lesson 252 – Fake Food]]
+[[中国語ネイティブが会話で使うリアルなフレーズ]]
 
 - [ ] [(549) Life lessons I learned from Sakura. - YouTube](https://www.youtube.com/watch?v=ocLe5IPK9ss)
 	- つぼみ
@@ -28,7 +27,6 @@ sr-ease: 149
 	
 - [(190) Walk around Osaka and learn Kanji on the street (Osaka station) - YouTube](https://www.youtube.com/watch?v=o5rIw9w-zVw)
 
-- [【脱初心者】中国語ネイティブが会話で使うリアルなフレーズ！ - YouTube](https://www.youtube.com/watch?v=bfLH_Hki2Js)
 
 - [Lesson 251 – Valentine’s Day & White Day | News in Slow Japanese](https://newsinslowjapanese.com/2022/03/05/lesson-251-valentines-day-white-day/)
 

@@ -4,7 +4,7 @@ sr-interval: 78
 sr-ease: 250
 ---
 
-#jp
+#up/jp
 
 [How our lives changed after 4 years (Our memories / life) - YouTube](https://www.youtube.com/watch?v=ae1gmtJQoCA)
 	- 文句ばっかり言ってるけど

@@ -1,29 +1,17 @@
 # [[天下武功，为快不破]]
 
-## [[2022-05-04]]
-- [ ] [(33) How I stay ‘in shape’ as a food vlogger - YouTube](https://www.youtube.com/watch?v=4sXwc-90YE4)
-	- bialetti
-	
-[[book-debugging-css]]
+## [[2022-05-05]]
+[[究极吉他练习册 宫脇俊郎]]
 
-## [[2022-05-03]]
-- [ ] [(36) [街機遊戲]13分鐘看完：吞食天地2赤壁之戰，全劇情、全結局、彩蛋 - YouTube](https://www.youtube.com/watch?v=kp-0bSzVYt8)
+[[【速報】米FRB政策金利を0.5％の大幅引き上げ]]
 
-## [[2022-05-02]]
-- [ ] [(269) 2021年是自学游戏开发最好的年代！首先，选Unity还是虚幻引擎？答案已经被你想复杂了！ - YouTube](https://www.youtube.com/watch?v=NEWjDP14NBk)
-- [ ] [(270) 学做游戏6年，做不出游戏5年半！不想跟教程！2022如何做出自己想要的游戏？Unity自学坑+分析 - YouTube](https://www.youtube.com/watch?v=9joWiHbfsCc)
-	- 零基础要日久生情
-- [ ] [(40) TC Helicon VoiceLive Play Acoustic - Review and Demo - YouTube](https://www.youtube.com/watch?v=bSoC2ivmmv8)
+
+- [ ] 中国音乐学院架子鼓考级教程
+	- lvl1 一级上（小军鼓演奏基本训练1-8）
+
 
 ## [[2022-04-30]]
 
-[[在泰国买房，这几个缺点你看不到，有人可能在对你刻意隐瞒什么，要小心]]
-
-- [ ] [(8) This Electronic Drum Kit is CHEAP! - YouTube](https://www.youtube.com/watch?v=wDCGZgTBd5k)
-- [ ] [(6) Top 5 Best Cheap Electronic Drum Kits That Don't Suck - All Under £500 - YouTube](https://www.youtube.com/watch?v=AcjZAzWgdNc)
-- [ ] [(6) TOURTECH TT-12S Electronic Drum Kit - A Beginner Kit For £199 - YouTube](https://www.youtube.com/watch?v=dnN7Mm5mTko)
-- [ ] [(10) Affordable Electronic Drum Sets Pt. 2! Which one did I pick and WHY? - YouTube](https://www.youtube.com/watch?v=8wg8Cjc5HWQ&t=37s)
-- [ ] [Donner DED-200 Electronic Drum Kit in depth demo and review - Insanely Cheap e-drum drum set! - YouTube](https://www.youtube.com/watch?v=BgZOqVIX02c)
 - [ ] [Vue: Using localStorage with Vuex store - Mike Street - Lead Developer and CTO](https://www.mikestreety.co.uk/blog/vue-js-using-localstorage-with-the-vuex-store/)
 	- `localStorage` can _only_ contain strings. This means that any objects or arrays you wish to store in `localStorage` must be converted to a JSON string, and then re-formatted when you retrieve them.
 	- ### Initialise the store
