@@ -24,9 +24,6 @@ sr-ease: 149
 - [(1) 【新疆TALK】ウイグル自治区ってどんなところ？ウイグル美女に聞いてみた！ - YouTube](https://www.youtube.com/watch?v=qb6GBUsW-GA)
 	- ことわざ
 	- 諺
-	
-- [(190) Walk around Osaka and learn Kanji on the street (Osaka station) - YouTube](https://www.youtube.com/watch?v=o5rIw9w-zVw)
-
 
 - [Lesson 251 – Valentine’s Day & White Day | News in Slow Japanese](https://newsinslowjapanese.com/2022/03/05/lesson-251-valentines-day-white-day/)
 
