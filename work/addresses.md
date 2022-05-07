@@ -24,9 +24,10 @@ GuZhen Town TongYi Industrial Zone Bld. #9 2nd FloorGuangDong Province ZhongShan
 
 ## **Sep 20, 2018 @ 9:44:53 AM**
 
-淘宝用户名：pilypala1黄国平18105022464
+淘宝用户名：pilypala1
 
-福建省 福州市 仓山区东园路10号金辉莱茵城15＃楼301单元350007
+黄国平18105022464
+福建省 福州市 仓山区东园路10号金辉莱茵城15号楼301单元
 
 Guoping Huang 18105022464 CangShan Qu DongYuan Lu No.10 LaiYin Cheng Bld. 15 Room 301 Fuzhou Fujian, China 35007
 

@@ -1,7 +1,12 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
 ## [[2022-05-07]]
-- [x] [(5) HOW IS BANGKOK? (APRIL 2022) Thailand vlog | A DAY IN BANGKOK - YouTube](https://www.youtube.com/watch?v=oJ_N-P_cF3c)
+
+- [ ] WL SIL8.5mm connector
+	- ![[SIL.png]]
+	- ![[SIL.psd]]
+
+- [ ] [(5) HOW IS BANGKOK? (APRIL 2022) Thailand vlog | A DAY IN BANGKOK - YouTube](https://www.youtube.com/watch?v=oJ_N-P_cF3c)
 	- The Quarter Phloen Chit by UHG 
 
 ## [[2022-05-06]]
@@ -40,9 +45,6 @@
 
 - [x] [Why Getters, Mutations, Actions in Vuex Store | by Emad Aldeen Mukhtar | Medium](https://medium.com/@abuoop123/why-getters-mutations-actions-in-vuex-store-77069710d2d5)
 - [ ] [Managing State in Vue with Vuex - Ionic Blog](https://ionicframework.com/blog/managing-state-in-vue-with-vuex/)
-
-
-## [[2022-04-28]]
 
 
 
