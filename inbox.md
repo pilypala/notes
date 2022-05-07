@@ -1,8 +1,14 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
+## [[2022-05-07]]
+- [x] [(5) HOW IS BANGKOK? (APRIL 2022) Thailand vlog | A DAY IN BANGKOK - YouTube](https://www.youtube.com/watch?v=oJ_N-P_cF3c)
+	- The Quarter Phloen Chit by UHG 
+
 ## [[2022-05-06]]
 - [ ] [(156) $375 donner electric drum set review! - YouTube](https://www.youtube.com/watch?v=gKBsomvgu_o)
 	- Good drumer DED200
+- [ ] [I do not recommend the Donner DED-200 drumset (Maybe I'm doing something wrong?) : edrums](https://www.reddit.com/r/edrums/comments/npwxr1/i_do_not_recommend_the_donner_ded200_drumset/)
+	
 
 ## [[2022-04-30]]
 
