@@ -1,6 +1,8 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
 ## [[2022-05-07]]
+- [ ] [3 books that changed my life - YouTube](https://www.youtube.com/watch?v=wafgcPfhEpc)
+	- boiling water example
 - [ ] [(29) $400 E-Drums vs $1800 E-Drums! (Donner DED-200 vs Roland TD17KVX) - YouTube](https://www.youtube.com/watch?v=v0hcnSm-PeQ)
 - [ ] [How I trained myself to focus long periods of time (even when I dont want to) - YouTube](https://www.youtube.com/watch?v=y_EvhJ1u0Ec)
 	- schedule
