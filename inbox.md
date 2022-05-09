@@ -1,5 +1,25 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
+
+## [[2022-05-10]]
+- [ ] [帅气维修厮得了肾病，希望这个HP机主给他报销医药费 - YouTube](https://www.youtube.com/watch?v=ocqA1b1CNGU)
+	- 不饱满的焊盘
+- [ ] [听说挖比特币可以赚钱，用笔记本挖了3分钟结果电脑炸了 - YouTube](https://www.youtube.com/watch?v=jOyqEML57JY)
+	- 电池去掉，待机电流太高70mA， 正常最高10mA
+	- nVidia MATS
+	- 高功率充电器才能带动修好的显卡
+- [ ] [修理这个苹果电脑犹如买股票，维修厮脸都绿了 - YouTube](https://www.youtube.com/watch?v=Q0OJfiftDbI)
+	- 衢州
+- [ ] TC Helicon Play Accoustic
+	- NaturalPlay
+	- RoomSense
+	- [(7) TC Helicon Play Acoustic - GETTING STARTED - YouTube](https://www.youtube.com/watch?v=ri_UIDV7tgM)
+	- 
+
+## [[2022-05-09]]
+
+- [ ] [How I deal with ANXIETY? -Mental Glow up series episode 2 - YouTube](https://www.youtube.com/watch?v=xBaemyOBjPc)
+	- 
 ## [[2022-05-07]]
 - [ ] [3 books that changed my life - YouTube](https://www.youtube.com/watch?v=wafgcPfhEpc)
 	- boiling water example
