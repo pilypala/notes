@@ -22,8 +22,9 @@ D75
 
 ![[loves romance.jpg]]
 
-![[kiseki no yama.pic.jpg]]
 
 ![[wind song.jpg]]
 
 ![[kiss the rain.jpg]]
+
+[[kiseki no yama]]
