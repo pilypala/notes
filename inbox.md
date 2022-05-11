@@ -2,26 +2,10 @@
 # 慢工出细活，欲速则不达
 ## [[2022-05-11]]
 
-[[pcb fixing]]
+[[weixiushi]]
 
 ## [[2022-05-10]]
-- [ ] [(55) My TOP 10 Presets for the TC-Helicon Voicelive Play Acoustic - YouTube](https://www.youtube.com/watch?v=bls1U2KL-dM&t=5s)
-	- setup -> system -> global guitar effect
-	- preset 2 high and low
-	- radio
-	- PB & J  ambient
-	- 7 tuned up and down
-- [ ] [(1) Tears in Heaven (Cover) - Eric Clapton - YouTube](https://www.youtube.com/watch?v=M8iI_N0nHkA)
-- [ ] [(1) TC Helicon Play Electric | Product Demo #2 - YouTube](https://www.youtube.com/watch?v=tnVMtcUrbRo)
 
-- [ ] [帅气维修厮得了肾病，希望这个HP机主给他报销医药费 - YouTube](https://www.youtube.com/watch?v=ocqA1b1CNGU)
-	- 不饱满的焊盘
-- [ ] [听说挖比特币可以赚钱，用笔记本挖了3分钟结果电脑炸了 - YouTube](https://www.youtube.com/watch?v=jOyqEML57JY)
-	- 电池去掉，待机电流太高70mA， 正常最高10mA
-	- nVidia MATS
-	- 高功率充电器才能带动修好的显卡
-- [ ] [修理这个苹果电脑犹如买股票，维修厮脸都绿了 - YouTube](https://www.youtube.com/watch?v=Q0OJfiftDbI)
-	- 衢州
 - [ ] TC Helicon Play Accoustic
 	- NaturalPlay
 	- RoomSense
