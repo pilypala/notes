@@ -1,8 +1,20 @@
- #up/project/uplift project_uplift
+#up/project/uplift project_uplift
 
-#project
-
+[😊start](http://localhost:6001/user/1/start/%23up%2Fproject%2Fuplift%20project_uplift%0D%0A)
 [[Servers]]
+[[wsl firewall]]
+
+
+### [[2022-05-12]]
+- [x]  URL encoder for obsidian
+	- [x]  [WSL2/UbuntuのIPアドレスを取得したい - Qiita](https://qiita.com/neko_the_shadow/items/25b797cb436078b9e832)
+	- [x]  [[wsl firewall]]
+	- [x]  [Performing port-proxying and port-forwarding on Windows · Embrace The Red](https://embracethered.com/blog/posts/2020/windows-port-forward/)
+		- [x]  `netsh interface portproxy reset`
+		- [x]  `netsh interface portproxy show all`
+	- [x]  user link for md 
+- [ ] Page showing successful start or failure 
+	- [ ] start a count down
 
 ### [[2022-05-11]]
 
@@ -11,6 +23,8 @@
 		-  [WSL Port Forwarding - DEV Community](https://dev.to/vishnumohanrk/wsl-port-forwarding-2e22)
 		-  https://expressjs.com/en/starter/hello-world.html
 		-  [Serving static files in Express](https://expressjs.com/en/starter/static-files.html)
+	- [ ]  URL encoder for obsidian
+		- [ ]  
 	- [ ] Page showing successful start or failure
 
 
