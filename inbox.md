@@ -2,6 +2,7 @@
 # 慢工出细活，欲速则不达
 
 ## [[2022-05-12]]
+- [ ] [Did the CCP fight the Japanese? - Quora](https://www.quora.com/Did-the-CCP-fight-the-Japanese)
 - [ ] [(10) LEARNING C++ with Java/C#/Python Experience // Code Review - YouTube](https://www.youtube.com/watch?v=gkEHofFbYyU)
 - [ ] [吉野家またやらかす。。。今度は人種差別？ - YouTube](https://www.youtube.com/watch?v=v75zM8dS5Pc)
 - [ ] [(136) BEST WAY to make Desktop Applications in C++ - YouTube](https://www.youtube.com/watch?v=vWXrFetSH8w)
