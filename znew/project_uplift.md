@@ -4,6 +4,15 @@
 [[Servers]]
 [[wsl firewall]]
 
+### [[2022-05-13]]
+- [ ] db table for user and task
+	- [ ] id, name, createdAt
+	- [ ] http://47.111.95.20/padn
+	- [ ] [node-mysql2/Promise-Wrapper.md at master · sidorares/node-mysql2](https://github.com/sidorares/node-mysql2/blob/master/documentation/Promise-Wrapper.md)
+- [ ] Page showing successful start or failure 
+	- [ ] start a count down
+- [x] [SSH keygen best practice for cmder – Luke Scammell's Personal Blog](https://www.scammell.co.uk/2017/09/18/ssh-keygen-best-practice-for-cmder/)
+- [x] [[Servers]]
 
 ### [[2022-05-12]]
 - [x]  URL encoder for obsidian

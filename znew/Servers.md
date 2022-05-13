@@ -22,3 +22,6 @@ root : eJUDqBSp!
 fsserver : Sq3Wne7W
 
 **
+
+- [ ] [aliyun][ssh]
+	- [ ] jake :  CLsxnkjM
