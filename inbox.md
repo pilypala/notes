@@ -1,7 +1,12 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
 
+## [[2022-05-14]]
+
+- [ ] [visual studio code - Is there a hotkey to switch between split window panes? - Stack Overflow](https://stackoverflow.com/questions/36328029/is-there-a-hotkey-to-switch-between-split-window-panes)
+
 ## [[2022-05-12]]
+
 - [ ] [Did the CCP fight the Japanese? - Quora](https://www.quora.com/Did-the-CCP-fight-the-Japanese)
 - [ ] [(10) LEARNING C++ with Java/C#/Python Experience // Code Review - YouTube](https://www.youtube.com/watch?v=gkEHofFbYyU)
 - [ ] [吉野家またやらかす。。。今度は人種差別？ - YouTube](https://www.youtube.com/watch?v=v75zM8dS5Pc)
