@@ -4,6 +4,11 @@
 ## [[2022-05-14]]
 
 - [ ] [(湖北歷史老師)發展才是硬道理！中國強了，台灣問題自然解決。國家之間，實力就是最高原則。俄羅斯被譴責就是因為不夠強。 - YouTube](https://www.youtube.com/watch?v=AB7GKzfA0NQ)
+- [ ] [Learn these keyboard shortcuts to become a VS Code ninja - LogRocket Blog](https://blog.logrocket.com/learn-these-keyboard-shortcuts-to-become-a-vs-code-ninja/#:~:text=By%20using%20alt%20%2B%20left%20%2F%20right,file%20in%20the%20file%20history.)
+	- [ ] ctrl+g, go to line
+	- [ ] ctrl+shift+o, go to symbol
+	- [ ] ctrl+up, jump back
+	- [ ]  
 - [ ] [visual studio code - Is there a hotkey to switch between split window panes? - Stack Overflow](https://stackoverflow.com/questions/36328029/is-there-a-hotkey-to-switch-between-split-window-panes)
 
 ## [[2022-05-12]]

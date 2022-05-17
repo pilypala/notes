@@ -1,15 +1,26 @@
 #up/project/uplift project_uplift
+[[2022-05-15]] [[2022-05-17]][[2022-05-17]]
 
 [😊start](http://localhost:6001/user/1/start/%23up%2Fproject%2Fuplift%20project_uplift%0D%0A)
 [[Servers]]
 [[wsl firewall]]
 
-### [[2022-05-14]]
- - [ ] add status column to task
-	 - [ ] running or done enum
+### [[2022-05-17]]
+- [ ] user page design 
+	- [ ] parcel vue
+	
+- [ ] start and stop a count down
+	
+### [[2022-05-15]]
+
+ - [x] start counter on task for user id
 - [ ] Page showing successful start or failure 
 	- [ ] start a count down
 	
+### [[2022-05-14]]
+ - [x] add status column to task
+	 - [x] running or done enum
+
 ### [[2022-05-13]]
 - [x] db table for user and task
 	- [x] id, name, createdAt
