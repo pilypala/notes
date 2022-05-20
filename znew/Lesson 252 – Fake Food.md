@@ -1,6 +1,6 @@
 #up/jp Lesson 252 – Fake Food
 
-[[2022-05-05]] [[2022-05-08]]
+[[2022-05-05]] [[2022-05-08]] [[2022-05-18]] [[2022-05-19]]
 
 
 - [ ] [Lesson 252 – Fake Food | News in Slow Japanese](https://newsinslowjapanese.com/2022/04/03/lesson-252-fake-food

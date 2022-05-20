@@ -1,6 +1,9 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
-
+- [ ] [(54) ❌千万别买在泰国买房，如果你不了解这些坑，到时后悔都来不及 - YouTube](https://www.youtube.com/watch?v=-fj0MkYTzuw)
+## [[2022-05-18]]
+- [ ] [盘点那些“流氓式”撩妹现场，撩的美女脸蛋通红，真是绝了 - YouTube](https://www.youtube.com/watch?v=ErJQPj5ko5Q)
+- [ ] 
 ## [[2022-05-14]]
 
 - [ ] [(湖北歷史老師)發展才是硬道理！中國強了，台灣問題自然解決。國家之間，實力就是最高原則。俄羅斯被譴責就是因為不夠強。 - YouTube](https://www.youtube.com/watch?v=AB7GKzfA0NQ)
