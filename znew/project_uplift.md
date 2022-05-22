@@ -1,11 +1,16 @@
 #up/project/uplift project_uplift
 [[2022-05-15]] [[2022-05-17]][[2022-05-17]] [[2022-05-18]]
+[[2022-05-22]]
 
 [😊start](http://localhost:6001/user/1/start/%23up%2Fproject%2Fuplift%20project_uplift%0D%0A)
 [[Servers]]
 [[wsl firewall]]
 
 
+### [[2022-05-22]]
+- [ ] user page design 
+	- [ ] [Progress · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/components/progress/)
+	- [ ] [Rounded Clock](file:///D:/Users/Guoping%20Huang/Downloads/rounded-clock-main/index.html)
 
 ### [[2022-05-18]]
 - [ ] user page design 
