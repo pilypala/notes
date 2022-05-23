@@ -1,5 +1,8 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
+## [[2022-05-23]]
+
+- [ ] [An Interactive Guide to CSS Keyframe Animations with @keyframes](https://www.joshwcomeau.com/animation/keyframe-animations/)
 
 
 ## [[2022-05-22]]
