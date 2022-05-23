@@ -1,16 +1,35 @@
 #up/project/uplift project_uplift
+
 [[2022-05-15]] [[2022-05-17]][[2022-05-17]] [[2022-05-18]]
-[[2022-05-22]]
+[[2022-05-22]] [[2022-05-22]][[2022-05-22]]
 
 [😊start](http://localhost:6001/user/1/start/%23up%2Fproject%2Fuplift%20project_uplift%0D%0A)
 [[Servers]]
 [[wsl firewall]]
 
 
+### [[2022-05-23]]
+- [ ] user page design 
+	- [ ] [Rounded Clock](file:///D:/Users/Guoping%20Huang/Downloads/rounded-clock-main/index.html)
+	- [ ] making countdown work
+		- [ ] local countdown with vuex
+		- [ ] [Quickly pause JavaScript execution - Chrome DevTools - Dev Tips](https://umaar.com/dev-tips/178-quick-pause-script-execution/#:~:text=Alternatively%2C%20you%20can%20pause%20on,Windows%3A%20F8%20or%20_Control%20%2B%20%5C_) 
+	- [ ] [vue.js - Vuex Action vs Mutations - Stack Overflow](https://stackoverflow.com/questions/39299042/vuex-action-vs-mutations#:~:text=Mutations%2C%20as%20the%20name%20suggests,asynchronous%20code%20or%20business%20logic.)
+		- [ ] However, by doing this you're scattering your state mutations all over the place. You lose the ability to simply just open a single module housing the state and at a glance see what kind of operations can be applied to it. Having centralized mutations solves this, albeit at the cost of some boilerplate.
+		- [ ] the state, with almost no business logic. In other words, mutations are meant to be mostly used like setters.
+
 ### [[2022-05-22]]
 - [ ] user page design 
 	- [ ] [Progress · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/components/progress/)
 	- [ ] [Rounded Clock](file:///D:/Users/Guoping%20Huang/Downloads/rounded-clock-main/index.html)
+	- [ ]  [CSS { In Real Life } | Finding an Element’s Nearest Relative Positioned Ancestor](https://css-irl.info/finding-an-elements-nearest-relative-positioned-ancestor/)
+		- [ ]  $0.offsetParent
+		- [ ]  getComputedStyle($0.offsetParent).position
+		- [ ]  getComputedStyle($_).position
+	- [ ] [stroke-dasharray | CSS-Tricks - CSS-Tricks](https://css-tricks.com/almanac/properties/s/stroke-dasharray/)
+		- [ ] This will override a presentation attribute <path stroke-dasharray="5" ... />
+		- [ ] This will not override an inline style e.g. <path style="stroke-dasharray: 5;" ... />
+		- [ ] [How SVG Line Animation Works | CSS-Tricks - CSS-Tricks](https://css-tricks.com/svg-line-animation-works/)
 
 ### [[2022-05-18]]
 - [ ] user page design 

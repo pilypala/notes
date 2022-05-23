@@ -7,14 +7,7 @@
 
 ## [[2022-05-22]]
 
-- [ ]  [CSS { In Real Life } | Finding an Element’s Nearest Relative Positioned Ancestor](https://css-irl.info/finding-an-elements-nearest-relative-positioned-ancestor/)
-	- [ ]  $0.offsetParent
-	- [ ]  getComputedStyle($0.offsetParent).position
-	- [ ]  getComputedStyle($_).position
-- [ ] [stroke-dasharray | CSS-Tricks - CSS-Tricks](https://css-tricks.com/almanac/properties/s/stroke-dasharray/)
-	- [ ] This will override a presentation attribute <path stroke-dasharray="5" ... />
-	- [ ] This will not override an inline style e.g. <path style="stroke-dasharray: 5;" ... />
-	- [ ] [How SVG Line Animation Works | CSS-Tricks - CSS-Tricks](https://css-tricks.com/svg-line-animation-works/)
+- [ ] [7 ES6 Spread Operator Tricks Every Developer Should Know | by fatfish | May, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/7-es6-spread-operator-tricks-every-developer-should-know-f162d602c9d6)
 
 
 ## [[2022-05-21]]
