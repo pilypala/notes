@@ -1,22 +1,34 @@
 #up/project/uplift project_uplift
 
 [[2022-05-15]] [[2022-05-17]][[2022-05-17]] [[2022-05-18]]
-[[2022-05-22]] [[2022-05-22]][[2022-05-22]]
+[[2022-05-22]] [[2022-05-22]][[2022-05-22]] [[2022-05-23]] [[2022-05-23]] [[2022-05-23]]
 
 [😊start](http://localhost:6001/user/1/start/%23up%2Fproject%2Fuplift%20project_uplift%0D%0A)
 [[Servers]]
 [[wsl firewall]]
 
 
+
 ### [[2022-05-23]]
+
+- [ ] starting a task for user id 1
+	- [ ] success/fail page for the startlink
+	- [ ] [Alerts · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/components/alerts/)
+	- [ ] [Using EJS Template Engine With Express.js](https://www.topcoder.com/thrive/articles/using-ejs-template-engine-with-express-js)
+	- [ ] [How to use EJS to template your Node.js application - LogRocket Blog](https://blog.logrocket.com/how-to-use-ejs-template-node-js-application/)
+	
 - [ ] user page design 
 	- [ ] [Rounded Clock](file:///D:/Users/Guoping%20Huang/Downloads/rounded-clock-main/index.html)
 	- [ ] making countdown work
-		- [ ] local countdown with vuex
-		- [ ] [Quickly pause JavaScript execution - Chrome DevTools - Dev Tips](https://umaar.com/dev-tips/178-quick-pause-script-execution/#:~:text=Alternatively%2C%20you%20can%20pause%20on,Windows%3A%20F8%20or%20_Control%20%2B%20%5C_) 
-	- [ ] [vue.js - Vuex Action vs Mutations - Stack Overflow](https://stackoverflow.com/questions/39299042/vuex-action-vs-mutations#:~:text=Mutations%2C%20as%20the%20name%20suggests,asynchronous%20code%20or%20business%20logic.)
-		- [ ] However, by doing this you're scattering your state mutations all over the place. You lose the ability to simply just open a single module housing the state and at a glance see what kind of operations can be applied to it. Having centralized mutations solves this, albeit at the cost of some boilerplate.
-		- [ ] the state, with almost no business logic. In other words, mutations are meant to be mostly used like setters.
+		- [x] local countdown with vuex
+		- [x] [Quickly pause JavaScript execution - Chrome DevTools - Dev Tips](https://umaar.com/dev-tips/178-quick-pause-script-execution/#:~:text=Alternatively%2C%20you%20can%20pause%20on,Windows%3A%20F8%20or%20_Control%20%2B%20%5C_) 
+	- [ ] [Vuex showdown: Mutations vs. actions - LogRocket Blog](https://blog.logrocket.com/vuex-showdown-mutations-vs-actions/)
+		- [x] This reasoning is the same as the recommendation that [CSS classes not be named](https://blog.logrocket.com/5-things-to-consider-when-creating-your-css-style-guide-7b85fa70039d/) ==for the style they apply, but rather the meaning of the style  —  i.e., don’t call it `redAndBold`, but rather `activeMenuItem`.==
+		- [x] ==Another aspect of mutations that contributes to their transactional nature is that they are intended to be pure functions. Mutations are intended to receive input only via their payload and to not produce side effects elsewhere. While actions get a full context to work with, mutations only have the `state` and the `payload`.==
+		- [x] ==To ensure this doesn’t happen, always remember that actions should also serve a functional role. If what your action does can be done with a simple mutation, keep it like that. Only use actions when your state-changing code:==
+			 -  Outgrows a mutation
+			 -  Requires committing a few mutations in certain order
+			 -  Deals with async code
 
 ### [[2022-05-22]]
 - [ ] user page design 
