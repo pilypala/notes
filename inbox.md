@@ -1,5 +1,24 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
+
+
+## [[2022-05-25]]
+
+- [ ] [最高學以致用法 — Cato Yeung](https://www.catoyeung.com/blog/the-power-of-output-how-to-change-learning-to-outcome-)
+	- [ ] need to generate something on what you've read or learned in order to commit to memory
+- [ ] [My reflection on The power of input and The power of output by Shion Kabasawa | by Anson Wong | Medium](https://ansoncwwong.medium.com/my-reflection-on-the-power-of-input-and-the-power-of-output-by-shion-kabasawa-69c006db57f8)
+	- [ ] ==You will only take in as much as you give out.==
+	- [ ] improve quality of your input by setting output goals
+	- [ ] ![[output goals.png]]
+- [ ] [Book review: 『アウトプット大全』by Shion KABASAWA – Inside That Japanese Book](https://insidethatjapanesebook.com/2019/10/20/book-review-%E3%80%8E%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88%E5%A4%A7%E5%85%A8%E3%80%8Fby-shion-kabasawa/)
+- [ ] [how I LEARNED A LANGUAGE by myself WITHOUT STUDYING it | language tips from a POLYGLOT - YouTube](https://www.youtube.com/watch?v=7YX7PAdo4B0)
+	- [ ] specify a goal
+	- [ ] watch with subtitle
+	- [ ] watfch wihout subtitle
+	- [ ] explain to yourself
+	- [ ] start reading
+	- [ ] speed up video
+
 ## [[2022-05-23]]
 
 - [ ] [An Interactive Guide to CSS Keyframe Animations with @keyframes](https://www.joshwcomeau.com/animation/keyframe-animations/)
