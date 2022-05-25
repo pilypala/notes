@@ -8,12 +8,15 @@
 [[wsl firewall]]
 
 
+### [[2022-05-24]]
+- [ ] starting a task for user id 1
+	- [ ] can't start a task when there is a task running
 
 ### [[2022-05-23]]
 
 - [ ] starting a task for user id 1
-	- [ ] success/fail page for the startlink
-	- [ ] [Alerts · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/components/alerts/)
+	- [x] success/fail page for the startlink
+	- [x] [Alerts · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/components/alerts/)
 	- [ ] [Using EJS Template Engine With Express.js](https://www.topcoder.com/thrive/articles/using-ejs-template-engine-with-express-js)
 	- [ ] [How to use EJS to template your Node.js application - LogRocket Blog](https://blog.logrocket.com/how-to-use-ejs-template-node-js-application/)
 	
