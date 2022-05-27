@@ -1,0 +1,12 @@
+- [ ] [Get started with Docker Compose | Docker Documentation](https://docs.docker.com/compose/gettingstarted/)
+	- [ ] [Install Docker Engine on Ubuntu | Docker Documentation](https://docs.docker.com/engine/install/ubuntu/)
+- [ ] [(23) Docker Compose Tutorial - YouTube](https://www.youtube.com/watch?v=HG6yIjZapSA)
+	- [ ] docker image ls
+	- [ ] docker ps
+	- [ ] docker image ls -q
+	- [ ] docker image rm $(docker image ls -q)
+	- [ ] docker container rm -f $(docker container ls -aq)
+	- [ ] docker network ls
+	- [ ] docker exec  -it  8cb sh
+		- [ ] ping api
+		- [ ] docker exec  -it -u root 8cb sh
