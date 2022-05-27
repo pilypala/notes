@@ -1,11 +1,25 @@
 #up/project/uplift project_uplift
 
 [[2022-05-15]] [[2022-05-17]][[2022-05-17]] [[2022-05-18]]
-[[2022-05-22]] [[2022-05-22]][[2022-05-22]] [[2022-05-23]] [[2022-05-23]] [[2022-05-23]]
+[[2022-05-22]] [[2022-05-22]][[2022-05-22]] [[2022-05-23]] [[2022-05-23]] [[2022-05-23]] [[2022-05-28]] [[2022-05-28]]
 
 [😊start](http://localhost:6001/user/1/start/%23up%2Fproject%2Fuplift%20project_uplift%0D%0A)
 [[Servers]]
 [[wsl firewall]]
+
+
+### [[2022-05-27]]
+- [x] start a task for user id 1
+- [x] display countdown for such task
+	- [x] restore timer state
+	- [x] [timezone - How do I get the current time zone of MySQL? - Stack Overflow](https://stackoverflow.com/questions/2934258/how-do-i-get-the-current-time-zone-of-mysql)
+	- [x]  SELECT EXTRACT(HOUR FROM (TIMEDIFF(NOW(), UTC_TIMESTAMP))) AS `timezone`
+- [ ] timer expires after 1hr
+	
+### [[2022-05-25]]
+- [x] start a task for user id 1
+- [ ] display countdown for such task
+	- [ ] restart timer action
 
 
 ### [[2022-05-24]]
