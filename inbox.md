@@ -1,5 +1,7 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
+## [[2022-05-28]]
+- [ ] [[docker]]
 
 ## [[2022-05-27]]
 - [ ] [近三十年来，最好看的12部日剧盘点！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Rk4y1971b?spm_id_from=333.337.search-card.all.click)
@@ -71,29 +73,5 @@
 [[weixiushi]]
 
 
-## [[2022-05-09]]
-
-- [ ] [How I deal with ANXIETY? -Mental Glow up series episode 2 - YouTube](https://www.youtube.com/watch?v=xBaemyOBjPc)
-	- 
-## [[2022-05-07]]
-- [ ] [3 books that changed my life - YouTube](https://www.youtube.com/watch?v=wafgcPfhEpc)
-	- boiling water example
-- [ ] [(29) $400 E-Drums vs $1800 E-Drums! (Donner DED-200 vs Roland TD17KVX) - YouTube](https://www.youtube.com/watch?v=v0hcnSm-PeQ)
-- [ ] [How I trained myself to focus long periods of time (even when I dont want to) - YouTube](https://www.youtube.com/watch?v=y_EvhJ1u0Ec)
-	- schedule
-	- repeat things that make you more productive
-	- 
-
-- [ ] WL SIL8.5mm connector
-	- ![[SIL.png]]
-	- ![[SIL.psd]]
-
-- [ ] [(5) HOW IS BANGKOK? (APRIL 2022) Thailand vlog | A DAY IN BANGKOK - YouTube](https://www.youtube.com/watch?v=oJ_N-P_cF3c)
-	- The Quarter Phloen Chit by UHG 
-
-## [[2022-05-06]]
-- [ ] [(156) $375 donner electric drum set review! - YouTube](https://www.youtube.com/watch?v=gKBsomvgu_o)
-	- Good drumer DED200
-- [ ] [I do not recommend the Donner DED-200 drumset (Maybe I'm doing something wrong?) : edrums](https://www.reddit.com/r/edrums/comments/npwxr1/i_do_not_recommend_the_donner_ded200_drumset/)
 
 
