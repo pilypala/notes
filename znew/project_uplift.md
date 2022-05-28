@@ -7,6 +7,13 @@
 [[Servers]]
 [[wsl firewall]]
 
+### [[2022-05-29]]
+- [ ] actually using the dev version
+- [x] fetch all tasks for the today
+	- [x] display using bars, grouped by tasks
+- [ ] able to resume running task with done tasks
+	- [ ] if running task is longer than 2hrs, set it to done and put it to be 2hrs 
+
 
 ### [[2022-05-27]]
 - [x] start a task for user id 1
