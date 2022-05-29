@@ -7,12 +7,24 @@
 [[Servers]]
 [[wsl firewall]]
 
+### [[2022-05-30]]
+- [x] displaying two days worth of done tasks
+	- [x] done tasks for two days from server
+	- [x] [How to Format Dates in JavaScript with One Line of Code](https://www.freecodecamp.org/news/how-to-format-dates-in-javascript/)
+		- [x] toLocaleDateString('en-us', { weekday:"long", year:"numeric", month:"short", day:"numeric"}) 
+- [ ] routine that checks if UI needs update
+	- [ ] check every second to see if the bar the running task is updated with new color
+		- [ ] needs to include running task in the chart
+		- [ ] update the bars for running task when it gets to a point
+- [ ] actually using the dev version
+
+
 ### [[2022-05-29]]
 - [ ] actually using the dev version
 - [x] fetch all tasks for the today
 	- [x] display using bars, grouped by tasks
-- [ ] able to resume running task with done tasks
-	- [ ] if running task is longer than 2hrs, set it to done and put it to be 2hrs 
+- [x] able to resume running task with done tasks
+	- [x] if running task is longer than 2hrs, set it to done and put it to be 2hrs 
 
 
 ### [[2022-05-27]]
