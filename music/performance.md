@@ -1,5 +1,6 @@
 [【夏天播放乐队合辑】35首歌100分钟抒情版，丽江醉乡民谣现场。 - YouTube](https://www.youtube.com/watch?v=T4rFs0XKs1c)
 	
+- [[天使75C]]
 - 成都D60
 - [[亲密爱人]]
 - [[斑马斑马]]
