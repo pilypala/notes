@@ -1,5 +1,10 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
+## [[2022-05-29]]
+- [ ] [(260) 【MU】電子ドラム、これが現実です (Roland TD-1KV) - YouTube](https://www.youtube.com/watch?v=NfBk3hubcPA)
+- [ ] [(262) 泰国生活成本那么低吗？真实的泰国消费，不吹不黑，本集没笑点 - YouTube](https://www.youtube.com/watch?v=Fd2AseL_bXc)
+- [ ] [(4) 重庆皮特哥暂别泰国 征战国内娱乐圈|参加业主大会 澳洲大叔出风头 - YouTube](https://www.youtube.com/watch?v=0MLVXHwsUKU)
+
 ## [[2022-05-28]]
 - [ ] [[docker]]
 
