@@ -1,4 +1,4 @@
-The Last Ten Years
+#up/jp/newsineasyjapanese The Last Ten Years
 
 - [NISJ-374-Movie: The Last Ten Years | News in Slow Japanese](https://newsinslowjapanese.com/2022/01/29/nisj-374-movie-the-last-ten-years/)
 

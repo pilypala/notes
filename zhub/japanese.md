@@ -3,11 +3,13 @@ sr-due: 2022-04-30
 sr-interval: 1
 sr-ease: 149
 ---
+
 #japanese
 #up/jp japanese
 
+[[newsinslowjapanese]]
 
-[[2022-05-08]]
+[[jpdrama]]
 
 [[Lesson 252 – Fake Food]]
 [[中国語ネイティブが会話で使うリアルなフレーズ]]
@@ -32,7 +34,6 @@ sr-ease: 149
 
 ### といった (to itta)
 https://jlptsensei.com/learn-japanese-grammar/%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F-to-itta-meaning/
-
 
 [[気になる」「気にする」「気がする」「気がある」の違い]]
 
