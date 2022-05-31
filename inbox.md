@@ -1,5 +1,11 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
+
+## [[2022-05-31]]
+- [ ] [(19) 上海大爷泰国养老，2月减肥20斤。放着上海6套房不住，在清迈买房，买车，还要。。。 - YouTube](https://www.youtube.com/watch?v=847-yj3K0Vo)
+- [ ] ![[Pasted image 20220j531001744.png]]
+- [ ] [(39) Asking Adam "Pacman" Jones For an Autograph | Tom Segura Stand Up Comedy | "Disgraceful" on Netflix - YouTube](https://www.youtube.com/watch?v=MTP9Vvaclp4)
+- [ ] life is about timing
 ## [[2022-05-29]]
 - [ ] [(260) 【MU】電子ドラム、これが現実です (Roland TD-1KV) - YouTube](https://www.youtube.com/watch?v=NfBk3hubcPA)
 - [ ] [(262) 泰国生活成本那么低吗？真实的泰国消费，不吹不黑，本集没笑点 - YouTube](https://www.youtube.com/watch?v=Fd2AseL_bXc)
