@@ -5,7 +5,7 @@
 
 ## [[2022-05-31]]
 - [ ] [(19) 上海大爷泰国养老，2月减肥20斤。放着上海6套房不住，在清迈买房，买车，还要。。。 - YouTube](https://www.youtube.com/watch?v=847-yj3K0Vo)
-- [ ] ![[Pasted image 20220j531001744.png]]
+- [ ] ![[有目的的生活比较有动力.png]]
 - [ ] [(39) Asking Adam "Pacman" Jones For an Autograph | Tom Segura Stand Up Comedy | "Disgraceful" on Netflix - YouTube](https://www.youtube.com/watch?v=MTP9Vvaclp4)
 - [ ] life is about timing
 ## [[2022-05-29]]
