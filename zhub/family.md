@@ -9,7 +9,7 @@
 
 ## [[GuopingHuang]]
 
-## [[黄金钗]]
+## [[黄金钗JinchaiHuang]]
 
 ## [[克拉公寓]]
 
