@@ -1,11 +1,18 @@
 #up/project/uplift project_uplift
 
 [[2022-05-15]] [[2022-05-17]][[2022-05-17]] [[2022-05-18]]
-[[2022-05-22]] [[2022-05-22]][[2022-05-22]] [[2022-05-23]] [[2022-05-23]] [[2022-05-23]] [[2022-05-28]] [[2022-05-28]]
+[[2022-05-22]] [[2022-05-22]][[2022-05-22]] [[2022-05-23]] [[2022-05-23]] [[2022-05-23]] [[2022-05-28]] [[2022-05-28]] [[2022-06-02]]
 
 [😊start](http://localhost:6001/user/1/start/%23up%2Fproject%2Fuplift%20project_uplift%0D%0A)
 [[Servers]]
 [[wsl firewall]]
+
+### [[2022-06-02]]
+
+	UPDATE ULTBL_task SET created_at = ADDTIME( created_at, "24:00:00");
+	UPDATE ULTBL_task SET updated_at = ADDTIME( created_at, "24:00:00");
+	
+	
 
 ### [[2022-05-30]]
 - [x] displaying two days worth of done tasks

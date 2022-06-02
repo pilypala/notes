@@ -1,6 +1,9 @@
 #up/laserOS/hardware lasercube_esp32
 
 
+### [[2022-06-02]]
+
+SSC53L
 
 [[2022-05-22]]
 
