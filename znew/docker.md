@@ -10,3 +10,19 @@
 	- [ ] docker exec  -it  8cb sh
 		- [ ] ping api
 		- [ ] docker exec  -it -u root 8cb sh
+
+- [ ] [(2) you need to learn Docker RIGHT NOW!! // Docker Containers 101 - YouTube](https://www.youtube.com/watch?v=eGz9DS-aIeY)
+	- [ ] solar putty
+	- [ ] docker pull centos
+	- [ ] docker -d -t -name name centos
+	- [ ] docker ps
+	- [ ] docker exec -it name bash
+	- [ ] -p 80:80
+	- [ ] docker stats
+
+- [ ] [(2) Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - YouTube](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [ ] ![[docker basic commands.png]]
+- [ ] docker ps -a
+- [ ] debugging
+	- [ ] docker logs id/name
+	- [ ] 

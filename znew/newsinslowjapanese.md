@@ -1,4 +1,6 @@
-#up/jp/newsineasyjapanese 
+#up/jp/newsineasyjapanese 副女将
+
+[[2022-06-01]]  [[2022-06-02]]
 
 - [ ] [Lesson 253 – Dutch Woman Becomes Assistant Proprietress of a Ryokan | News in Slow Japanese](https://newsinslowjapanese.com/2022/05/21/lesson-253-dutch-woman-becomes-assistant-proprietress-of-a-ryokan/)
 

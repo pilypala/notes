@@ -1,7 +1,19 @@
 # [[天下武功，为快不破]]
 # 慢工出细活，欲速则不达
 # Life is about timing
+# move with a purpose
+## [[2022-06-04]]
+- [ ] [(7) お手軽コンパクト電子ドラム！ ROLAND(ローランド) V-Drums TD-1KV @豊橋市 シライミュージック - YouTube](https://www.youtube.com/watch?v=qafeNpZQm-o)
 
+## [[2022-06-02]]
+
+- [ ] [(4) 秦霄贤《碎银几两》，独特嗓音又苏又欲 | 天津卫视相声春晚 2022 | 优酷综艺 YOUKU SHOW - YouTube](https://www.youtube.com/watch?v=NKs_FQfv6eE)
+- [ ] [(7) お手軽コンパクト電子ドラム！ ROLAND(ローランド) V-Drums TD-1KV @豊橋市 シライミュージック - YouTube](https://www.youtube.com/watch?v=qafeNpZQm-o)
+
+## [[2022-06-01]]
+
+- [ ] [(10) Drumming MISTAKES That KILL Your Progress (I did them all 😭) - YouTube](https://www.youtube.com/watch?v=shhnqkM5oYs)
+- [ ] [[docker]]
 
 ## [[2022-05-31]]
 - [ ] [(19) 上海大爷泰国养老，2月减肥20斤。放着上海6套房不住，在清迈买房，买车，还要。。。 - YouTube](https://www.youtube.com/watch?v=847-yj3K0Vo)

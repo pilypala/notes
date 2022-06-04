@@ -7,3 +7,5 @@
 - [ ] [非自然死亡-电视剧-全集-高清正版在线观看-bilibili-哔哩哔哩](https://www.bilibili.com/bangumi/play/ss24053?spm_id_from=333.337.0.0)
 - [ ] [半泽直树第1集-电视剧-全集-高清独家在线观看-bilibili-哔哩哔哩](https://www.bilibili.com/bangumi/play/ep351870?spm_id_from=333.337.0.0)
 	- [ ] やられたら　やり返す
+	- [ ] うちの支店にとどまらず
+	- [ ] あんな病気さえしなきゃ
