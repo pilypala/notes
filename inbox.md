@@ -2,6 +2,29 @@
 # 慢工出细活，欲速则不达
 # Life is about timing
 # move with a purpose
+
+## [[2022-06-07]]
+- [ ] [(159) Why 95% of Self-Taught Programmers Fail (Honest Advice) - YouTube](https://www.youtube.com/watch?v=ueXjGMrmn8k)
+	- [ ] simple schedule
+	- [ ] clarity is king
+	- [ ] plan and review
+	- [ ] hands-on repeat
+- [ ] [(162) 7 Habits I've Picked Up From Senior Software Developers - YouTube](https://www.youtube.com/watch?v=zivngNtLiuY)
+	- [ ] train to focus
+		- [ ] read books to clam mind, train focus
+		- [ ] automation
+		- [ ] be pragmatic, dont over engineer
+		- [ ] teach others
+		- [ ] open minded
+		- [ ] discussions/feedbacks
+		- [ ] follow interests
+## [[2022-06-06]]
+- [ ] [(139) Record Guitar Like A PRO (& revealing my BIG secret!) - YouTube](https://www.youtube.com/watch?v=ww-cH29IGeM)
+- [ ] [(141) How To Quickly Mix An Acoustic Song Performance (vocals + guitar) - YouTube](https://www.youtube.com/watch?v=5-0aQGUiycY)
+- [ ] [(2) FISHMAN TONEDEQ - Demo and Acoustic Tones - YouTube](https://www.youtube.com/watch?v=2MoBcSVprkw)
+- [ ] [(5) Easy Way to Transpose Songs on Guitar - YouTube](https://www.youtube.com/watch?v=DNofS3dCDiw)
+- [ ] [(5) 7 Best Ways to Practice Guitar - YouTube](https://www.youtube.com/watch?v=AXgAYvL86f8)
+
 ## [[2022-06-04]]
 - [ ] [(7) お手軽コンパクト電子ドラム！ ROLAND(ローランド) V-Drums TD-1KV @豊橋市 シライミュージック - YouTube](https://www.youtube.com/watch?v=qafeNpZQm-o)
 

@@ -1,0 +1,3 @@
+- [ ] [(41) 水鬼之王派克各項技能解析！極緻斬殺，清空血槽，教你怎樣玩轉絕地輔助！丨兰斯Rance - YouTube](https://www.youtube.com/watch?v=JHSKwi-Iqww)
+	- [ ] 不考虑增加生命，
+	- [ ] ![[Pasted image 20220606122334.png]]

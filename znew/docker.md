@@ -25,4 +25,24 @@
 - [ ] docker ps -a
 - [ ] debugging
 	- [ ] docker logs id/name
+- [ ] docker network
+	- [ ] docker network ls
+	- [ ] docker network create network_name
+- [ ] docker compose
+	- [ ] ![[Pasted image 20220606031531.png]]
+	- [ ] ![[Pasted image 20220606033238.png]]
+	- [ ] ![[Pasted image 20220606033456.png]]
+- [ ] blueprint for building images -> docker file
+	- [ ] FROM
+	- [ ] ENV
+	- [ ] RUN
+	- [ ] COPY
+	- [ ] CMD
+	- [ ] docker build -t myapp:1.0 . 
+	- [ ] docker run --rm flag
+
+- [ ] [(162) Docker Volumes with Persistent Data in Containers | Beginners Tutorial - YouTube](https://www.youtube.com/watch?v=OrQLrqQm4M0)
+	- [ ] docker volume --help
+	- [ ] docker run -itd --name voltest --mount source=myvol,target=/vol alpine
+	- [ ] docker system prune
 	- [ ] 
