@@ -1,3 +1,29 @@
+- [x] notes
+	- [ ] docker build -t pilypala/uplift/dev .
+	- [ ] [Docker Build: A Beginner's Guide to Building Docker Images](https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/)
+		- [ ] docker run -p6001:6001 pilypala/uplift/dev
+	- [ ] [Interactive shell using Docker Compose - Stack Overflow](https://stackoverflow.com/questions/36249744/interactive-shell-using-docker-compose)
+		- [ ] docker-compose run --rm servicename
+
+		
+		
+```
+curl -L https://github.com/docker/compose/releases/download/v2.6.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+```
+
+
+- [ ] [Docker run vs docker-compose: What's the difference?](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Docker-run-vs-docker-compose-Whats-the-difference)
+	
+
+- [x] [Docker CMD vs ENTRYPOINT: What’s The Difference & How To Choose – BMC Software | Blogs](https://www.bmc.com/blogs/docker-cmd-vs-e}ntrypoint/).
+	- [ ] Commands in a containerized setup are essential instructions that are passed to the operating environment for a desired output. It is of utmost importance to use the right command form for passing instructions in order to:
+	- [ ] CMD
+		- [ ] multiple CMDs are ignored except the last one
+		- [ ] CMD is overrideable
+		- [ ] 
+
+	
+
 - [ ] [Get started with Docker Compose | Docker Documentation](https://docs.docker.com/compose/gettingstarted/)
 	- [ ] [Install Docker Engine on Ubuntu | Docker Documentation](https://docs.docker.com/engine/install/ubuntu/)
 - [ ] [(23) Docker Compose Tutorial - YouTube](https://www.youtube.com/watch?v=HG6yIjZapSA)
@@ -46,3 +72,4 @@
 	- [ ] docker run -itd --name voltest --mount source=myvol,target=/vol alpine
 	- [ ] docker system prune
 	- [ ] 
+	

@@ -1,11 +1,28 @@
 #up/project/uplift project_uplift
 
-[[2022-05-15]] [[2022-05-17]][[2022-05-17]] [[2022-05-18]]
-[[2022-05-22]] [[2022-05-22]][[2022-05-22]] [[2022-05-23]] [[2022-05-23]] [[2022-05-23]] [[2022-05-28]] [[2022-05-28]] [[2022-06-02]]
+[😊#up/project/uplift daily](http://47.111.95.20:6001/user/1/start/%23up%2Fproject%2Fuplift%20daily)
 
-[😊start](http://localhost:6001/user/1/start/%23up%2Fproject%2Fuplift%20project_uplift%0D%0A)
-[[Servers]]
-[[wsl firewall]]
+- [ ] [[Servers]]
+- [ ] [[wsl firewall]]
+
+### [[2022-06-07]]
+- [x] use docker node:16 for development
+- [x] put project to aliyun 
+	- [x] set up production config
+- [ ] fix /user/1/md
+
+### [[2022-06-06]]
+
+- [x] fix missing user_id when redirecting
+
+### [[2022-06-05]]
+- [x] remove date if no bars
+- [x] complete title for running task
+- [x] put bars for the running task under title
+- [ ] stop the task using double click on coutndown
+- [ ] deploy using docker on aliyun
+- [ ] make circle pregressbar reflect task state
+
 
 ### [[2022-06-02]]
 

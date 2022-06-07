@@ -11,6 +11,9 @@
 	- [ ] ncdu
 	- [ ] btop
 	- [ ] ntfy
+- [ ] [Docker CMD vs ENTRYPOINT: What’s The Difference & How To Choose – BMC Software | Blogs](https://www.bmc.com/blogs/docker-cmd-vs-entrypoint/)
+- [ ] [samba configuration shared user home directory](https://programmer.group/samba-configuration-shared-user-home-directory.html)
+
 - [ ] [(159) Why 95% of Self-Taught Programmers Fail (Honest Advice) - YouTube](https://www.youtube.com/watch?v=ueXjGMrmn8k)
 	- [ ] simple schedule
 	- [ ] clarity is king
