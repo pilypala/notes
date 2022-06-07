@@ -1,9 +1,3 @@
----
-sr-due: 2022-04-30
-sr-interval: 1
-sr-ease: 149
----
-
 #japanese
 #up/jp japanese
 

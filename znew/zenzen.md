@@ -1,9 +1,11 @@
 #up/music/electric zenzen
-#music/guitar 
+[😊#up/music/electric zenzen
+](http://47.111.95.20:6001/user/1/start/%23up%2Fmusic%2Felectric%20zenzen%0A)
 
-[[2022-05-07]] [[2022-05-12]]
-[[2022-05-17]] 
 
+50s
 ![[zenzen1.png]]
+46s
+![[zenzen3.png]]
 
 ![[zenzen2.png]]
