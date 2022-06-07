@@ -4,6 +4,13 @@
 # move with a purpose
 
 ## [[2022-06-07]]
+- [ ] [My FAVORITE File Manager - Complete Midnight Commander Tutorial - YouTube](https://www.youtube.com/watch?v=fJOkuaihAek)
+- [ ] [(248) 6 AWESOME Command Line Tools For MAC And LINUX - YouTube](https://www.youtube.com/watch?v=szehPBOwqlI)
+	- [ ] rmlint
+	- [ ] rsync
+	- [ ] ncdu
+	- [ ] btop
+	- [ ] ntfy
 - [ ] [(159) Why 95% of Self-Taught Programmers Fail (Honest Advice) - YouTube](https://www.youtube.com/watch?v=ueXjGMrmn8k)
 	- [ ] simple schedule
 	- [ ] clarity is king
