@@ -6,6 +6,7 @@
 ## [[2022-06-07]]
 
 - [ ] [How Falling Behind Can Get You Ahead | David Epstein | TEDxManchester - YouTube](https://www.youtube.com/watch?v=BQ2_BwqcFsc)
+- [ ] [[git]]
 - [ ] [My FAVORITE File Manager - Complete Midnight Commander Tutorial - YouTube](https://www.youtube.com/watch?v=fJOkuaihAek)
 	- [ ] 
 - [ ] [(248) 6 AWESOME Command Line Tools For MAC And LINUX - YouTube](https://www.youtube.com/watch?v=szehPBOwqlI)
