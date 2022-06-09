@@ -5,11 +5,18 @@
 - [ ] [[Servers]]
 - [ ] [[wsl firewall]]
 
+
+### [[2022-06-09]]
+- [x] circle progress with every minute
+	- [x] changes color for each bar type
+- [ ] when restoring states, don't fetch the ones less than 5 minutes long
+
+
 ### [[2022-06-07]]
 - [x] use docker node:16 for development
 - [x] put project to aliyun 
 	- [x] set up production config
-- [ ] fix /user/1/md
+- [x] fix /user/1/md
 
 ### [[2022-06-06]]
 
