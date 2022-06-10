@@ -1,7 +1,8 @@
-# [[天下武功，为快不破]]
-# 慢工出细活，欲速则不达
-# Life is about timing
-# move with a purpose
+- [ ] # [[天下武功，为快不破]]
+- [ ] # 慢工出细活，欲速则不达
+- [ ] # Life is about timing
+- [ ] # move with a purpose
+- [ ] Simple, simple, simplify stupid!!
 
 ## [[2022-06-07]]
 
