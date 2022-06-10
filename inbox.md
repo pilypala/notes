@@ -4,6 +4,12 @@
 - [ ] # move with a purpose
 - [ ] Simple, simple, simplify stupid!!
 
+## [[2022-06-08]]
+- [ ] [(138) 7 Essential Command Line Tools (2022) - YouTube](https://www.youtube.com/watch?v=2OHrTQVlRMg)
+- [ ] [(39) 【移民访谈】移民的酸甜苦辣咸 - 为何移民小国及融入 | 后悔了吗？给现在想移民的一些建议/忠告 {1} - YouTube](https://www.youtube.com/watch?v=HBorOJsIKuA&t=522s)
+	- [ ] 富人时机最重要
+	- [ ] 时机来自多尝试
+	
 ## [[2022-06-07]]
 
 - [ ] [How Falling Behind Can Get You Ahead | David Epstein | TEDxManchester - YouTube](https://www.youtube.com/watch?v=BQ2_BwqcFsc)
