@@ -16,3 +16,5 @@ ex.5 80bpm
 
 ex.6 薬指を置いてままで
 ![[kyouwaku guitar ex3.png]]
+
+ex.7 

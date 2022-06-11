@@ -7,5 +7,6 @@
 ![[zenzen1.png]]
 46s
 ![[zenzen3.png]]
-
 ![[zenzen2.png]]
+
+38s

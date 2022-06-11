@@ -5,6 +5,9 @@
 - [ ] [[Servers]]
 - [ ] [[wsl firewall]]
 
+### [[2022-06-10]]
+- [ ] put number of done in dates
+- [ ] systray app
 
 ### [[2022-06-09]]
 - [x] circle progress with every minute
