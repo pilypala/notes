@@ -4,6 +4,17 @@
 - [ ] # move with a purpose
 - [ ] Simple, simple, simplify stupid!!
 
+- [ ] [(23) Steve Jobs' Speech Will Leave You SPEECHLESS | One of The Most Eye Opening Motivational Videos Ever - YouTube](https://www.youtube.com/watch?v=0QsNqsgl1Nk)
+- [ ] [(83) 撸猫有风险，当心传染癣 - YouTube](https://www.youtube.com/watch?v=s_TLmoaxVDA)
+- [ ] [(1) How to stop self-sabotaging yourself. (My struggle with self-sabotagers) - YouTube](https://www.youtube.com/watch?v=7t2X-kMhPIA)
+	- [ ] change environment and reinvent yourself
+	- [ ] great minds discuss ideas
+	- [ ] average minds discuss events
+	- [ ] and small minds discuss ppl
+	- [ ] push yourself to fail everyday
+	- [ ] you know what you need to do deep inside
+
+
 
 
 ## [[2022-06-08]]
