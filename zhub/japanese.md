@@ -1,6 +1,7 @@
 #japanese
-#up/jp japanese
+#up/japanese ANNnewsCH
 
+[😊#up/jp ANNnewsCH](http://47.111.95.20:6001/user/1/start/%23up%2Fjp%20ANNnewsCH)
 [[newsinslowjapanese]]
 
 [[jpdrama]]
@@ -8,6 +9,10 @@
 - [ ] [(15) 元整備担当者「沈没時の衝撃か」船底に“穴”　船体を“陸揚げ”乗客家族に公開(2022年6月1日) - YouTube](https://www.youtube.com/watch?v=2l5U0ibWO44) 
 	- [ ] まぢか・間近
 	- [ ] 乗船直前の
+	- [ ] 大事な人を乗せた船を今日初めて間近で見た　
+	- [ ] これがそのLINEのやりとり
+	- [ ] ただその後二人からの連絡は途絶えました
+	- [ ] 六日目、捜査を行いながら、水抜きを終えて、ようやく陸揚げです
 
 知床観光船『KAZU1』の沈没事故で、船体が1日、陸揚げされました。
 

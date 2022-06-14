@@ -4,6 +4,18 @@
 - [ ] # move with a purpose
 - [ ] Simple, simple, simplify stupid!!
 
+## [[2022-06-14]]
+
+## [[2022-06-13]]
+
+- [ ] [天气潮湿易引起哪些皮肤病？需留意这5种皮肤病！ - 家庭医生在线皮肤科频道](https://www.familydoctor.com.cn/pf/a/202005/2600866.html)
+
+- [ ] [(8) 李佳琦直播暗讽89六四被封、王志安语出惊人质疑中共合法性、64竟然是反华势力造出的关键词、反华反共人士质疑中共合法性背后的深层逻辑、王局之高明远胜袁次郎、说一半盖一半，王局故意不说的事我来告诉你 - YouTube](https://www.youtube.com/watch?v=arj31jil3Cc)
+	- [ ] 毛泽东叹了一口气，坐在沙发上开始吸烟，继而又说：’我这个人没有私心，我不想为我的子女谋求什么，我只想中国的老百姓不要受苦受难，他们是想走社会主义道路的，所以我依靠群众，不能让他们再走回头路。‘
+
+
+## [[2022-06-12]]
+
 - [ ] [(23) Steve Jobs' Speech Will Leave You SPEECHLESS | One of The Most Eye Opening Motivational Videos Ever - YouTube](https://www.youtube.com/watch?v=0QsNqsgl1Nk)
 - [ ] [(83) 撸猫有风险，当心传染癣 - YouTube](https://www.youtube.com/watch?v=s_TLmoaxVDA)
 - [ ] [(1) How to stop self-sabotaging yourself. (My struggle with self-sabotagers) - YouTube](https://www.youtube.com/watch?v=7t2X-kMhPIA)
@@ -13,9 +25,6 @@
 	- [ ] and small minds discuss ppl
 	- [ ] push yourself to fail everyday
 	- [ ] you know what you need to do deep inside
-
-
-
 
 ## [[2022-06-08]]
 - [ ] [(138) 7 Essential Command Line Tools (2022) - YouTube](https://www.youtube.com/watch?v=2OHrTQVlRMg)
