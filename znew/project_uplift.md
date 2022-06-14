@@ -5,6 +5,16 @@
 - [ ] [[Servers]]
 - [ ] [[wsl firewall]]
 
+
+
+
+### [[2022-06-12]]
+
+- [ ] [Advanced Installation Instructions | Electron](https://www.electronjs.org/docs/latest/tutorial/installation)
+- [ ] [How to set badge text on tray icon?? · Issue #7322 · electron/electron](https://github.com/electron/electron/issues/7322)
+- [ ] put a week of listing in pane
+	%%- [ ] script to copy produciton db to dev db%% 
+
 ### [[2022-06-10]]
 - [ ] put number of done in dates
 - [ ] systray app
