@@ -2,6 +2,8 @@
 #up/drum rudiments
 [😊#up/drum rudiments](http://47.111.95.20:6001/user/1/start/%23up%2Fdrum%20rudiments)
 
+- [ ] [(61) Single Stroke Roll Speed - Drum Lesson (DRUMEO) - YouTube](https://www.youtube.com/watch?v=8LYWfpPUokc)
+	- [ ] rebound of stick gives rolls
 - [ ] [(7) MASTERING The SINGLE STROKE w/ MATCHED GRIP - YouTube](https://www.youtube.com/watch?v=uRh69W4IQBE)
 
 - [ ] [(132) The Only 3 Rudiments You Need To Know - YouTube](https://www.youtube.com/watch?v=2vuyWk1yStY)
@@ -10,6 +12,16 @@
 	- [ ] single stroke
 	- [ ] double stroke
 	- [ ] single paradiddle
+
+- [ ] [(75) The 4 Hand Techniques Every Drummer MUST KNOW! - YouTube](https://www.youtube.com/watch?v=FstCw876T9M)
+	- [ ] ex to change german grip to french grip
+
+
+- [ ] [(162) Cheap Condos for Sale in Central Pattaya Thailand - YouTube](https://www.youtube.com/watch?v=lGJJkpo88Mc)
+- [ ] 
+
+
+
 - [ ] [(132) How To Play 26 Rudiments (Tutorial by My Drum School) - YouTube](https://www.youtube.com/watch?v=5xK2seFUuyA)
 - [ ] [(132) BEGINNER DRUMMERS: The 5 MUST KNOW Drum Rudiments - YouTube](https://www.youtube.com/watch?v=mfTJjp_ieVg)
 - [ ] [(132) Single Paradiddle - Drum Rudiment Lesson (Drumeo) - YouTube](https://www.youtube.com/watch?v=-imiZIrGwXE)

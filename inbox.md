@@ -4,9 +4,14 @@
 - [ ] # move with a purpose
 - [ ] Simple, simple, simplify stupid!!
 
-## [[2022-06-14]]
+[[2022-06-15]]
+- [ ] [(235) How To Live in Thailand with Passive Income (My Financial Portfolio) - YouTube](https://www.youtube.com/watch?v=USVNQyxiwNc)
+	- [ ] Vanguard Total Stock Market
+	- [ ] blackstone real estate
+	- [ ] financial samura
 
 ## [[2022-06-13]]
+
 
 - [ ] [天气潮湿易引起哪些皮肤病？需留意这5种皮肤病！ - 家庭医生在线皮肤科频道](https://www.familydoctor.com.cn/pf/a/202005/2600866.html)
 
