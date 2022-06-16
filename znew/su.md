@@ -1,0 +1,4 @@
+- [ ] mg.city
+	- [ ] open up google adwords and amazon store
+- [ ] tony
+	- [ ] return the money and ask him like father did
