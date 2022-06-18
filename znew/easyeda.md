@@ -1,0 +1,24 @@
+- [ ] [立创EDA快速入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Q441167nu?spm_id_from=333.337.search-card.all.click)
+	- [ ] user library
+	- [ ] team space
+	- [ ] 工程广场
+	- [ ] a,z,k
+	- [ ] shift-f to add RGB LED
+	- [ ] 1/8 W SMT resistor
+	- [ ] footprint manager 14:30
+	- [ ] 交叉选择shift-x
+	- [ ] ctrl+shift+x布局传递
+	- [ ] 对齐方式
+	- [ ] tab to change track width
+	- [ ] L to change track angle
+	- [ ] 边框设置
+	- [ ] 导入图片
+	- [ ] copper pour
+	- [ ] DRC check
+
+- [ ] [立创EDA专业版快速入门培训！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cS4y167uK?spm_id_from=333.337.search-card.all.click&vd_source=d913ee30cf6a60fb7e6afe06af8ecded)
+	- [ ] sheet template
+	- [ ] shift-f place device
+	- [ ] hot key S
+	- [ ] create multiple pages for schematic
+	- [ ] 

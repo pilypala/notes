@@ -3,15 +3,20 @@
 - [ ] # Life is about timing
 - [ ] # move with a purpose
 - [ ] Simple, simple, simplify stupid!!
+- [ ] Decide the type of person you want to be. Prove it to yourself with small wins. (Location 554)
+- [ ] The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. (Location 1,066)
 
-[[2022-06-15]]
+## [[2022-06-17]]
+- [ ] [嘉立创EDA_搜索_哔哩哔哩-bilibili](https://search.bilibili.com/all?keyword=%E5%98%89%E7%AB%8B%E5%88%9BEDA&from_source=webtop_search&spm_id_from=333.1007)
+- [ ] 
+## [[2022-06-15]]
+
 - [ ] [(235) How To Live in Thailand with Passive Income (My Financial Portfolio) - YouTube](https://www.youtube.com/watch?v=USVNQyxiwNc)
 	- [ ] Vanguard Total Stock Market
 	- [ ] blackstone real estate
 	- [ ] financial samura
 
 ## [[2022-06-13]]
-
 
 - [ ] [天气潮湿易引起哪些皮肤病？需留意这5种皮肤病！ - 家庭医生在线皮肤科频道](https://www.familydoctor.com.cn/pf/a/202005/2600866.html)
 

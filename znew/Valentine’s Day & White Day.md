@@ -1,4 +1,4 @@
-- [Lesson 251 – Valentine’s Day & White Day | News in Slow Japanese](https://newsinslowjapanese.com/2022/03/05/lesson-251-valentines-day-white-day/)
+easyeda- [Lesson 251 – Valentine’s Day & White Day | News in Slow Japanese](https://newsinslowjapanese.com/2022/03/05/lesson-251-valentines-day-white-day/)
 
 2月14日はバレンタインデーです。日本のバレンタインデーは他の国と少し違って、女性が男性にチョコレートをあげる日です。恋人同士であれば、デートに出かけた際に女性からチョコレートと一緒に何か違うものもプレゼントします。
 

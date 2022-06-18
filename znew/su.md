@@ -2,3 +2,4 @@
 	- [ ] open up google adwords and amazon store
 - [ ] tony
 	- [ ] return the money and ask him like father did
+- [ ] [[output 最高学以至用法学习]]
