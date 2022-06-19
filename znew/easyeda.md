@@ -21,4 +21,4 @@
 	- [ ] shift-f place device
 	- [ ] hot key S
 	- [ ] create multiple pages for schematic
-	- [ ] 
+	- [ ] footprint manager
