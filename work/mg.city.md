@@ -6,7 +6,6 @@
 - [ ] mPowerSimple, move it to easyeda
 - [ ] test out mPowerSimple boards
 
-
 - [ ] CN3704
 	- [ ] constant current set by external resistor
 	- [ ] constant voltage charging sets voltages at 16.8V

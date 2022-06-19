@@ -8,7 +8,7 @@
 
 ## [[2022-06-17]]
 - [ ] [嘉立创EDA_搜索_哔哩哔哩-bilibili](https://search.bilibili.com/all?keyword=%E5%98%89%E7%AB%8B%E5%88%9BEDA&from_source=webtop_search&spm_id_from=333.1007)
-- [ ] 
+
 ## [[2022-06-15]]
 
 - [ ] [(235) How To Live in Thailand with Passive Income (My Financial Portfolio) - YouTube](https://www.youtube.com/watch?v=USVNQyxiwNc)

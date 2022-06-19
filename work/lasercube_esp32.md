@@ -1,5 +1,10 @@
 #up/laserOS/hardware lasercube_esp32
+[😊#up/laserOS/hardware lasercube_esp32](http://47.111.95.20:6001/user/1/start/%23up%2FlaserOS%2Fhardware%20lasercube_esp32)
 
+
+## [[2022-06-19]]
+
+[[lasercube 7.5w mainboard issue]]
 
 ### [[2022-06-02]]
 

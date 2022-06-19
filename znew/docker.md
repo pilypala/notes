@@ -3,7 +3,7 @@
 	- [ ] [Docker Build: A Beginner's Guide to Building Docker Images](https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/)
 		- [ ] docker run -p6001:6001 pilypala/uplift/dev
 	- [ ] [Interactive shell using Docker Compose - Stack Overflow](https://stackoverflow.com/questions/36249744/interactive-shell-using-docker-compose)
-		- [ ] docker-compose run --rm servicename
+		- [x] docker-compose run --rm servicename
 
 		
 		
@@ -20,7 +20,6 @@ curl -L https://github.com/docker/compose/releases/download/v2.6.0/docker-compos
 	- [ ] CMD
 		- [ ] multiple CMDs are ignored except the last one
 		- [ ] CMD is overrideable
-		- [ ] 
 
 	
 
