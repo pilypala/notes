@@ -6,6 +6,11 @@
 - [ ] Decide the type of person you want to be. Prove it to yourself with small wins. (Location 554)
 - [ ] The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. (Location 1,066)
 
+## [[2022-06-20]]
+
+- [ ] [ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui)
+- [ ] [(9) BEST WAY to make Desktop Applications in C++ - YouTube](https://www.youtube.com/watch?v=vWXrFetSH8w&t=1397s)
+
 ## [[2022-06-17]]
 - [ ] [嘉立创EDA_搜索_哔哩哔哩-bilibili](https://search.bilibili.com/all?keyword=%E5%98%89%E7%AB%8B%E5%88%9BEDA&from_source=webtop_search&spm_id_from=333.1007)
 
