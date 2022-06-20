@@ -21,6 +21,12 @@ and put it on top - of the second ball.
 
 ----------------------------------
 
+## [[2022-06-20]]
+- [ ] http://192.168.0.99:7001/ewebplayer.html
+- [ ] play mp4 file on mobile web browserexit
+- [ ] [HTML5 Video](https://www.w3.org/2010/05/video/mediaevents.html)
+- [ ] http://192.168.0.99:7001/ewebplayer.html
+
 
 ## [[2022-06-19]]
 - [ ] expressjs docker that shows web page hello work
