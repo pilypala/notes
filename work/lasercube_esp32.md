@@ -10,8 +10,6 @@
 
 SSC53L
 
-[[2022-05-22]]
-
 
 [[2022-05-20]]
 - [ ] [LaserDOCK Hardware: Burn in test program for esp32 wifi cube](https://basecamp.com/1763987/projects/2265763/messages/93663156#comment_858405484)

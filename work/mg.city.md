@@ -32,7 +32,6 @@
 - ![[mp2225 inductor selection.png]]
 	- 9x(18-9)/18/500k/1A = 9*(18-9)/18/500000/1) = 9uH
 - SMAJ20A transient voltage protection
-	- 
 
 
 ## [[2022-04-01]]
