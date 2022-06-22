@@ -1,5 +1,5 @@
 #up/jp shin no suke
-[😊#up/jp shin no suke](http://47.111.95.20:6001/user/1/start/%23up%2Fjp%20shin%20no%20suke)
+[😊#up/jp shin no suke](https://47.111.95.20:6001/user/1/start/%23up%2Fjp%20shin%20no%20suke)
 
 - [ ] こりごり
 - [ ] オタクが来なけりゃもっと繁盛する んですけどね

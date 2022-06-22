@@ -1,6 +1,6 @@
 #up/project/uplift project_uplift
 
-[😊#up/project/uplift daily](http://47.111.95.20:6001/user/1/start/%23up%2Fproject%2Fuplift%20daily)
+[😊#up/project/uplift daily](https://47.111.95.20:6001/user/1/start/%23up%2Fproject%2Fuplift%20daily)
 
 - [ ] [[Servers]]
 - [ ] [[wsl firewall]]
