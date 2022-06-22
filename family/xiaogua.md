@@ -21,6 +21,11 @@ and put it on top - of the second ball.
 
 ----------------------------------
 
+
+## [[2022-06-22]]
+- [ ] [(109) (Reading Practice (Improve your pronunciation in English - YouTube](https://www.youtube.com/watch?v=E0APXrppsP4)
+- [ ] [Learn English through Story 🔥 The Story of the United States - Graded Reader Level 3 | CiaoEL #10 - YouTube](https://www.youtube.com/watch?v=Y1SDLJLN9DY)
+
 ## [[2022-06-20]]
 - [ ] http://192.168.0.99:7001/ewebplayer.html
 - [ ] play mp4 file on mobile web browserexit
