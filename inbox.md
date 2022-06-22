@@ -1,7 +1,7 @@
-- [ ] # [[天下武功，为快不破]]
-- [ ] # 慢工出细活，欲速则不达
-- [ ] # Life is about timing
-- [ ] # move with a purpose
+- [ ] [[天下武功，为快不破]]
+- [ ] 慢工出细活，欲速则不达
+- [ ] Life is about timing
+- [ ] move with a purpose
 - [ ] Simple, simple, simplify stupid!!
 - [ ] Decide the type of person you want to be. Prove it to yourself with small wins. (Location 554)
 - [ ] The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. (Location 1,066)

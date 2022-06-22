@@ -1,4 +1,5 @@
 #up/mg general strategy and utils
+#up/mg mPower design
 
 [😊#up/mg general strategy and utils](http://47.111.95.20:6001/user/1/start/%23up%2Fmg%20general%20strategy%20and%20utils)
 
