@@ -1,19 +1,17 @@
 #up/mg general strategy and utils
 #up/mg mPower design
 
+
+[😊#up/mg mPower design](https://47.111.95.20:6001/user/1/start/%23up%2Fmg%20mPower%20design)
+
 [😊#up/mg general strategy and utils](http://47.111.95.20:6001/user/1/start/%23up%2Fmg%20general%20strategy%20and%20utils)
 
 ## [[2022-06-16]]
 - [ ] mPowerSimple, move it to easyeda
 - [ ] test out mPowerSimple boards
 
-- [ ] CN3704
-	- [ ] constant current set by external resistor
-	- [ ] constant voltage charging sets voltages at 16.8V
-	- [ ] deeply discharged battery, chip charges at 15% of the current set by resistor
-	- [ ] charges finished at current set by external resistor
-	- [ ] when voltage drops below 16v, a new charging cycle begins
-	- [ ] when Vin drops below battery voltage, chip enters sleep mode
+- [ ] [[CN3704]]
+
 ## [[2022-04-06]]
 
 ![[jlc.com.jpg]]
@@ -55,7 +53,7 @@
 	- [[altium create schematic component]]
 	- ![[MP2225 5V-5A reference circuit.png]]
 
-[[孙老师dc-dc5]]
+[[孙老师dc-dc]]
 
 - [一起设计12V转5V模块，开关电源物料怎么选？How to Design 12V to 5V Buck Converter #3: Selection of Materials - YouTube](https://www.youtube.com/watch?v=hwi66PWVf_I)
 	- ![[dc-dc buck converter topology.png]]
