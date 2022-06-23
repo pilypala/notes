@@ -4,7 +4,7 @@
 
 [😊#up/mg mPower design](https://47.111.95.20:6001/user/1/start/%23up%2Fmg%20mPower%20design)
 
-[😊#up/mg general strategy and utils](http://47.111.95.20:6001/user/1/start/%23up%2Fmg%20general%20strategy%20and%20utils)
+[😊#up/mg general strategy and utils](https://47.111.95.20:6001/user/1/start/%23up%2Fmg%20general%20strategy%20and%20utils)
 
 ## [[2022-06-16]]
 - [ ] mPowerSimple, move it to easyeda

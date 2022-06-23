@@ -1,7 +1,7 @@
 #japanese
 #up/jp  
 
-[😊#up/jp ANNnewsCH](http://47.111.95.20:6001/user/1/start/%23up%2Fjp%20ANNnewsCH)
+[😊#up/jp ANNnewsCH](https://47.111.95.20:6001/user/1/start/%23up%2Fjp%20ANNnewsCH)
 [[newsinslowjapanese]]
 
 - [ ] [(157) 香港の名所“巨大水上レストラン”沈没　悪天候で浸水し転覆(2022年6月21日) - YouTube](https://www.youtube.com/watch?v=LjDizZukAuA)

@@ -1,5 +1,5 @@
 #up/music/performance
-[😊#up/music/performance](http://47.111.95.20:6001/user/1/start/%23up%2Fmusic%2Fperformance)
+[😊#up/music/performance](https://47.111.95.20:6001/user/1/start/%23up%2Fmusic%2Fperformance)
 
 - [[彩虹天堂bA]]
 - [[天使75C]]

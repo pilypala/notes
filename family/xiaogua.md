@@ -1,14 +1,14 @@
 #xiaogua/up/project/courses  english web player
-[😊#xiaogua/up/project/courses  english web player](http://47.111.95.20:6001/user/1/start/%23xiaogua%2Fup%2Fproject%2Fcourses%20%20english%20web%20player)
+[😊#xiaogua/up/project/courses  english web player](https://47.111.95.20:6001/user/1/start/%23xiaogua%2Fup%2Fproject%2Fcourses%20%20english%20web%20player)
 
 #xiaogua/up/drum rudiments
-[😊#xiaogua/up/drum rudiments](http://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fdrum%20rudiments)
+[😊#xiaogua/up/drum rudiments](https://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fdrum%20rudiments)
 
 #xiaogua/up/english recitation
-[😊#xiaogua/up/english recitation](http://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fenglish%20recitation)
+[😊#xiaogua/up/english recitation](https://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fenglish%20recitation)
 
 #xiaogua/up/music  piano and ear
-[😊#xiaogua/up/music  piano and ear](http://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fmusic%20%20piano%20and%20ear)
+[😊#xiaogua/up/music  piano and ear](https://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fmusic%20%20piano%20and%20ear)
 
 Then make another smaller ball
 ![[20220414 203315.m4a]]
