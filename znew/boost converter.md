@@ -1,0 +1,4 @@
+- [ ] [(1) How Boost Converters Work (DC-DC Step-Up) - Electronics Intermediate 1 - YouTube](https://www.youtube.com/watch?v=vmNpsofY4-U&t=304s)
+	- [ ] Vo = Vi/(1-D)
+- [ ] [(10) How Boost Converters Work (DC-DC Step-Up) - Electronics Intermediate 1 - YouTube](https://www.youtube.com/watch?v=vmNpsofY4-U&t=304s)
+	- [ ] 
