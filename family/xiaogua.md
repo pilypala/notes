@@ -1,23 +1,13 @@
-#xiaogua/up/project/courses  english web player
-[😊#xiaogua/up/project/courses  english web player](https://47.111.95.20:6001/user/1/start/%23xiaogua%2Fup%2Fproject%2Fcourses%20%20english%20web%20player)
+#xiaogua/up/project/courses
 
 #xiaogua/up/drum rudiments
-[😊#xiaogua/up/drum rudiments](https://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fdrum%20rudiments)
+[😊#xiaogua/up/drum rudiments](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Fdrum%20rudiments)
 
-#xiaogua/up/english recitation
-[😊#xiaogua/up/english recitation](https://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fenglish%20recitation)
+#xiaogua/up/english
+[😊#xiaogua/up/english](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Fenglish)
 
-#xiaogua/up/music  piano and ear
-[😊#xiaogua/up/music  piano and ear](https://47.111.95.20:6001/user/17/start/%23xiaogua%2Fup%2Fmusic%20%20piano%20and%20ear)
-
-Then make another smaller ball
-![[20220414 203315.m4a]]
-and put it on top - of the first snow ball.
-![[20220414 203647.m4a]]
-Next, make an -  even smaller ball - for the head
-![[20220414 203726.m4a]]
-and put it on top - of the second ball.
-![[20220414 203748.m4a]]
+#xiaogua/up/pianoAndEar
+[😊#xiaogua/up/pianoAndEar](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2FpianoAndEar)
 
 ----------------------------------
 

@@ -1,3 +1,8 @@
+
+![[diodes.png]]
+
+- [ ] [Difference between diode, Zener Diode, and Schottky Diode](https://www.etechnophiles.com/difference-diode-zener-diode-schottky-diode/)
+
 1. PANIC (positive is anode, negative is cathode)
 2. general diode -> miliamps to 1A
 3. power diode -> amps and up
@@ -13,3 +18,4 @@
 [# PN Junction Introduction](https://www.youtube.com/watch?v=BHA4teZmwT0)
 1. Bound ions
 2. current happens in conduction band in n, valence band in p
+

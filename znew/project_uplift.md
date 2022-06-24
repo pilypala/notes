@@ -10,8 +10,8 @@
 ----------------------
 
 - [x] fix md trailing brackets
-- [ ] make links to md page with task name
-	- [ ] another text area that generates md link 
+- [x] make links to md page with task name
+	- [x] another text area that generates md link 
 
 
 

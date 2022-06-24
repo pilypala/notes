@@ -1,15 +1,16 @@
-#up/mg general strategy and utils
-#up/mg mPower design
+#up/mg
+[😊#up/mg](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg)
 
 
-[😊#up/mg mPower design](https://47.111.95.20:6001/user/1/start/%23up%2Fmg%20mPower%20design)
+[[2022-06-25]]
+--------------------------------------------------------------------------
+- [ ] [[what is a diode]]
+- [ ] [[smd resistor values]]
 
-[😊#up/mg general strategy and utils](https://47.111.95.20:6001/user/1/start/%23up%2Fmg%20general%20strategy%20and%20utils)
 
 ## [[2022-06-16]]
 - [ ] mPowerSimple, move it to easyeda
 - [ ] test out mPowerSimple boards
-
 - [ ] [[CN3704]]
 
 ## [[2022-04-06]]
