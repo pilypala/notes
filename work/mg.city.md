@@ -4,6 +4,7 @@
 
 [[2022-06-25]]
 --------------------------------------------------------------------------
+- [ ] https://pro.lceda.cn/editor#id=01fbdd07e0054226b5b87194cbeee4b5,tab=*98abec2ddcd846e08f8a6d7b7bea23c1
 - [ ] [[what is a diode]]
 - [ ] [[smd resistor values]]
 
