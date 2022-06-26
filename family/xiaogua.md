@@ -3,6 +3,8 @@
 #xiaogua/up/drum rudiments
 [😊#xiaogua/up/drum rudiments](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Fdrum%20rudiments)
 
+[😊#xiaogua/up/drum djembe](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Fdrum%20djembe)
+
 #xiaogua/up/english
 [😊#xiaogua/up/english](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Fenglish)
 

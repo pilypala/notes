@@ -1,0 +1,4 @@
+- [ ] [(32) The Most Important Djembe Beat - YouTube](https://www.youtube.com/watch?v=eHtoASu1ERg&list=RDOjfqh3rFBPc&index=6)
+	- [ ] straight beat
+- [ ] [(32) How to Buy the Right Djembe - YouTube](https://www.youtube.com/watch?v=c9i6WCbZldw&list=RDOjfqh3rFBPc&index=9)
+- [ ] [(34) lemonking非洲鼓手鼓10寸成人初学者儿童入门丽江专业拍打击乐器 - YouTube](https://www.youtube.com/shorts/7etInz6HEyo)

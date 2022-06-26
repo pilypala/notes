@@ -1,4 +1,7 @@
+#up/music/piano
 [😊#up/music/piano ](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmusic%2Fpiano%20)
+
+
 
 - ![[小冰piano index.png]]
 - 课时 3  Day24 beat柱式和弦伴奏型训练1
@@ -21,3 +24,5 @@
 	- ![[小冰piano14f.png]]
 - 课时 16  Day15C大调常用级数和弦-转位和弦训练
 	- ![[小冰piano15.png]]
+
+![[piano-day17.png]]
