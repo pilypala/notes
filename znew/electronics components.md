@@ -1,0 +1,2 @@
+- [ ] [Potentiometers - A Complete Guide | RS Components](https://uk.rs-online.com/web/generalDisplay.html?id=ideas-and-advice/potentiometers-guide)
+	- [ ] trimmer pot

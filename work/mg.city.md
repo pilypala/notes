@@ -2,6 +2,12 @@
 [😊#up/mg](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg)
 
 
+[[2022-06-29]]
+-------------------------
+- [ ] taobao XL6019E1 adjustable board
+- [ ] [M7 High Voltage Rectifier Diode](https://components101.com/diodes/m7-high-voltage-rectifier-diode#:~:text=The%20M7%20is%20a%20high,supplies%20and%20other%20electronic%20appliances.)
+- [ ] [Potentiometer Symbol and Pinout Diagram(Trim, Rotary)](https://www.etechnophiles.com/potentiometer-symbol-pinout/)
+- [ ] 
 [[2022-06-25]]
 --------------------------------------------------------------------------
 - [ ] https://pro.lceda.cn/editor#id=01fbdd07e0054226b5b87194cbeee4b5,tab=*98abec2ddcd846e08f8a6d7b7bea23c1

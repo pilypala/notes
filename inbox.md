@@ -4,6 +4,8 @@
 
 [[2022-06-28]]
 ---------------------------
+- [ ] [20+ Hilarious Moments Athletes Were Caught on Camera](https://www.sportinal.com/trending/hilarious-moments-athletes-yh/?utm_campaign=VV%3E3%20Athlete%20Fails%20Noa1805%20En%20-%20Display%20WW%20GA&utm_source=AdWords&utm_medium=components101.com&network_code=CM&gclid=CjwKCAjwzeqVBhAoEiwAOrEmzVCMBvdcdJvakPhJQjzEr1EUfc3--Vv4V7HPezixC2vbqrT6bd35ERoCgKcQAvD_BwE)
+- [ ] ![[athlete fails.png]]
 
 [[2022-06-27]]
 ---------------------------
