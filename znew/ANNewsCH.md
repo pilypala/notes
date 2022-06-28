@@ -1,6 +1,13 @@
 #up/jp/ANNewsCH
 [😊#up/jp/ANNewsCH](https://47.111.95.20:6001/user/1/start/%23up%2Fjp%2FANNewsCH%0A)
 
+- [ ] [(1) 円安で家族への仕送り“15％目減り” …苦境に立つ「日本で働く外国人」(2022年6月26日) - YouTube](https://www.youtube.com/watch?v=T53RfN06gQ8)
+	- [ ] 思い思い
+	- [ ] 補う
+	- [ ] 仕入れに関しては苦しくになった
+	- [ ] 束の間
+	- [ ] おきなことなのではないか
+
 - [ ] [元整備担当者「沈没時の衝撃か」船底に“穴”　船体を“陸揚げ”乗客家族に公開（２０２２年６月１日配信『テレビ朝日系（ANN）』） - 障害福祉＆政治・社会・平和問題ニュースサイト](https://gogotamu2019.blog.fc2.com/blog-entry-35197.html)
 - [ ] [(15) 元整備担当者「沈没時の衝撃か」船底に“穴”　船体を“陸揚げ”乗客家族に公開(2022年6月1日) - YouTube](https://www.youtube.com/watch?v=2l5U0ibWO44) 
 	- [ ] まぢか・間近

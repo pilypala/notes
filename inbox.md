@@ -2,6 +2,16 @@
 - [ ] Decide the type of person you want to be. Prove it to yourself with small wins. (Location 554)
 - [ ] The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. (Location 1,066)
 
+
+[[2022-06-27]]
+---------------------------
+- [ ] [這款30年前的游戲，讓我徹底折服于作者的想象力 - YouTube](https://www.youtube.com/watch?v=hImk0rL2rJA)
+
+[[2022-06-26]]
+---------------------------
+- [ ] [(186) Street guitarist plays Wish You Were Here by Pink Floyd - YouTube](https://www.youtube.com/watch?v=RZDyTWGKZwQ)
+- [ ] [(186) Wish You Were Here Guitar Cover Pink Floyd 🎸|Tabs + Chords| - YouTube](https://www.youtube.com/watch?v=o2NaGFteNvY)
+- [ ] 
 [[2022-06-25]]
 ---------------------------
 - [ ] [(5) 他40岁要把全部的钱从上海转到马来西亚，他46岁从澳洲回国又离开 | 移民后真的就回不去中国了么？ - YouTube](https://www.youtube.com/watch?v=IYc2ToizlcE)

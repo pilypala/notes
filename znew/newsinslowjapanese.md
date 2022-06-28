@@ -1,5 +1,19 @@
-[😊#up/jp/newsineasyjapanese 副女将
-](https://47.111.95.20:6001/user/1/start/%23up%2Fjp%2Fnewsineasyjapanese%20%E5%89%AF%E5%A5%B3%E5%B0%86%0A)
+#up/jp/newsineasyjapanese
+
+
+[😊#up/jp/newsineasyjapanese
+](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fjp%2Fnewsineasyjapanese%0A)
+
+- [ ] [Lesson 243 – Sign Language Becomes a Common Language at Starbucks | News in Slow Japanese](https://newsinslowjapanese.com/2021/04/18/lesson-243-sign-language-becomes-a-common-language-at-starbucks/)
+
+昨年の6月に手話が共通語となる日本国内初の『スターバックス　サイニングストアが東京　国立市にオープンしました。
+
+この店舗は、聴者（聴覚に障害がない人）と聴覚に障害のある人の従業員が共に働き、主なコミュニケーション方法は手話を使用しています。
+
+店舗のコンセプトは“Infinite Possibilities”(無限の可能性)聴覚に障害のあるスタッフやお客様にとって、ありのままの自分でいられる場所であり、障害のある若者にとって夢や未来を描ける場所。そしてこの店舗を訪れた誰もが新たな気づきを得られる場所になることを目指しているそうです。
+
+このように、多様な人々が自分らしく過ごし、活躍できる居場所がもっとたくさん増える世の中に変わっていくと良いですね。
+
 
 - [ ] [Lesson 253 – Dutch Woman Becomes Assistant Proprietress of a Ryokan | News in Slow Japanese](https://newsinslowjapanese.com/2022/05/21/lesson-253-dutch-woman-becomes-assistant-proprietress-of-a-ryokan/)
 
