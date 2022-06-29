@@ -1,8 +1,5 @@
-#up/jp/newsineasyjapanese
-
-
-[😊#up/jp/newsineasyjapanese
-](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fjp%2Fnewsineasyjapanese%0A)
+#up/jp/newsinslowjapanese
+[😊#up/jp/newsinslowjapanese](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fjp%2Fnewsinslowjapanese)
 
 - [ ] [Lesson 243 – Sign Language Becomes a Common Language at Starbucks | News in Slow Japanese](https://newsinslowjapanese.com/2021/04/18/lesson-243-sign-language-becomes-a-common-language-at-starbucks/)
 
