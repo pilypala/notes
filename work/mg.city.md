@@ -1,9 +1,20 @@
 #up/mg
 [😊#up/mg](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg)
 
+[[2022-07-01]]
+-------------------------
+- [ ] needs v12 volt power supply for play accoustic  
+	- [ ] charging circuit and DC circuit combined
+	- [ ] maybe 3D print case
+- [ ] weird Vbtt circuit
+	- [ ] [BZX84C8V2 onsemi / Fairchild | Mouser](https://www.mouser.com/ProductDetail/onsemi-Fairchild/BZX84C8V2?qs=SSucg2PyLi5Gt4H3%2F6Pdmw%3D%3D)
+	- [ ] [BC847C - 45 V, 100 mA NPN general-purpose transistors | Nexperia](https://www.nexperia.com/products/bipolar-transistors/general-purpose-and-low-vcesat-bipolar-transistors/single-bipolar-transistors/single-bipolar-transistors-100-v/BC847C.html)
+
 [[2022-06-30]]
 -------------------------
-- [ ] needs 13
+- [ ] needs v12 volt power supply for play accoustic  
+	- [ ] charging circuit and DC circuit combined
+	- [ ] 
 
 
 [[2022-06-29]]
