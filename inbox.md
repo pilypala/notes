@@ -3,23 +3,22 @@
 - [ ] The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. (Location 1,066)
 - [ ] fill your void with work, you will succeed!
 
+## only use patience as constraint and other things resolve around it
 
-[[2022-07-02]]
----------------------------
-``
+---------------------------------------------
+
+## [[2022-07-02]]
 - [ ] [一次性搞懂你要练的11条音阶！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1af4y1f7xo?spm_id_from=333.851.b_7265636f6d6d656e64.2&vd_source=d913ee30cf6a60fb7e6afe06af8ecded)
 
-[[2022-06-28]]
----------------------------
+## [[2022-06-28]]
+
 - [ ] [20+ Hilarious Moments Athletes Were Caught on Camera](https://www.sportinal.com/trending/hilarious-moments-athletes-yh/?utm_campaign=VV%3E3%20Athlete%20Fails%20Noa1805%20En%20-%20Display%20WW%20GA&utm_source=AdWords&utm_medium=components101.com&network_code=CM&gclid=CjwKCAjwzeqVBhAoEiwAOrEmzVCMBvdcdJvakPhJQjzEr1EUfc3--Vv4V7HPezixC2vbqrT6bd35ERoCgKcQAvD_BwE)
 - [ ] ![[athlete fails.png]]
 
-[[2022-06-27]]
----------------------------
+## [[2022-06-27]]
 - [ ] [這款30年前的游戲，讓我徹底折服于作者的想象力 - YouTube](https://www.youtube.com/watch?v=hImk0rL2rJA)
 
-[[2022-06-26]]
----------------------------
+## [[2022-06-26]]
 - [ ] [(186) Street guitarist plays Wish You Were Here by Pink Floyd - YouTube](https://www.youtube.com/watch?v=RZDyTWGKZwQ)
 - [ ] [(186) Wish You Were Here Guitar Cover Pink Floyd 🎸|Tabs + Chords| - YouTube](https://www.youtube.com/watch?v=o2NaGFteNvY)
 

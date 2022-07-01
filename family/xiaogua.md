@@ -11,18 +11,25 @@
 #xiaogua/up/pianoAndEar
 [😊#xiaogua/up/pianoAndEar](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2FpianoAndEar)
 
+[😊#up/project/xiaogua](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fproject%2Fxiaogua)
+
 ----------------------------------
 
+## [[2022-07-02]]
+- [ ] deploy to live server
+	- [ ] swich to /english/1, 2, 3...etc
+	- [ ] git clone
+	- [ ] dc up
 
 ## [[2022-06-22]]
 - [ ] [(109) (Reading Practice (Improve your pronunciation in English - YouTube](https://www.youtube.com/watch?v=E0APXrppsP4)
 - [ ] [Learn English through Story 🔥 The Story of the United States - Graded Reader Level 3 | CiaoEL #10 - YouTube](https://www.youtube.com/watch?v=Y1SDLJLN9DY)
 
 ## [[2022-06-20]]
-- [ ] http://192.168.0.99:7001/ewebplayer.html
-- [ ] play mp4 file on mobile web browserexit
-- [ ] [HTML5 Video](https://www.w3.org/2010/05/video/mediaevents.html)
-- [ ] http://192.168.0.99:7001/ewebplayer.html
+- [x] http://192.168.0.99:7001/ewebplayer.html
+- [x] play mp4 file on mobile web browserexit
+- [x] [HTML5 Video](https://www.w3.org/2010/05/video/mediaevents.html)
+- [x] http://192.168.0.99:7001/ewebplayer.html
 
 
 ## [[2022-06-19]]
