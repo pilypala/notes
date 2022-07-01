@@ -4,6 +4,9 @@
 [😊#up/jp ANNnewsCH](https://47.111.95.20:6001/user/1/start/%23up%2Fjp%20ANNnewsCH)
 [[newsinslowjapanese]]
 
+
+- [ ] [(8) 「1日1億円分」両替所が“円不足”・・・“燃料高騰”で銭湯廃業　「ドクターX」ロケ地も(2022年6月17日) - YouTube](https://www.youtube.com/watch?v=PstEwynwHK0)
+	- [ ] あおりを受けたこと
 - [ ] [(157) 香港の名所“巨大水上レストラン”沈没　悪天候で浸水し転覆(2022年6月21日) - YouTube](https://www.youtube.com/watch?v=LjDizZukAuA)
 
 - [ ] 人質に立てこもっています
