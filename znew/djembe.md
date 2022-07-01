@@ -1,3 +1,6 @@
+#up/music/drum djembe
+- [ ] [😊#up/music/drum djembe](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmusic%2Fdrum%20djembe)
+
 - [ ] [(32) The Most Important Djembe Beat - YouTube](https://www.youtube.com/watch?v=eHtoASu1ERg&list=RDOjfqh3rFBPc&index=6)
 	- [ ] straight beat
 - [ ] [(32) How to Buy the Right Djembe - YouTube](https://www.youtube.com/watch?v=c9i6WCbZldw&list=RDOjfqh3rFBPc&index=9)
