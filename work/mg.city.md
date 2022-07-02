@@ -1,6 +1,23 @@
 #up/mg
 [😊#up/mg](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg)
 
+- [ ] [[electronics components]]
+
+------------------------------------------------
+
+
+## [[2022-07-03]]
+- [x] [😊#up/mg power board with Vbtt and Vin and charging](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg%20power%20board%20with%20Vbtt%20and%20Vin%20and%20charging)
+
+- [ ] needs v12 volt power supply for play accoustic  
+	- [x] charging circuit and DC circuit combined
+	- [ ] maybe 3D print case
+	
+	#### Questions
+	- [ ] thermister NTCS0603E3153JMT
+	- [ ] AO3407A 
+		- [ ] [[mosfet-symbols]]
+
 [[2022-07-01]]
 -------------------------
 - [ ] needs v12 volt power supply for play accoustic  

@@ -17,9 +17,11 @@
 
 ## [[2022-07-02]]
 - [ ] deploy to live server
-	- [ ] swich to /english/1, 2, 3...etc
-	- [ ] git clone
-	- [ ] dc up
+	- [x] swich to /english/1, 2, 3...etc
+	- [x] git clone
+	- [x] dc up
+		- [ ] sudo docker build -t ping:nodemon .
+		- [ ] sudo docker run --rm -it -p 7001:7001 --mount type=bind,source="$(pwd)"/../src,target=/project ping:nodemon
 
 ## [[2022-06-22]]
 - [ ] [(109) (Reading Practice (Improve your pronunciation in English - YouTube](https://www.youtube.com/watch?v=E0APXrppsP4)
