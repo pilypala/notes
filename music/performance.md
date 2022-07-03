@@ -3,6 +3,7 @@
 [😊#up/music/performance
 ](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmusic%2Fperformance%0A)
 
+- [[莉莉安]]
 - [[夜空中最亮的星吉他谱]]
 - [[安和桥bB64]]
 - [[彩虹天堂bA]]
@@ -16,6 +17,8 @@
 - 温柔F65
 - [[桥边姑娘Eb75]]
 ---------------------
+- [ ] [Adele - Someone Like You Lyrics | AZLyrics.com](https://www.azlyrics.com/lyrics/adele/someonelikeyou.html)
+	- [ ] ["Someone Like You" by Adele (Piano Tutorial) - YouTube](https://www.youtube.com/watch?v=VHCa-2lYl8c)
 
 - [[斑马斑马]]
 - 明天你好

@@ -4,8 +4,18 @@
 - [ ] fill your void with work, you will succeed!
 
 ## only use patience as constraint and other things resolve around it
+- [ ] [(2) 為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+) - YouTube](https://www.youtube.com/watch?v=4CaQVNRDPiA)
+	- [ ] ![[training tips.png]]	
+	- [ ] ## fix issues immediately and avoid repeated mistakes
 
 ---------------------------------------------
+
+## [[2022-07-03]]
+- [ ] [The Fastest Way to Learn a New Language: The Solar System Theory - YouTube](https://www.youtube.com/watch?v=95NgtNgmnWA)
+
+## [[2022-07-03]]
+- [ ] [Chinese vs. American Political Philosophy - YouTube](https://www.youtube.com/watch?v=FyFZgIXucsQ)
+
 
 ## [[2022-07-02]]
 - [ ] [一次性搞懂你要练的11条音阶！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1af4y1f7xo?spm_id_from=333.851.b_7265636f6d6d656e64.2&vd_source=d913ee30cf6a60fb7e6afe06af8ecded)
