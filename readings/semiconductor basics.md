@@ -7,7 +7,7 @@ sr-ease: 190
 
 - [[Band Gap and Semiconductor Current Carriers]]
 
-[[mosfet-symbols]] 
+[[mosfet]] 
 
 ### [(13) Working of Transistors | MOSFET - YouTube](https://www.youtube.com/watch?v=stM8dgcY1CA)
 

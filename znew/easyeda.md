@@ -22,3 +22,10 @@
 	- [ ] hot key S
 	- [ ] create multiple pages for schematic
 	- [ ] footprint manager
+	- [ ] PCB
+		- [ ] place > layout
+		- [ ] round corner
+		- [ ] DRC rules
+		- [ ] tab to switch layer when routing
+		- [ ] while  tracking, hold ctrl right click for menu
+		- [ ] ploygon pour icon

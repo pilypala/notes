@@ -16,7 +16,7 @@
 	#### Questions
 	- [ ] thermister NTCS0603E3153JMT
 	- [ ] AO3407A 
-		- [ ] [[mosfet-symbols]]
+		- [ ] [[mosfet]]
 
 [[2022-07-01]]
 -------------------------

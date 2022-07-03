@@ -7,8 +7,12 @@
 - [ ] [(2) 為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+) - YouTube](https://www.youtube.com/watch?v=4CaQVNRDPiA)
 	- [ ] ![[training tips.png]]	
 	- [ ] ## fix issues immediately and avoid repeated mistakes
+	- [ ] 
 
 ---------------------------------------------
+## [[2022-07-04]]
+- [ ] [(86) 超强新段子推翻前浪，全场笑到直不起腰！| 脱口秀大会S4 ROCK&ROAST - YouTube](https://www.youtube.com/watch?v=bqJwL4zpwrw)
+- [ ] [(3) 「超强新人合集」脱口秀黑旋风张灏喆 | 脱口秀大会S4 ROCK&ROAST - YouTube](https://www.youtube.com/watch?v=v_mOiw9ELww)
 
 ## [[2022-07-03]]
 - [ ] [The Fastest Way to Learn a New Language: The Solar System Theory - YouTube](https://www.youtube.com/watch?v=95NgtNgmnWA)
