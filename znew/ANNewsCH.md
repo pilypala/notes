@@ -1,7 +1,7 @@
 #up/jp/ANNewsCH
 [😊#up/jp/ANNewsCH](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fjp%2FANNewsCH)
 
-- [ ] [(1) 円安で家族への仕送り“15％目減り” …苦境に立つ「日本で働く外国人」(2022年6月26日) - YouTube](https://www.youtube.com/watch?v=T53RfN06gQ8)
+- [x] [(1) 円安で家族への仕送り“15％目減り” …苦境に立つ「日本で働く外国人」(2022年6月26日) - YouTube](https://www.youtube.com/watch?v=T53RfN06gQ8)
 	- [ ] 立ち寄り先
 	- [ ] 思い思い
 	- [ ] たりない分はカードで補う

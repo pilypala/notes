@@ -2,6 +2,7 @@
 - [ ] Decide the type of person you want to be. Prove it to yourself with small wins. (Location 554)
 - [ ] The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. (Location 1,066)
 - [ ] fill your void with work, you will succeed!
+- [ ] [The Most Powerful Principle I Have Learned Working As A Programmer | JavaScript in Plain English](https://javascript.plainenglish.io/the-most-powerful-principle-i-have-learned-working-as-a-programmer-f02c9ca1e4f0)
 
 ## only use patience as constraint and other things resolve around it
 - [ ] [(2) 為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+) - YouTube](https://www.youtube.com/watch?v=4CaQVNRDPiA)
