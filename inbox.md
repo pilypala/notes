@@ -36,6 +36,9 @@
 - [ ] [(186) Street guitarist plays Wish You Were Here by Pink Floyd - YouTube](https://www.youtube.com/watch?v=RZDyTWGKZwQ)
 - [ ] [(186) Wish You Were Here Guitar Cover Pink Floyd 🎸|Tabs + Chords| - YouTube](https://www.youtube.com/watch?v=o2NaGFteNvY)
 
+[[2022-06-28]]
+---------------------------
+
 [[2022-06-25]]
 ---------------------------
 - [ ] [(5) 他40岁要把全部的钱从上海转到马来西亚，他46岁从澳洲回国又离开 | 移民后真的就回不去中国了么？ - YouTube](https://www.youtube.com/watch?v=IYc2ToizlcE)

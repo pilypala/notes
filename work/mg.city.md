@@ -13,9 +13,9 @@
 	- [x] charging circuit and DC circuit combined
 	- [ ] maybe 3D print case
 	
-	#### Questions
-	- [ ] thermister NTCS0603E3153JMT
-	- [ ] AO3407A 
+## Questions
+- [ ] thermister NTCS0603E3153JMT
+- [ ] AO3407A 
 		- [ ] [[mosfet]]
 
 [[2022-07-01]]
