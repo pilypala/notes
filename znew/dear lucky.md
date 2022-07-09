@@ -32,5 +32,10 @@ c
 4 5 6m 6m
 4 5 1 6m 4 5
 
+## 后来Eb
+
+1 3m 4-4m 5 6m 3m 2m 5 1
+
+
 
 - [ ] [(106) 這10首木吉他前奏編的真好聽！《稻香》和《擁抱》其實不是用木吉他彈的！《普通朋友》Cm7 和 Cm7b5 有差嗎？feat.Nux Stageman II AC-80｜吉他教學｜【葉宇峻彈吉他】 - YouTube](https://www.youtube.com/watch?v=oGIoOv2oPFU&t=12s)

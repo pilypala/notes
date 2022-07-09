@@ -11,6 +11,11 @@
 	- [ ] 
 
 ---------------------------------------------
+## [[2022-07-09]]
+
+- [ ] [(11) DO NOT rent a condo in 2022 ห้ามเช่าคอนโดในปี 2022 (ซับไทย) | Thailand vlog - YouTube](https://www.youtube.com/watch?v=-OBEu1YnZnQ)
+- [ ] lets go its gonna be a show
+
 ## [[2022-07-04]]
 - [ ] [(86) 超强新段子推翻前浪，全场笑到直不起腰！| 脱口秀大会S4 ROCK&ROAST - YouTube](https://www.youtube.com/watch?v=bqJwL4zpwrw)
 - [ ] [(3) 「超强新人合集」脱口秀黑旋风张灏喆 | 脱口秀大会S4 ROCK&ROAST - YouTube](https://www.youtube.com/watch?v=v_mOiw9ELww)
