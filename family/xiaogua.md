@@ -1,5 +1,8 @@
 #xiaogua/up/project/courses
 
+#xiaogua/up/typing tipp10
+[😊#xiaogua/up/typing tipp10](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Ftyping%20tipp10)
+
 #xiaogua/up/drum rudiments
 [😊#xiaogua/up/drum rudiments](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Fdrum%20rudiments)
 
