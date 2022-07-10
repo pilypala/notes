@@ -1,6 +1,7 @@
 #up/mg
 [😊#up/mg](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg)
 
+
 - [ ] [[electronics components]]
 
 ------------------------------------------------
