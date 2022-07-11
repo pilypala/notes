@@ -11,6 +11,13 @@
 
 
 # 黄金钗
+- [ ] [招商银行的IBAN和SWIFT码是多少？多谢_百度知道](https://zhidao.baidu.com/question/431542410769947244.html)
+
+　收款行信息（招商银行总行）：  
+　　收款行（Beneficiary's Bank）： China Merchants Bank, H.O. Shenzhen, China  
+　　SWIFT CODE：CMBCCNBS  
+　　地址（address）：深圳市深南大道7088号招商银行大厦  
+　　China Merchants Bank Tower NO.7088, Shennan Boulevard, Shenzhen, China
 
 350111195706050665
 支付宝
