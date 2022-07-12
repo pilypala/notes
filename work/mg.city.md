@@ -6,6 +6,13 @@
 
 ------------------------------------------------
 
+## [[2022-07-12]]
+- [ ] [😊#up/mg poweboard production](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg%20poweboard%20production)
+	- [ ] ![[Pasted image 20220712124409.png]]
+
+- [ ] needs v12 volt power supply for play accoustic  
+	- [x] charging circuit and DC circuit combined
+	- [ ] maybe 3D print case
 
 ## [[2022-07-03]]
 - [x] [😊#up/mg power board with Vbtt and Vin and charging](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg%20power%20board%20with%20Vbtt%20and%20Vin%20and%20charging)
