@@ -4,6 +4,7 @@
 - [ ] when in doubt, don't say
 - [ ] when in doubt, do
 - [ ] [The Most Powerful Principle I Have Learned Working As A Programmer | JavaScript in Plain English](https://javascript.plainenglish.io/the-most-powerful-principle-i-have-learned-working-as-a-programmer-f02c9ca1e4f0)
+- [ ] [Street Fighter 2 on Guitar 🎸 | ALL Characters Medley | Funtwo - YouTube](https://www.youtube.com/watch?v=fuddtOJkHI8)``
 
 ## only use patience as constraint and other things resolve around it
 - [ ] [(2) 為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+) - YouTube](https://www.youtube.com/watch?v=4CaQVNRDPiA)

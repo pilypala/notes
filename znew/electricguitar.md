@@ -1,4 +1,7 @@
-#up/music/electric 究极吉他练习册 宫脇俊郎
+- [ ] #up/music/electric 究极吉他练习册 脇俊郎
+- [ ] [[beyond]]
+
+
 
 [😊#up/music/electric ](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmusic%2Felectric%20)
 
