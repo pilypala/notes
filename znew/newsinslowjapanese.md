@@ -3,7 +3,7 @@
 
 [😊#up/jp/newsinslowjapanese](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fjp%2Fnewsinslowjapanese)
 
-- [ ] [Lesson 241 – Demon Slayer | News in Slow Japanese](https://newsinslowjapanese.com/2021/01/22/lesson-241-demon-slayer/)
+- [x] [Lesson 241 – Demon Slayer | News in Slow Japanese](https://newsinslowjapanese.com/2021/01/22/lesson-241-demon-slayer/)
 	- [ ] [😊#up/jp/newsinslowjapanese Demon Slayer](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fjp%2Fnewsinslowjapanese%20Demon%20Slayer)
 
 あらすじ  
@@ -13,7 +13,7 @@
 
 炭治郎は、妹 豆子を人間に戻すため、「鬼滅隊」に入隊します。
 
-- [ ] [Lesson 243 – Sign Language Becomes a Common Language at Starbucks | News in Slow Japanese](https://newsinslowjapanese.com/2021/04/18/lesson-243-sign-language-becomes-a-common-language-at-starbucks/)
+- [x] [Lesson 243 – Sign Language Becomes a Common Language at Starbucks | News in Slow Japanese](https://newsinslowjapanese.com/2021/04/18/lesson-243-sign-language-becomes-a-common-language-at-starbucks/)
 	- [ ] [😊#up/jp/newsinslowjapanese starbucks sign language](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fjp%2Fnewsinslowjapanese%20starbucks%20sign%20language)
 
 昨年の6月に手話が共通語となる日本国内初の『スターバックス　サイニングストアが東京　国立市にオープンしました。

@@ -1,8 +1,10 @@
 #japanese
 #up/jp  
 
-[😊#up/jp ANNnewsCH](https://47.111.95.20:6001/user/1/start/%23up%2Fjp%20ANNnewsCH)
-[[newsinslowjapanese]]
+- [ ] [[satorireader]]
+
+- [ ] [😊#up/jp ANNnewsCH](https://47.111.95.20:6001/user/1/start/%23up%2Fjp%20ANNnewsCH)
+- [ ] [[newsinslowjapanese]]
 
 
 - [ ] [(8) 「1日1億円分」両替所が“円不足”・・・“燃料高騰”で銭湯廃業　「ドクターX」ロケ地も(2022年6月17日) - YouTube](https://www.youtube.com/watch?v=PstEwynwHK0)
