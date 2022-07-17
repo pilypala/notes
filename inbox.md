@@ -17,6 +17,10 @@
 	- [ ] esptool adapter typec needs to be made
 	
 ---------------------------------------------
+
+## [[2022-07-15]]
+- [ ] [Convert all chord in a mesure to C](https://www.psrtutorial.com/forum/index.php?topic=50533.0)
+- [ ] 
 ## [[2022-07-09]]
 
 - [ ] [(11) DO NOT rent a condo in 2022 ห้ามเช่าคอนโดในปี 2022 (ซับไทย) | Thailand vlog - YouTube](https://www.youtube.com/watch?v=-OBEu1YnZnQ)

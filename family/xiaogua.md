@@ -1,4 +1,8 @@
 #xiaogua/up/project/courses
+#xiaogua/up/math
+
+- [ ] [😊#xiaogua/up/math](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Fmath)
+
 
 #xiaogua/up/typing tipp10
 [😊#xiaogua/up/typing tipp10](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2Ftyping%20tipp10)
@@ -16,6 +20,8 @@
 [😊#xiaogua/up/pianoAndEar](https://47.111.95.20:6001/user/17/md?prefill=%23xiaogua%2Fup%2FpianoAndEar)
 
 [😊#up/project/xiaogua](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fproject%2Fxiaogua)
+
+
 
 ----------------------------------
 
