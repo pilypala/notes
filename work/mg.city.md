@@ -1,10 +1,23 @@
 #up/mg
-[😊#up/mg](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg)
-
+- [ ] [😊#up/mg](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg)
+- [ ] [😊#up/mg component purchases and strategy](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg%20component%20purchases%20and%20strategy)
 
 - [ ] [[electronics components]]
 
 ------------------------------------------------
+## [[2022-07-13]]
+- [ ] [交易详情](https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=2756590527182966464)
+- [ ] [交易详情](https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=2756590527182966464)
+- [ ] [交易详情](https://trade.taobao.com/trade/detail/trade_order_detail.htm?biz_order_id=2754921564966966464)
+
+- [ ] SSB44-E3/5BT
+	- [ ] replaced with Slkor(萨科微) SS34 40V 3A 500mV@3A
+- [ ] R0603 10K
+- [ ] R0603 120k
+- [ ] C0603 100nF
+- [ ] C0603 470nF
+- [ ] C1206 10uF
+
 
 ## [[2022-07-12]]
 - [ ] [😊#up/mg poweboard production](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmg%20poweboard%20production)

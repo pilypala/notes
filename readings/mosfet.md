@@ -1,3 +1,8 @@
+
+- [ ] [(2) In a pMOS transistor, what is the voltage of the drain if the gate and source are both 0 V or GND? : ECE](https://www.reddit.com/r/ECE/comments/q3vpbl/in_a_pmos_transistor_what_is_the_voltage_of_the/)
+	- [ ] Transistors are called transistors because it's short for "transconductance resistor". Transconductance means putting a voltage in gets you a current out (Iout/Vin, the opposite of a resistor which is Vout/Iin).
+
+--------------------------------------
 - [x] [(12) MOSFET Structure and Symbols - YouTube](https://www.youtube.com/watch?v=T8mxTQyqVNw)
 	- [ ] Body and source are tied together
 	- [ ] arrows are always on source terminal
