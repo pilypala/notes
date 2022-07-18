@@ -1,4 +1,3 @@
-
 - [ ] #up/wl/pcb
 - [ ] [😊 #up/wl/pcb fixing mainboards](https://47.111.95.20:6001/user/1/md?prefill=%20%23up%2Fwl%2Fpcb%20fixing%20mainboards)
 - [ ] [😊 #up/wl/pcb esp-prog type-c](https://47.111.95.20:6001/user/1/md?prefill=%20%23up%2Fwl%2Fpcb%20esp-prog%20type-c)
@@ -9,7 +8,7 @@
 -------------------------------------
 ## [[2022-07-17]]
 
-- [ ] [(7) How does a BMS (Battery Management System) work? | Passive & Active cell balancing Explained - YouTube](https://www.youtube.com/watch?v=q4wDa_m9-8E)
+
 
 
 ## [[2022-07-12]]
