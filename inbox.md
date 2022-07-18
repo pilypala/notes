@@ -10,6 +10,7 @@
 - [ ] [(2) 為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+) - YouTube](https://www.youtube.com/watch?v=4CaQVNRDPiA)
 	- [ ] ![[training tips.png]]	
 	- [ ] ## fix issues immediately and avoid repeated mistakes
+	- [ ] 
 	
 - [ ] todos
 	- [ ] use fixed position for play bar of englishplaer
@@ -18,9 +19,15 @@
 	
 ---------------------------------------------
 
+## [[2022-07-18]]
+- [ ] [Li-Ion BMS - White Paper - Low voltage cut-off: a false sense of security](http://liionbms.com/php/wp_lovtg_cutoff.php)
+- [ ] [(2) How it works? Protection boards for lithium-ion batteries - YouTube](https://www.youtube.com/watch?v=zavSoXgzhxg)
+- [ ] [(75) MIDI file to Yamaha Style - format conversion using program "midi2style" - Part One - YouTube](https://www.youtube.com/watch?v=XZl1RjD5PEI)
+
+
 ## [[2022-07-15]]
 - [ ] [Convert all chord in a mesure to C](https://www.psrtutorial.com/forum/index.php?topic=50533.0)
-- [ ] 
+
 ## [[2022-07-09]]
 
 - [ ] [(11) DO NOT rent a condo in 2022 ห้ามเช่าคอนโดในปี 2022 (ซับไทย) | Thailand vlog - YouTube](https://www.youtube.com/watch?v=-OBEu1YnZnQ)
@@ -37,8 +44,7 @@
 - [ ] [Chinese vs. American Political Philosophy - YouTube](https://www.youtube.com/watch?v=FyFZgIXucsQ)
 
 
-## [[2022-07-02]]
-- [ ] [一次性搞懂你要练的11条音阶！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1af4y1f7xo?spm_id_from=333.851.b_7265636f6d6d656e64.2&vd_source=d913ee30cf6a60fb7e6afe06af8ecded)
+
 
 ## [[2022-06-28]]
 
