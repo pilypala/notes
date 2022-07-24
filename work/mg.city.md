@@ -14,6 +14,8 @@
 - [ ] STC15F104W
 	- [ ] [stc 15f104W data sheet required - Using Arduino / Microcontrollers - Arduino Forum](https://forum.arduino.cc/t/stc-15f104w-data-sheet-required/454955/3)
 	- [ ] http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC15-English.pdf
+- [ ] circuit that detects 1.4A and shuts off
+- [ ] circuit that detects battery voltage below 12.3V and shuts off
 
 
 ## [[2022-07-21]]
