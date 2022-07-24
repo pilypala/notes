@@ -6,6 +6,14 @@
 - [ ] [[electronics components]]
 
 ------------------------------------------------
+## [[2022-07-25]]
+
+- [ ] needs to stop at max  18V@1.333A or 24W
+- [ ] stop battery discharging below 12.3V
+- [ ] average between 16.8 and12 is 14.4V
+- [ ] 
+
+
 ## [[2022-07-21]]
 - [ ] over power protection >18W
 - [ ] 
