@@ -11,7 +11,9 @@
 - [ ] needs to stop at max  18V@1.333A or 24W
 - [ ] stop battery discharging below 12.3V
 - [ ] average between 16.8 and12 is 14.4V
-- [ ] 
+- [ ] STC15F104W
+	- [ ] [stc 15f104W data sheet required - Using Arduino / Microcontrollers - Arduino Forum](https://forum.arduino.cc/t/stc-15f104w-data-sheet-required/454955/3)
+	- [ ] http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC15-English.pdf
 
 
 ## [[2022-07-21]]
