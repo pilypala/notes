@@ -2,6 +2,9 @@
 	- [ ] [光辉岁月吉他谱_Beyond_C调原版六线谱_吉他弹唱谱_玩吉他](https://www.wanjita.com/jita-3352.html)
 - [ ] [(194) Beyond - 真的爱你 (MV) - YouTube](https://www.youtube.com/watch?v=CtRQVrhg1HY)
 	- [ ] [Beyond《真的爱你》吉他谱_C调吉他弹唱谱_带前奏原版 - 打谱啦](https://www.dapula.com/show/13264.html)
+	- [ ] intro
+		- [ ] 512 2-3 32122
+		- [ ] 
 	- [ ] 哦哦哦
 - [ ] [(197) 不再猶豫 - Beyond - 『超高无损音質』【動態歌詞Lyrics】 - YouTube](https://www.youtube.com/watch?v=CFuJ5UGUlS8)
 	- [ ] [Beyond《不再犹豫》G调吉他谱 - 谱多多](https://puduoduo123.com/43146.html)

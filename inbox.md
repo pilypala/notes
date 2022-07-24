@@ -18,7 +18,12 @@
 	- [ ] esptool adapter typec needs to be made
 	
 ---------------------------------------------
-
+- [ ] [YAMAHA Keyboard - My Software](http://www.jososoft.dk/yamaha/software/software.htm)
+- [ ] [YAMAHA Keyboard - My Articles - Index](http://www.jososoft.dk/yamaha/articles.htm)
+- [ ] [(53) Canon in C - Yamaha PSR SX600 dance style Cover - YouTube](https://www.youtube.com/watch?v=8f3bfpT-zUQ)
+- [ ] [(53) How to play PRELUDE IN C MAJOR by J.S Bach Piano Tutorial + Sheet Music - YouTube](https://www.youtube.com/watch?v=y7RJp9RFlz8)
+- [ ] [(17) 左嵬 - YouTube](https://www.youtube.com/channel/UCscLdp4pTMi0tpe6UzQwUcg/videos)
+- [ ] 
 ## [[2022-07-18]]
 - [ ] [Li-Ion BMS - White Paper - Low voltage cut-off: a false sense of security](http://liionbms.com/php/wp_lovtg_cutoff.php)
 - [ ] [(2) How it works? Protection boards for lithium-ion batteries - YouTube](https://www.youtube.com/watch?v=zavSoXgzhxg)
