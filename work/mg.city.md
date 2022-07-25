@@ -16,6 +16,11 @@
 	- [ ] http://www.stcmcu.com/datasheet/stc/STC-AD-PDF/STC15-English.pdf
 - [ ] circuit that detects 1.4A and shuts off
 - [ ] circuit that detects battery voltage below 12.3V and shuts off
+- [ ] [Exploring STC 8051 Microcontrollers | Embedded Lab](https://embedded-lab.com/blog/exploring-stc-8051-microcontrollers/)
+- [ ] [STC单片机爱好者](http://www.shendongmcu.com/texts/adc-driver-and-pot/adc-driver-and-pot.htm#_Toc533684530)
+- [ ] [How to Measure Circuit Current with a Shunt Resistor](https://www.deviceplus.com/others/how-to-measure-circuit-current-with-a-shunt-resistor/)
+- [ ] [STC单片机爱好者](http://www.shendongmcu.com/texts/adc-driver-and-pot/adc-driver-and-pot.htm#_Toc533684530)
+- [ ] 
 
 
 ## [[2022-07-21]]
