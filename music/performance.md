@@ -1,5 +1,7 @@
 #up/music/performance
 
+- [ ] [(11) John Denver "Take Me Home, Country Roads" Guitar Lesson - YouTube](https://www.youtube.com/watch?v=7RnjrWQ4D4M&t=367s)
+
 - [ ] [[keyboard peformance]]
 - [ ] [[lanjing]]
 - [ ] [😊#up/music/performance ](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmusic%2Fperformance%0A)
@@ -8,7 +10,7 @@
 - [ ] [一次性搞懂你要练的11条音阶！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1af4y1f7xo?spm_id_from=333.851.b_7265636f6d6d656e64.2&vd_source=d913ee30cf6a60fb7e6afe06af8ecded)
 
 ----------------------------------------------------------------
-
+- [ ] [(22) 老姚吉他教室（54）鼓楼 - YouTube](https://www.youtube.com/watch?v=PkimziQzoVY)
 - [ ] 不将就B
 - [ ] 时光E
 - [ ] 安河桥A

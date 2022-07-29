@@ -1,0 +1,4 @@
+- [ ] #up/reading music
+- [ ] [😊#up/reading music](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Freading%20music)
+- [ ] ![[Pasted image 20220730023221.png]]
+- [ ] ![[Pasted image 20220730025349.png]]

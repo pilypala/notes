@@ -1,5 +1,8 @@
 #up/music/keyboard
 
+- [ ] [(11) The Most Important Exercises For Piano Players 🎹🚨 (Beginner Lesson) - YouTube](https://www.youtube.com/watch?v=PjAiJPxcyV8)
+	- [ ] hanan
+
 - [ ] xiaoxu keyboard
 	- [ ] 真的爱你
 		- [ ] solo2
