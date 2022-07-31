@@ -7,7 +7,7 @@
 - [ ] Part2
 	- [ ] 温柔E
 	- [ ] 听海C#
-	- [ ] Right here waiting, B
+	- [ ] [[Right here waiting]], B
 	- [ ] 彩虹天堂G
 	- [ ] 时光E
 - [ ] Part3

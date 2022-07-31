@@ -1,0 +1,2 @@
+- [ ] ![[John Denver - Take Me Home, Country Roads - Chords.pdf]]
+- [ ] [(27) John Denver "Take Me Home, Country Roads" Guitar Lesson - YouTube](https://www.youtube.com/watch?v=7RnjrWQ4D4M&t=266s)
