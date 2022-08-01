@@ -19,3 +19,16 @@
 - [ ] [(14) 【钢琴】万能左手伴奏模式，学会它再也不愁左手如何伴奏 - YouTube](https://www.youtube.com/watch?v=C50om8wfvVQ)
 - [ ] [(21) 一种左手伴奏织体弹无数首流行歌 - YouTube](https://www.youtube.com/watch?v=y_LrPWG1ckE)
 - [ ] [(22) 还在用所谓的“万能伴奏法”？太LOW了，10分钟教你高逼格伴奏 - YouTube](https://www.youtube.com/watch?v=kUqbz4b5ZDE)
+
+- [ ] keyboard vip class
+	- [ ] 大小七 （属七）
+	- [ ] 半减七（minor flat 5)
+	- [ ] 减七 (minor flat5 flat7)
+	- [ ] 增大七 (major 7 sharp5)
+	- [ ] 小大七（minor maj7)
+	- [ ] add9 D
+	- [ ] add11 F
+	- [ ] add13 A
+	- [ ] maj7 sharp11
+	- [ ] C7 flat13
+	- [ ] C7 flat9
