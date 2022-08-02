@@ -15,3 +15,4 @@
 
 - [ ] [(19) 沒有他就沒有大秦帝國！秦孝公究竟有多牛？再給他20年能一統天下 - YouTube](https://www.youtube.com/watch?v=zWgMyfP0sNg)
 - [ ] [(176) 5 Right Hand Patterns That Turn Beginners Into Pros - YouTube](https://www.youtube.com/watch?v=w3UZHMlWF7U)
+- [ ] [(40) Intros, Outros, & Everything In Between - YouTube](https://www.youtube.com/watch?v=i0BspzaktWM)
