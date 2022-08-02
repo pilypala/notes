@@ -1,6 +1,3 @@
-#book/debugging-css #att 
-
-[[2022-05-04]]
 
 - Ch1
 	- If you need to a bug quickly, you might feel a bit stressed, which could lead you to rush a solution without a clear strategy. ]at could easily result in confusion and time wasted on things that don’t matter.

@@ -13,5 +13,5 @@
 - [ ] [(21) 一种左手伴奏织体弹无数首流行歌 - YouTube](https://www.youtube.com/watch?v=y_LrPWG1ckE)
 - [ ] [(22) 还在用所谓的“万能伴奏法”？太LOW了，10分钟教你高逼格伴奏 - YouTube](https://www.youtube.com/watch?v=kUqbz4b5ZDE)
 
-
+- [ ] [(19) 沒有他就沒有大秦帝國！秦孝公究竟有多牛？再給他20年能一統天下 - YouTube](https://www.youtube.com/watch?v=zWgMyfP0sNg)
 - [ ] [(176) 5 Right Hand Patterns That Turn Beginners Into Pros - YouTube](https://www.youtube.com/watch?v=w3UZHMlWF7U)
