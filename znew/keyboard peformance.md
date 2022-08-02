@@ -1,24 +1,19 @@
 #up/music/keyboard
 
+- [ ] [(2) 為什麼你練琴沒效率？使用這些方法，讓你短時間內就把曲子練好～｜Feat. @NiceChord+ (好和弦+) - YouTube](https://www.youtube.com/watch?v=4CaQVNRDPiA)
+	- [ ] ![[training tips.png]]	
+
+
 - [ ] [(11) The Most Important Exercises For Piano Players 🎹🚨 (Beginner Lesson) - YouTube](https://www.youtube.com/watch?v=PjAiJPxcyV8)
 	- [ ] hanan
 
-- [ ] xiaoxu keyboard
-	- [ ] 真的爱你
-		- [ ] solo2
-		- [ ] 151 3141514131 7176 566
-	- [ ] 不在犹豫
-	- [ ] 光辉岁月
-- [ ] [😊#up/music/keyboard appegio](https://47.111.95.20:6001/user/1/md?prefill=%23up%2Fmusic%2Fkeyboard%20appegio)
+- [ ] [(3) Yamaha PSR-SX900: Styles Medley - YouTube](https://www.youtube.com/watch?v=VkgvAyRgxcc)
+- [ ] [(9) INSPIRING Practice Ideas With ARRANGER KEYBOARD (Yamaha PSR SX900) - YouTube](https://www.youtube.com/watch?v=jr57JplRhn0)
+- [ ] [(16) How to create a new style in Yamaha | drum patterns | Yamaha Style Creation tutorial (Part 2) - YouTube](https://www.youtube.com/watch?v=oEW_pl0QlSM&list=PLTCGzgq0XmvkMZNNnu0bRC2k1AwFjbpe6&index=2)
+- [ ] [(22) What is NTT in Korg | Korg arranger style tutorial (part 8) | (Note Transposition Tables) - YouTube](https://www.youtube.com/watch?v=gT8bA314CCQ&list=PLTCGzgq0XmvkzLKjIMfueyc6Lzj4n2XvL&index=8)
+- [ ] [(22) Style Creator - SFF Edit [CASM] - NTT/NTR [Root Trans, Root Fixed] *** PART 2 *** - YouTube](https://www.youtube.com/watch?v=Gh0-keHru3A)
+- [ ] ![[ntrntt.png]]
 
-- [ ] [(3) The Easiest Piano Lick EVER - YouTube](https://www.youtube.com/watch?v=NFa2CTlgBQg)
-- [ ] [(2) R&B为什么这么好听？教你正确认识R&B曲风，唱好R&B歌曲成为摇摆歌王！ - YouTube](https://www.youtube.com/watch?v=sGThyQXVXiA)
-	- [ ] 可爱女人
-	- [ ] [(5) 陶喆 David Tao - 月亮代表誰的心 Moon Over My Heart (Official 官方完整版MV) - YouTube](https://www.youtube.com/watch?v=-iyyvnzxUnE)
-- [ ] [(2) 如何快速分辨歌曲的风格？10分钟让你学会！你能通过片尾的测试吗？ - YouTube](https://www.youtube.com/watch?v=STZuJbAfr-g&t=22s)
-- [ ] [(14) 【钢琴】万能左手伴奏模式，学会它再也不愁左手如何伴奏 - YouTube](https://www.youtube.com/watch?v=C50om8wfvVQ)
-- [ ] [(21) 一种左手伴奏织体弹无数首流行歌 - YouTube](https://www.youtube.com/watch?v=y_LrPWG1ckE)
-- [ ] [(22) 还在用所谓的“万能伴奏法”？太LOW了，10分钟教你高逼格伴奏 - YouTube](https://www.youtube.com/watch?v=kUqbz4b5ZDE)
 
 - [ ] keyboard vip class
 	- [ ] 大小七 （属七）
